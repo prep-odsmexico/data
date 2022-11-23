@@ -1,44 +1,44 @@
 Objetivo,SDG_GOAL
 Meta,SDG_GOAL
 Indicador,SDG_INDICATOR
-Descripci髇,SDG_SERIES_DESCR
-Fecha de actualizaci髇,META_LAST_UPDATE
-V韓culos con otros objetivos y metas,SDG_RELATED_INDICATORS
+Descripci贸n,SDG_SERIES_DESCR
+Fecha de actualizaci贸n,META_LAST_UPDATE
+V铆nculos con otros objetivos y metas,SDG_RELATED_INDICATORS
 Organismos que custodian los ODS,SDG_CUSTODIAN_AGENCIES
-Organizaci髇 responsable ,CONTACT_ORGANISATION
+Organizaci贸n responsable ,CONTACT_ORGANISATION
 Contacto,CONTACT_NAME
 Departamento del contacto,ORGANISATION_UNIT
 Funciones del contacto,CONTACT_FUNCT
-Tel閒ono,CONTACT_PHONE
+Tel茅fono,CONTACT_PHONE
 email,CONTACT_MAIL
-Definici髇,STAT_CONC_DEF
-Descripci髇 de la unidad de medida,UNIT_MEASURE
+Definici贸n,STAT_CONC_DEF
+Descripci贸n de la unidad de medida,UNIT_MEASURE
 Referencias y clasificaciones,CLASS_SYSTEM
 Fuentes,SOURCE_TYPE
-M閠odos para recopilaci髇 de datos,COLL_METHOD
-Pr髕ima fecha de recopilaci髇,FREQ_COLL
-Fechas previstas de publicaci髇 ,REL_CAL_POLICY
+M茅todos para recopilaci贸n de datos,COLL_METHOD
+Pr贸xima fecha de recopilaci贸n,FREQ_COLL
+Fechas previstas de publicaci贸n ,REL_CAL_POLICY
 Proveedores de datos nacionales y/o internacionales,DATA_SOURCE
-Organizaci髇(es) responsable(s),COMPILING_ORG
+Organizaci贸n(es) responsable(s),COMPILING_ORG
 Reglas,INST_MANDATE
-Prop髎ito y justificaci髇,RATIONALE
+Prop贸sito y justificaci贸n,RATIONALE
 Limitaciones ,REC_USE_LIM
-C醠culo,DATA_COMP
-Descripci髇 del proceso de seguimiento de los resultados ,DATA_VALIDATION
+C谩lculo,DATA_COMP
+Descripci贸n del proceso de seguimiento de los resultados ,DATA_VALIDATION
 Ajustes,ADJUSTMENT
 Imputation,IMPUTATION
 Reg_Agg,REG_AGG
 Metadatos disponibles a nivel mundial ,DOC_METHOD
-Descripci髇 de los sistemas y marcos establecidos ,QUALITY_MGMNT
-Descripci髇 de las pr醕ticas y lineamientos ,QUALITY_ASSURE
-Descripci髇 de la evaluaci髇 general ,QUALITY_ASSMNT
+Descripci贸n de los sistemas y marcos establecidos ,QUALITY_MGMNT
+Descripci贸n de las pr谩cticas y lineamientos ,QUALITY_ASSURE
+Descripci贸n de la evaluaci贸n general ,QUALITY_ASSMNT
 Desgloses,COVERAGE
 Comparabilidad,COMPARABILITY
 Otras descripciones y documentos referentes al indicador,OTHER_DOC
 Nombre del indicador,indicator_name
-C骴igo del indicador,indicator_number
+C贸digo del indicador,indicator_number
 Unidad de medida,computation_units
 Fuente_activa1,source_active_1
-Organizaci髇1,source_organisation_1
+Organizaci贸n1,source_organisation_1
 Url1,source_url_1
 Estatus,reporting_status
