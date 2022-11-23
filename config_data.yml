@@ -57,7 +57,7 @@ inputs:
     # need to change this setting. It is intended for sites where the data needs
     # to be "built" before being processed by sdg-build.
  #   git_data_dir: data
-  - class: InputCSVMeta
+  - class: InputCsvMeta
     # This describes the meta files, relative to the "src_dir" indicated above.
     path_pattern: meta/*-*.csv
     # This specifies whether or not to use Git to calculate the "last updated"
