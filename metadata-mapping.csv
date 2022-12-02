@@ -1,11 +1,11 @@
-Objetivo,sdg_goal
+Objetivo,SDG_GOAL
 Meta,SDG_TARGET
 Indicador,SDG_INDICATOR
 Descripción,SDG_SERIES_DESCR
 Fecha de actualización,META_LAST_UPDATE
 Vínculos con otros objetivos y metas,SDG_RELATED_INDICATORS
 Organismos que custodian los ODS,SDG_CUSTODIAN_AGENCIES
-Organización responsable ,CONTACT_ORGANISATION
+Organización responsable,CONTACT_ORGANISATION
 Contacto,CONTACT_NAME
 Departamento del contacto,ORGANISATION_UNIT
 Funciones del contacto,CONTACT_FUNCT
@@ -17,21 +17,21 @@ Referencias y clasificaciones,CLASS_SYSTEM
 Fuentes,SOURCE_TYPE
 Métodos para recopilación de datos,COLL_METHOD
 Próxima fecha de recopilación,FREQ_COLL
-Fechas previstas de publicación ,REL_CAL_POLICY
+Fechas previstas de publicación,REL_CAL_POLICY
 Proveedores de datos nacionales y/o internacionales,DATA_SOURCE
 Organización(es) responsable(s),COMPILING_ORG
 Reglas,INST_MANDATE
 Propósito y justificación,RATIONALE
-Limitaciones ,REC_USE_LIM
+Limitaciones,REC_USE_LIM
 Cálculo,DATA_COMP
-Descripción del proceso de seguimiento de los resultados ,DATA_VALIDATION
+Descripción del proceso de seguimiento de los resultados,DATA_VALIDATION
 Ajustes,ADJUSTMENT
 Imputation,IMPUTATION
 Reg_Agg,REG_AGG
-Metadatos disponibles a nivel mundial ,DOC_METHOD
-Descripción de los sistemas y marcos establecidos ,QUALITY_MGMNT
-Descripción de las prácticas y lineamientos ,QUALITY_ASSURE
-Descripción de la evaluación general ,QUALITY_ASSMNT
+Metadatos disponibles a nivel mundial,DOC_METHOD
+Descripción de los sistemas y marcos establecidos,QUALITY_MGMNT
+Descripción de las prácticas y lineamientos,QUALITY_ASSURE
+Descripción de la evaluación general,QUALITY_ASSMNT
 Desgloses,COVERAGE
 Comparabilidad,COMPARABILITY
 Otras descripciones y documentos referentes al indicador,OTHER_DOC
