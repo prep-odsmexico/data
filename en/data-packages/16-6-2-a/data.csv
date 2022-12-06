@@ -1,5 +1,5 @@
 Year,Entidad_federativa,Sexo,GeoCode,Value
-2021,Estados Unidos Mexicanos,Total,0,62.61441471
+2021,Estados Unidos Mexicanos,Total a/,0,62.61441471
 2019,Estados Unidos Mexicanos,Total,0,60.33248111
 2017,Estados Unidos Mexicanos,Total,0,66.40743621
 2015,Estados Unidos Mexicanos,Total,0,68.28294711
@@ -14,7 +14,7 @@ Year,Entidad_federativa,Sexo,GeoCode,Value
 2017,Estados Unidos Mexicanos,Hombres,0,66.74826646
 2015,Estados Unidos Mexicanos,Hombres,0,68.17105598
 2013,Estados Unidos Mexicanos,Hombres,0,71.25527004
-2021,Aguascalientes,Total,1,70.69371526
+2021,Aguascalientes,Total a/,1,70.69371526
 2019,Aguascalientes,Total,1,73.45345895
 2017,Aguascalientes,Total,1,68.26324082
 2015,Aguascalientes,Total,1,74.5541855
@@ -29,7 +29,7 @@ Year,Entidad_federativa,Sexo,GeoCode,Value
 2017,Aguascalientes,Hombres,1,68.01632125
 2015,Aguascalientes,Hombres,1,75.6367139
 2013,Aguascalientes,Hombres,1,74.07643534
-2021,Baja California,Total,2,70.37756378
+2021,Baja California,Total a/,2,70.37756378
 2019,Baja California,Total,2,74.28596634
 2017,Baja California,Total,2,75.39276864
 2015,Baja California,Total,2,68.27026452
@@ -44,7 +44,7 @@ Year,Entidad_federativa,Sexo,GeoCode,Value
 2017,Baja California,Hombres,2,76.88448683
 2015,Baja California,Hombres,2,70.34005375
 2013,Baja California,Hombres,2,56.26523265
-2021,Baja California_Sur,Total,3,70.54220851
+2021,Baja California_Sur,Total a/,3,70.54220851
 2019,Baja California_Sur,Total,3,75.61566638
 2017,Baja California_Sur,Total,3,80.01580715
 2015,Baja California_Sur,Total,3,84.84567185
@@ -59,7 +59,7 @@ Year,Entidad_federativa,Sexo,GeoCode,Value
 2017,Baja California_Sur,Hombres,3,78.5684825
 2015,Baja California_Sur,Hombres,3,84.22444572
 2013,Baja California_Sur,Hombres,3,73.39198581
-2021,Campeche,Total,4,71.01213801
+2021,Campeche,Total a/,4,71.01213801
 2019,Campeche,Total,4,71.48889961
 2017,Campeche,Total,4,77.17457704
 2015,Campeche,Total,4,83.10480569
@@ -74,7 +74,7 @@ Year,Entidad_federativa,Sexo,GeoCode,Value
 2017,Campeche,Hombres,4,79.46594394
 2015,Campeche,Hombres,4,77.82798005
 2013,Campeche,Hombres,4,72.29944093
-2021,Coahuila de Zaragoza,Total,5,83.04115749
+2021,Coahuila de Zaragoza,Total a/,5,83.04115749
 2019,Coahuila de Zaragoza,Total,5,58.32220813
 2017,Coahuila de Zaragoza,Total,5,70.97243056
 2015,Coahuila de Zaragoza,Total,5,75.04089422
@@ -89,7 +89,7 @@ Year,Entidad_federativa,Sexo,GeoCode,Value
 2017,Coahuila de Zaragoza,Hombres,5,71.91689571
 2015,Coahuila de Zaragoza,Hombres,5,73.84819254
 2013,Coahuila de Zaragoza,Hombres,5,72.87798383
-2021,Colima,Total,6,72.5714967
+2021,Colima,Total a/,6,72.5714967
 2019,Colima,Total,6,72.92839123
 2017,Colima,Total,6,79.47129982
 2015,Colima,Total,6,77.90754398
@@ -104,7 +104,7 @@ Year,Entidad_federativa,Sexo,GeoCode,Value
 2017,Colima,Hombres,6,78.66859191
 2015,Colima,Hombres,6,80.57000706
 2013,Colima,Hombres,6,79.18822882
-2021,Chiapas,Total,7,46.84347294
+2021,Chiapas,Total a/,7,46.84347294
 2019,Chiapas,Total,7,59.98702027
 2017,Chiapas,Total,7,54.48593875
 2015,Chiapas,Total,7,63.70582859
@@ -119,7 +119,7 @@ Year,Entidad_federativa,Sexo,GeoCode,Value
 2017,Chiapas,Hombres,7,59.09936657
 2015,Chiapas,Hombres,7,62.15887673
 2013,Chiapas,Hombres,7,75.02757619
-2021,Chihuahua,Total,8,80.91269841
+2021,Chihuahua,Total a/,8,80.91269841
 2019,Chihuahua,Total,8,65.26254458
 2017,Chihuahua,Total,8,74.48841164
 2015,Chihuahua,Total,8,77.63284868
@@ -134,7 +134,7 @@ Year,Entidad_federativa,Sexo,GeoCode,Value
 2017,Chihuahua,Hombres,8,74.60952361
 2015,Chihuahua,Hombres,8,77.71192413
 2013,Chihuahua,Hombres,8,80.26237847
-2021,Ciudad de México,Total,9,53.39564033
+2021,Ciudad de México,Total a/,9,53.39564033
 2019,Ciudad de México,Total,9,64.19814228
 2017,Ciudad de México,Total,9,60.62511416
 2015,Ciudad de México,Total,9,59.02859607
@@ -149,7 +149,7 @@ Year,Entidad_federativa,Sexo,GeoCode,Value
 2017,Ciudad de México,Hombres,9,59.37177042
 2015,Ciudad de México,Hombres,9,59.3584487
 2013,Ciudad de México,Hombres,9,68.0078302
-2021,Durango,Total,10,82.78817872
+2021,Durango,Total a/,10,82.78817872
 2019,Durango,Total,10,64.33651302
 2017,Durango,Total,10,67.61879901
 2015,Durango,Total,10,75.62400982
@@ -164,7 +164,7 @@ Year,Entidad_federativa,Sexo,GeoCode,Value
 2017,Durango,Hombres,10,71.51055827
 2015,Durango,Hombres,10,77.2551631
 2013,Durango,Hombres,10,77.46632312
-2021,Guanajuato,Total,11,55.54190794
+2021,Guanajuato,Total a/,11,55.54190794
 2019,Guanajuato,Total,11,54.4311051
 2017,Guanajuato,Total,11,75.08898128
 2015,Guanajuato,Total,11,74.77826837
@@ -179,7 +179,7 @@ Year,Entidad_federativa,Sexo,GeoCode,Value
 2017,Guanajuato,Hombres,11,74.43032222
 2015,Guanajuato,Hombres,11,70.21706576
 2013,Guanajuato,Hombres,11,78.01054206
-2021,Guerrero,Total,12,39.27955775
+2021,Guerrero,Total a/,12,39.27955775
 2019,Guerrero,Total,12,51.93330055
 2017,Guerrero,Total,12,62.72920056
 2015,Guerrero,Total,12,67.58506474
@@ -194,7 +194,7 @@ Year,Entidad_federativa,Sexo,GeoCode,Value
 2017,Guerrero,Hombres,12,63.59399775
 2015,Guerrero,Hombres,12,63.59888309
 2013,Guerrero,Hombres,12,67.25671441
-2021,Hidalgo,Total,13,55.94986545
+2021,Hidalgo,Total a/,13,55.94986545
 2019,Hidalgo,Total,13,61.35267762
 2017,Hidalgo,Total,13,69.4826114
 2015,Hidalgo,Total,13,79.14437539
@@ -209,7 +209,7 @@ Year,Entidad_federativa,Sexo,GeoCode,Value
 2017,Hidalgo,Hombres,13,69.20684039
 2015,Hidalgo,Hombres,13,68.41805017
 2013,Hidalgo,Hombres,13,73.14857758
-2021,Jalisco,Total,14,59.36488187
+2021,Jalisco,Total a/,14,59.36488187
 2019,Jalisco,Total,14,68.35059559
 2017,Jalisco,Total,14,61.87559483
 2015,Jalisco,Total,14,77.58221951
@@ -224,7 +224,7 @@ Year,Entidad_federativa,Sexo,GeoCode,Value
 2017,Jalisco,Hombres,14,67.82416553
 2015,Jalisco,Hombres,14,70.9527058
 2013,Jalisco,Hombres,14,74.01864236
-2021,México,Total,15,66.18025719
+2021,México,Total a/,15,66.18025719
 2019,México,Total,15,47.9328962
 2017,México,Total,15,59.22861936
 2015,México,Total,15,64.24919261
@@ -239,7 +239,7 @@ Year,Entidad_federativa,Sexo,GeoCode,Value
 2017,México,Hombres,15,60.20548714
 2015,México,Hombres,15,65.36917441
 2013,México,Hombres,15,73.77774586
-2021,Michoacán de Ocampo,Total,16,45.7345043
+2021,Michoacán de Ocampo,Total a/,16,45.7345043
 2019,Michoacán de Ocampo,Total,16,39.51511146
 2017,Michoacán de Ocampo,Total,16,47.43480302
 2015,Michoacán de Ocampo,Total,16,57.85916169
@@ -254,7 +254,7 @@ Year,Entidad_federativa,Sexo,GeoCode,Value
 2017,Michoacán de Ocampo,Hombres,16,54.53114511
 2015,Michoacán de Ocampo,Hombres,16,57.51143911
 2013,Michoacán de Ocampo,Hombres,16,59.47417765
-2021,Morelos,Total,17,62.18396458
+2021,Morelos,Total a/,17,62.18396458
 2019,Morelos,Total,17,62.7024037
 2017,Morelos,Total,17,65.56125434
 2015,Morelos,Total,17,62.58089075
@@ -269,7 +269,7 @@ Year,Entidad_federativa,Sexo,GeoCode,Value
 2017,Morelos,Hombres,17,64.96839661
 2015,Morelos,Hombres,17,66.04292875
 2013,Morelos,Hombres,17,65.12608212
-2021,Nayarit,Total,18,73.47695439
+2021,Nayarit,Total a/,18,73.47695439
 2019,Nayarit,Total,18,69.04322767
 2017,Nayarit,Total,18,76.10995472
 2015,Nayarit,Total,18,75.14228227
@@ -284,7 +284,7 @@ Year,Entidad_federativa,Sexo,GeoCode,Value
 2017,Nayarit,Hombres,18,78.23515939
 2015,Nayarit,Hombres,18,74.93975637
 2013,Nayarit,Hombres,18,74.43813872
-2021,Nuevo León,Total,19,76.34583424
+2021,Nuevo León,Total a/,19,76.34583424
 2019,Nuevo León,Total,19,69.86918222
 2017,Nuevo León,Total,19,74.69796729
 2015,Nuevo León,Total,19,67.85161638
@@ -299,7 +299,7 @@ Year,Entidad_federativa,Sexo,GeoCode,Value
 2017,Nuevo León,Hombres,19,73.45941324
 2015,Nuevo León,Hombres,19,75.41391789
 2013,Nuevo León,Hombres,19,72.24346166
-2021,Oaxaca,Total,20,37.574145
+2021,Oaxaca,Total a/,20,37.574145
 2019,Oaxaca,Total,20,45.01047391
 2017,Oaxaca,Total,20,57.31305819
 2015,Oaxaca,Total,20,57.32517598
@@ -314,7 +314,7 @@ Year,Entidad_federativa,Sexo,GeoCode,Value
 2017,Oaxaca,Hombres,20,61.46866311
 2015,Oaxaca,Hombres,20,53.31411238
 2013,Oaxaca,Hombres,20,59.0546925
-2021,Puebla,Total,21,41.60982051
+2021,Puebla,Total a/,21,41.60982051
 2019,Puebla,Total,21,52.10516331
 2017,Puebla,Total,21,70.52178463
 2015,Puebla,Total,21,59.04807108
@@ -329,7 +329,7 @@ Year,Entidad_federativa,Sexo,GeoCode,Value
 2017,Puebla,Hombres,21,66.51718531
 2015,Puebla,Hombres,21,57.43309805
 2013,Puebla,Hombres,21,64.29425169
-2021,Querétaro,Total,22,48.76949587
+2021,Querétaro,Total a/,22,48.76949587
 2019,Querétaro,Total,22,52.51030171
 2017,Querétaro,Total,22,64.018234
 2015,Querétaro,Total,22,65.69216326
@@ -344,7 +344,7 @@ Year,Entidad_federativa,Sexo,GeoCode,Value
 2017,Querétaro,Hombres,22,64.78018828
 2015,Querétaro,Hombres,22,67.9131183
 2013,Querétaro,Hombres,22,56.85433543
-2021,Quintana Roo,Total,23,54.1316895
+2021,Quintana Roo,Total a/,23,54.1316895
 2019,Quintana Roo,Total,23,64.75794689
 2017,Quintana Roo,Total,23,60.31051062
 2015,Quintana Roo,Total,23,78.23919884
@@ -359,7 +359,7 @@ Year,Entidad_federativa,Sexo,GeoCode,Value
 2017,Quintana Roo,Hombres,23,58.27300419
 2015,Quintana Roo,Hombres,23,72.66711497
 2013,Quintana Roo,Hombres,23,66.11411275
-2021,San Luis Potosí,Total,24,47.24251419
+2021,San Luis Potosí,Total a/,24,47.24251419
 2019,San Luis Potosí,Total,24,75.52249284
 2017,San Luis Potosí,Total,24,64.06920166
 2015,San Luis Potosí,Total,24,68.96599068
@@ -374,7 +374,7 @@ Year,Entidad_federativa,Sexo,GeoCode,Value
 2017,San Luis Potosí,Hombres,24,66.97498293
 2015,San Luis Potosí,Hombres,24,66.31377664
 2013,San Luis Potosí,Hombres,24,76.72950473
-2021,Sinaloa,Total,25,71.45753159
+2021,Sinaloa,Total a/,25,71.45753159
 2019,Sinaloa,Total,25,65.94449791
 2017,Sinaloa,Total,25,87.30345601
 2015,Sinaloa,Total,25,77.58952131
@@ -389,7 +389,7 @@ Year,Entidad_federativa,Sexo,GeoCode,Value
 2017,Sinaloa,Hombres,25,84.18352725
 2015,Sinaloa,Hombres,25,75.71900924
 2013,Sinaloa,Hombres,25,74.52944191
-2021,Sonora,Total,26,70.90316379
+2021,Sonora,Total a/,26,70.90316379
 2019,Sonora,Total,26,77.65357118
 2017,Sonora,Total,26,78.59656567
 2015,Sonora,Total,26,77.43887307
@@ -404,7 +404,7 @@ Year,Entidad_federativa,Sexo,GeoCode,Value
 2017,Sonora,Hombres,26,76.34607642
 2015,Sonora,Hombres,26,79.09548381
 2013,Sonora,Hombres,26,71.10908438
-2021,Tabasco,Total,27,52.17512614
+2021,Tabasco,Total a/,27,52.17512614
 2019,Tabasco,Total,27,43.2291122
 2017,Tabasco,Total,27,57.42715705
 2015,Tabasco,Total,27,57.06927217
@@ -419,7 +419,7 @@ Year,Entidad_federativa,Sexo,GeoCode,Value
 2017,Tabasco,Hombres,27,61.34863632
 2015,Tabasco,Hombres,27,52.46689159
 2013,Tabasco,Hombres,27,67.82663634
-2021,Tamaulipas,Total,28,65.46953299
+2021,Tamaulipas,Total a/,28,65.46953299
 2019,Tamaulipas,Total,28,59.61538462
 2017,Tamaulipas,Total,28,68.92954538
 2015,Tamaulipas,Total,28,73.53581568
@@ -434,7 +434,7 @@ Year,Entidad_federativa,Sexo,GeoCode,Value
 2017,Tamaulipas,Hombres,28,70.91474617
 2015,Tamaulipas,Hombres,28,69.32070292
 2013,Tamaulipas,Hombres,28,73.64965184
-2021,Tlaxcala,Total,29,49.65589102
+2021,Tlaxcala,Total a/,29,49.65589102
 2019,Tlaxcala,Total,29,61.71426339
 2017,Tlaxcala,Total,29,56.86861336
 2015,Tlaxcala,Total,29,69.609375
@@ -449,7 +449,7 @@ Year,Entidad_federativa,Sexo,GeoCode,Value
 2017,Tlaxcala,Hombres,29,59.40955666
 2015,Tlaxcala,Hombres,29,65.88469718
 2013,Tlaxcala,Hombres,29,67.32389161
-2021,Veracruz de Ignacio de la Llave,Total,30,51.50141293
+2021,Veracruz de Ignacio de la Llave,Total a/,30,51.50141293
 2019,Veracruz de Ignacio de la Llave,Total,30,68.15545097
 2017,Veracruz de Ignacio de la Llave,Total,30,68.44940381
 2015,Veracruz de Ignacio de la Llave,Total,30,67.67816277
@@ -464,7 +464,7 @@ Year,Entidad_federativa,Sexo,GeoCode,Value
 2017,Veracruz de Ignacio de la Llave,Hombres,30,64.07612372
 2015,Veracruz de Ignacio de la Llave,Hombres,30,72.48979532
 2013,Veracruz de Ignacio de la Llave,Hombres,30,67.52163901
-2021,Yucatán,Total,31,73.22710242
+2021,Yucatán,Total a/,31,73.22710242
 2019,Yucatán,Total,31,79.18300521
 2017,Yucatán,Total,31,78.52917418
 2015,Yucatán,Total,31,73.30497467
@@ -479,7 +479,7 @@ Year,Entidad_federativa,Sexo,GeoCode,Value
 2017,Yucatán,Hombres,31,78.10096255
 2015,Yucatán,Hombres,31,73.30791171
 2013,Yucatán,Hombres,31,77.78604611
-2021,Zacatecas,Total,32,70.69859934
+2021,Zacatecas,Total a/,32,70.69859934
 2019,Zacatecas,Total,32,60.56163732
 2017,Zacatecas,Total,32,65.48750591
 2015,Zacatecas,Total,32,59.25178021

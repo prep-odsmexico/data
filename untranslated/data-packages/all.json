@@ -5216,6 +5216,7 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "Total a/",
                 "Total",
                 "Mujeres",
                 "Hombres",
