@@ -68,8 +68,9 @@ source_active_1: true
 source_organisation_1: 
   <br>Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Calidad e Impacto Gubernamental (ENCIG).
   <br><br>Llamadas
-  <br>a/ Las estimaciones tienen un coeficiente de variación (%) en el rango de [15,30), por lo que su nivel de precisión es clasificado como Moderado.
+  <br>a/ Llamada para desagregación total.
+  <br>b/ Las estimaciones tienen un coeficiente de variación (%) en el rango de [15,30), por lo que su nivel de precisión es clasificado como Moderado.
   <br><br>
-  Periodo 2012, Chiapas, Sexo-Hombres a/
+  Periodo 2013, Chiapas, Sexo-Hombres b/
 source_url_1: " https://www.inegi.org.mx/programas/encig/2021/"
 reporting_status: complete
