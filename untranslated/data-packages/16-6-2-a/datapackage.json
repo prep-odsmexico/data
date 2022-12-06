@@ -62,9 +62,9 @@
             "constraints": {
               "enum": [
                 "Total a/",
-                "Total",
                 "Mujeres",
                 "Hombres",
+                "Total",
                 ""
               ]
             }
