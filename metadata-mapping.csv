@@ -38,7 +38,7 @@ Otras descripciones y documentos referentes al indicador,OTHER_DOC
 Nombre del indicador,indicator_name
 Código del indicador,indicator_number
 Unidad de medida,computation_units
-Estado de informe,reporting_status
 Fuente_activa1,source_active_1
 Organización1,source_organisation_1
 Url1,source_url_1
+Estatus,reporting_status
