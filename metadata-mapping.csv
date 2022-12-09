@@ -41,13 +41,4 @@ Unidad de medida,computation_units
 Estado de informe,reporting_status
 Fuente_activa1,source_active_1
 Organización1,source_organisation_1
-Periodicidad1,source_periodicity_1
-Fuente disponible1,source_earliest_available_1
-Cobertura geográfica de la fuente1,source_geographical_coverage_1
 Url1,source_url_1
-Texto de la url1,source_url_text_1
-Fecha de publicación de la fuente1,source_release_date_1
-Fuente siguiente lanzamiento1,source_next_release_1
-Clasificación estadística de la fuente1,source_statistical_classification_1
-Contacto de la fuente1,source_contact_1
-Otra información de la fuente1,source_other_info_1
