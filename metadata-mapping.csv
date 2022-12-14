@@ -26,8 +26,8 @@ Limitaciones,REC_USE_LIM
 Cálculo,DATA_COMP
 Descripción del proceso de seguimiento de los resultados,DATA_VALIDATION
 Ajustes,ADJUSTMENT
-Imputation,IMPUTATION
-Reg_Agg,REG_AGG
+Tratamiento de los valores perdidos,IMPUTATION
+Agregaciones regionales,REG_AGG
 Metadatos disponibles a nivel mundial,DOC_METHOD
 Descripción de los sistemas y marcos establecidos,QUALITY_MGMNT
 Descripción de las prácticas y lineamientos,QUALITY_ASSURE
@@ -35,11 +35,31 @@ Descripción de la evaluación general,QUALITY_ASSMNT
 Desgloses,COVERAGE
 Comparabilidad,COMPARABILITY
 Otras descripciones y documentos referentes al indicador,OTHER_DOC
+Etiqueta_desglose_compuesto,composite_breakdown_label
+Unidad de medida,computation_units
+Derechos de autor,copyright
+Notas_llamadas,data_footnote
+Datos no estadísticos,data_non_statistical
+Color de aviso,data_notice_class
+título de aviso,data_notice_heading
+Texto de aviso,data_notice_text
+Visualizar mapa,data_show_map
+Pie de página características incrustadas,embedded_feature_footer
+Función incrustada html,embedded_feature_html
+Título de pestaña de la función incrustada,embedded_feature_tab_title
+Título_de_características_incrustadas,embedded_feature_title
+Url_característica_incrustada,embedded_feature_url
+Desagregación apilada grafo,graph_stacked_disaggregation
+Título de la gráfica,graph_title
+Tipo de gráfica,graph_type
 Nombre del indicador,indicator_name
 Código del indicador,indicator_number
-Unidad de medida,computation_units
-Notas_llamadas,data_footnote
+Cobertura geográfica nacional,national_geographical_coverage
+Contenido de página,page_content
+Enlace permanente,permalink
 Estatus,reporting_status
+Orden,sort
+Ser único,standalone
 Fuente_activa1,source_active_1
 Organización1,source_organisation_1
 Periodicidad1,source_periodicity_1
