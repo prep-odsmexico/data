@@ -26,8 +26,8 @@ Limitaciones,
 Cálculo,
 Descripción del proceso de seguimiento de los resultados,
 Ajustes,
-Imputation,
-Reg_Agg,
+Tratamiento de los valores perdidos,
+Agregaciones regionales,
 Metadatos disponibles a nivel mundial,
 Descripción de los sistemas y marcos establecidos,
 Descripción de las prácticas y lineamientos,
@@ -35,11 +35,31 @@ Descripción de la evaluación general,
 Desgloses,
 Comparabilidad,
 Otras descripciones y documentos referentes al indicador,<a href="https://agenda2030.mx/docs/files/csv/zip/1.1.1_es.zip">Datos para el cálculo</a>
+Etiqueta_desglose_compuesto,
+Unidad de medida,Porcentaje
+Derechos de autor,
+Notas_llamadas,"<br>a/ Ejemplo llamada para desagregación total.<br><br>Periodo 2013, Chiapas, Sexo-Hombres.- Las estimaciones tienen un coeficiente de variación (%) en el rango de [15,30), por lo que su nivel de precisión es clasificado como Moderado."
+Datos no estadísticos,false
+Color de aviso,
+título de aviso,
+Texto de aviso,
+Visualizar mapa,false
+Pie de página características incrustadas,
+Función incrustada html,
+Título de pestaña de la función incrustada,
+Título_de_características_incrustadas,
+Url_característica_incrustada,
+Desagregación apilada grafo,
+Título de la gráfica,"Proporción de la población que vive por debajo del umbral de pobreza internacional por sexo, edad, situación laboral y ubicación geográfica (urbana/rural)"
+Tipo de gráfica,line
 Nombre del indicador,"Proporción de la población que vive por debajo del umbral de pobreza internacional por sexo, edad, situación laboral y ubicación geográfica (urbana/rural)"
 Código del indicador,1.1.1
-Unidad de medida,Porcentaje
-Notas_llamadas,"<br>a/ Ejemplo llamada para desagregación total.<br><br>Periodo 2013, Chiapas, Sexo-Hombres.- Las estimaciones tienen un coeficiente de variación (%) en el rango de [15,30), por lo que su nivel de precisión es clasificado como Moderado."
+Cobertura geográfica nacional,
+Contenido de página,
+Enlace permanente,
 Estatus,complete
+Orden,
+Ser único,false
 Fuente_activa1,true
 Organización1,Fuente234
 Periodicidad1,
