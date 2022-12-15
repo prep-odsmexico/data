@@ -7499,24 +7499,22 @@
             "type": "integer"
           },
           {
-            "name": "Grupo",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Sexo",
-                "Grupo_de_edad",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Clasificación",
+            "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
                 "Total",
                 "Hombres",
                 "Mujeres",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Grupo de edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Menores_de_18_años",
                 "De_18_años_o_más",
                 "Entre_12_y_29_años_de_edad",

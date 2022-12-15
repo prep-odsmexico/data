@@ -7526,25 +7526,23 @@
             "title": "Year"
           },
           {
-            "name": "Grupo",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Sexo",
-                "Grupo_de_edad",
-                ""
-              ]
-            },
-            "title": "Grupo"
-          },
-          {
-            "name": "Clasificación",
+            "name": "Sexo",
             "type": "string",
             "constraints": {
               "enum": [
                 "Total",
                 "Hombres",
                 "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Grupo de edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
                 "Menores_de_18_años",
                 "De_18_años_o_más",
                 "Entre_12_y_29_años_de_edad",
@@ -7554,7 +7552,7 @@
                 ""
               ]
             },
-            "title": "Clasificación"
+            "title": "Grupo de edad"
           },
           {
             "name": "Value",
