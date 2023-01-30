@@ -3,12 +3,6 @@ fields:
     type: number
   - name: Year
     type: integer
-  - name : Tipo de servicio
-    type: string
-    constraits:
-      enum:
-        - Satisfacción con el servicio de educación pública obligatoria
-        - Satisfacción con el servicio de educación pública universitaria
   - name: Entidad_federativa
     type: string
     constraints:
@@ -53,3 +47,9 @@ fields:
         - Total a/
         - Hombres
         - Mujeres
+  - name : Tipo de servicio
+    type: string
+    constraits:
+      enum:
+        - Satisfacción con el servicio de educación pública obligatoria
+        - Satisfacción con el servicio de educación pública universitaria
