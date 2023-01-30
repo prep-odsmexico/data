@@ -72,10 +72,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total a/",
+                "Total",
                 "Mujeres",
                 "Hombres",
-                "Total",
+                "Total/",
                 ""
               ]
             }
