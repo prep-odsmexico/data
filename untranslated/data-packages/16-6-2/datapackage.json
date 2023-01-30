@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Series",
+            "name": "Tipo de servicio",
             "type": "string",
             "constraints": {
               "enum": [
