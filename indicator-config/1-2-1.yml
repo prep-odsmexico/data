@@ -7,7 +7,13 @@ data_notice_class: ''
 data_notice_heading: ''
 data_notice_text: ''
 data_show_map: false
-data_start_values: []
+data_start_values: 
+  - field: Entidad federativa
+    value: Estados Unidos Mexicanos
+  - field: Sexo
+    value: Total
+  - field: Grupo de edad
+    value: Menores de 18 años
 embedded_feature_footer: ''
 embedded_feature_html: ''
 embedded_feature_tab_title: ''
