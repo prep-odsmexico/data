@@ -20,6 +20,8 @@ graph_stacked_disaggregation: ''
 graph_title: global_indicators.1-5-1-title
 graph_titles: []
 graph_type: line
+graph_color_set: goal
+graph_color_list: []
 indicator_name: global_indicators.1-5-1-title
 indicator_number: '1.5.1'
 national_geographical_coverage: Número de personas muertas, desaparecidas y afectadas directamente atribuido a desastres por cada 100 000 habitantes
