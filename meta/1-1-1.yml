@@ -116,6 +116,7 @@ graph_stacked_disaggregation: ''
 graph_title: 1.1.1  Proporción de la población que vive por debajo del umbral internacional de la pobreza (1.90 dólares diarios), desglosada por sexo, edad, situación laboral y ubicación geográfica (urbano y rural)
 graph_titles: []
 graph_type: line
+graph_types: []
 indicator_name: 1.1.1  Proporción de la población que vive por debajo del umbral internacional de la pobreza (1.90 dólares diarios), desglosada por sexo, edad, situación laboral y ubicación geográfica (urbano y rural)
 indicator_number: '1.1.1'
 national_geographical_coverage: ''
