@@ -15,7 +15,7 @@
             "type": "integer"
           },
           {
-            "name": "Entidad federativa",
+            "name": "Entidad_federativa",
             "type": "string",
             "constraints": {
               "enum": [
