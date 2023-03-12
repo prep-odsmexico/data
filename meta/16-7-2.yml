@@ -106,7 +106,7 @@ graph_series_breaks: []
 graph_stacked_disaggregation: ''
 graph_title: 16.7.2. Proporción de la población que considera que la adopción de decisiones es inclusiva y participativa
 graph_titles: []
-graph_type: line
+graph_type: bar
 graph_types: []
 indicator_name: 16.7.2. Proporción de la población que considera que la adopción de decisiones es inclusiva y participativa
 indicator_number: 16.7.2
