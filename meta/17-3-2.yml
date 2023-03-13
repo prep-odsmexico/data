@@ -1,5 +1,5 @@
 SDG_GOAL: >-
-  17. Fortalecer los medios de implementación y revitalizar la Alianza Mundial para el Desarrollo Sostenible 
+  Objetivo 17. Fortalecer los medios de implementación y revitalizar la Alianza Mundial para el Desarrollo Sostenible 
 SDG_TARGET: >-
   17.3 Movilizar recursos financieros adicionales de múltiples fuentes para los países en desarrollo
 SDG_INDICATOR: >-
@@ -9,9 +9,7 @@ SDG_SERIES_DESCR: >-
 META_LAST_UPDATE: >-
   25 de noviembre de 2022
 SDG_RELATED_INDICATORS: >-
-
 SDG_CUSTODIAN_AGENCIES: >-
-
 CONTACT_ORGANISATION: >-
   Banco de México (BANXICO), Dirección General de Investigación Económica.
 CONTACT_NAME: >-
@@ -20,67 +18,45 @@ ORGANISATION_UNIT: >-
   
 CONTACT_FUNCT: >-
   Jefe de la Oficina de Servicios No Factoriales
-
 CONTACT_PHONE: >-
   Avenida 5 de Mayo # 2,
   Colonia Centro, C. P. 06059,
   Cuauhtémoc, Cuauhtémoc
   Ciudad de México
   55 52 37 25 99
-
 CONTACT_MAIL: >-
   rleyva@banxico.org.mx
-
 STAT_CONC_DEF: >- 
   División del monto de remesas totales en un trimestre entre el PIB nominal en dólares de México de ese trimestre.
 UNIT_MEASURE: >-
   Porcentaje
-
 CLASS_SYSTEM: >-
-
 SOURCE_TYPE: >-
   Sin referencia
 COLL_METHOD: >-
-
 FREQ_COLL: >-
-
 REL_CAL_POLICY: >-
   24 de febrero de 2023
-
 DATA_SOURCE: >-
   Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Calidad e Impacto Gubernamental (ENCIG).  https://www.inegi.org.mx/programas/encig/2021/
 COMPILING_ORG: >-
-
 INST_MANDATE: >-
-
 RATIONALE: >-
   
 REC_USE_LIM: >-
-
 DATA_COMP: >-
-
 DATA_VALIDATION: >-
   La series estadísticas del indicador y del "PIB Promedio trimestral no anualizado" son preliminares debido al método de estimación, por lo que las series pueden ser modificadas al incorporarse nueva información y, los "Ingresos por remesas" a partir 2022/1.
-
 ADJUSTMENT: >-
-
 IMPUTATION: >-
-
 REG_AGG: >-
-
 DOC_METHOD: >-
-
 QUALITY_MGMNT: >-
-
 QUALITY_ASSURE: >-
-
 QUALITY_ASSMNT: >-
-
 COVERAGE: >-
   1996/I - 2022/III
-
 COMPARABILITY: >-
-
 OTHER_DOC: >-
   <a href="https://agenda2030.mx/docs/files/csv/zip/17.3.2_es.zip">Datos para el cálculo</a>
 composite_breakdown_label: ''

@@ -1,5 +1,5 @@
 SDG_GOAL: >-
-  3. Garantizar una vida sana y promover el bienestar de todos a todas las edades 
+  Objetivo 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades 
 SDG_TARGET: >-
   3.1 De aquí a 2030, reducir la tasa mundial de mortalidad materna a menos de 70 por cada 100,000 nacidos vivos
 SDG_INDICATOR: >-
@@ -9,52 +9,37 @@ SDG_SERIES_DESCR: >-
 META_LAST_UPDATE: >-
   13 de febrero de 2023
 SDG_RELATED_INDICATORS: >-
-
 SDG_CUSTODIAN_AGENCIES: >-
-
 CONTACT_ORGANISATION: >-
   Secretaría de Salud (SS). Dirección General de Información en Salud (DGIS).
 CONTACT_NAME: >-
   Delfino Campos Díaz
 ORGANISATION_UNIT: >-
-
 CONTACT_FUNCT: >-
   Director de Evaluación del Desempeño de los Sistemas de Salud
-
 CONTACT_PHONE: >-
   55 6392 2300, ext. 52681
-
 CONTACT_MAIL: >-
   mgutierrez@coneval.org.mx
-
 STAT_CONC_DEF: >- 
   Este indicador resulta de dividir el número de muertes maternas en un determinado año, entre el total de nacidos vivos en el mismo periodo, multiplicado por 100 mil.
 UNIT_MEASURE: >-
   Defunciones de mujeres por cada 100 mil  nacidos vivos
-
 CLASS_SYSTEM: >-
-
 SOURCE_TYPE: >-
   SALUD. Base de datos del Subsistema de Información sobre Nacimientos. Bases de datos de mortalidad.
 COLL_METHOD: >-
-
 FREQ_COLL: >-
-
 REL_CAL_POLICY: >-
   No definida
-
 DATA_SOURCE: >-
   Secretaría de Salud (SS). Dirección General de Información en Salud (DGIS).
 COMPILING_ORG: >-
-
 INST_MANDATE: >-
-
 RATIONALE: >-
   
 REC_USE_LIM: >-
-
 DATA_COMP: >-
-
 DATA_VALIDATION: >-
   Los datos del periodo 1990-2001 corresponden a razones de mortalidad materna estimadas. Para este periodo, la estimación a nivel nacional se basó en diversos estudios nacionales e internacionales sobre el subregistro de la mortalidad materna, y en datos de la Encuesta Nacional de la Dinámica Demográfica. La estimación para las entidades federativas se calculó respecto a la estimación nacional, tomando en cuenta la distribución porcentual de las muertes maternas observadas, por lo que los datos no consideraron la heterogeneidad del subregistro entre entidades.
   
@@ -69,26 +54,16 @@ DATA_VALIDATION: >-
   La descripción de los códigos de la Clasificación Internacional de Enfermedades 10a rev. (CIE-10) se encuentra disponible en la siguiente dirección http://www.who.int/classifications/apps/icd/icd10online/
   
   Este indicador forma parte del Catálogo Nacional de Indicadores (CNI).
-
 ADJUSTMENT: >-
-
 IMPUTATION: >-
-
 REG_AGG: >-
-
 DOC_METHOD: >-
-
 QUALITY_MGMNT: >-
-
 QUALITY_ASSURE: >-
-
 QUALITY_ASSMNT: >-
-
 COVERAGE: >-
   1990 - 2021
-
 COMPARABILITY: >-
-
 OTHER_DOC: >-
   <a href="https://agenda2030.mx/docs/files/csv/zip/3.1.1_es.zip">Datos para el cálculo</a>
 composite_breakdown_label: ''

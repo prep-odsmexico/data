@@ -1,5 +1,5 @@
 SDG_GOAL: >-
-  16. Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas 
+  Objetivo 16. Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas 
 SDG_TARGET: >-
   16.7. Garantizar la adopción en todos los niveles de decisiones inclusivas, participativas y representativas que respondan a las necesidades
 SDG_INDICATOR: >-
@@ -9,9 +9,7 @@ SDG_SERIES_DESCR: >-
 META_LAST_UPDATE: >-
   01 de septiembre de 2022
 SDG_RELATED_INDICATORS: >-
-
 SDG_CUSTODIAN_AGENCIES: >-
-
 CONTACT_ORGANISATION: >-
   Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Estadísticas de Gobierno, Seguridad Pública y Justicia.
 CONTACT_NAME: >-
@@ -20,64 +18,42 @@ ORGANISATION_UNIT: >-
   INEGI
 CONTACT_FUNCT: >-
   atención a usuarios
-
 CONTACT_PHONE: >-
   Nacional sin costo: 800 111 46 34
   Internacional: (código internacional) + (52)+(449) 910 53 00 Ext. 5301
-
 CONTACT_MAIL: >-
   atencion.usuarios@inegi.org.mx
-
 STAT_CONC_DEF: >- 
   Población de 15 años y más que respondió que está muy de acuerdo o algo de acuerdo con la afirmación “En México, para la toma de decisiones, el gobierno considera las opiniones de las personas como usted”, entre la población de 15 años y más que respondió con algún nivel de acuerdo o desacuerdo (se excluyen las personas que respondieron no saber o no respondieron la pregunta), multiplicada por 100; desagregada por sexo y rango de edad.
 UNIT_MEASURE: >-
   Porcentaje
-
 CLASS_SYSTEM: >-
-
 SOURCE_TYPE: >-
   Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ingresos y Gastos en los Hogares (ENIGH) 2016, 2018 y 2020; con los nuevos factores de expansión construidos con base en el Marco de Muestreo de Viviendas y los resultados del Censo de Población y Vivienda 2020.
 COLL_METHOD: >-
-
 FREQ_COLL: >-
-
 REL_CAL_POLICY: >-
   No determinada
-
 DATA_SOURCE: >-
   Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Calidad e Impacto Gubernamental (ENCIG).  https://www.inegi.org.mx/programas/encig/2021/
 COMPILING_ORG: >-
-
 INST_MANDATE: >-
-
 RATIONALE: >-
   
 REC_USE_LIM: >-
-
 DATA_COMP: >-
-
 DATA_VALIDATION: >-
   Medir la satisfacción con los servicios públicos es el núcleo de un enfoque centrado en la ciudadanía para la prestación de servicios y un importante indicador de resultados del desempeño general del gobierno.
-
 ADJUSTMENT: >-
-
 IMPUTATION: >-
-
 REG_AGG: >-
-
 DOC_METHOD: >-
-
 QUALITY_MGMNT: >-
-
 QUALITY_ASSURE: >-
-
 QUALITY_ASSMNT: >-
-
 COVERAGE: >-
   2020
-
 COMPARABILITY: >-
-
 OTHER_DOC: >-
   <a href="https://agenda2030.mx/docs/files/csv/zip/16.7.2_es.zip">Datos para el cálculo</a>
 composite_breakdown_label: ''
