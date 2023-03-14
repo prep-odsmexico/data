@@ -105,7 +105,7 @@ data_show_map:
   false
 data_start_values:
   - field: Ámbito
-      value: Total
+    value: Total
 embedded_feature_footer:
 
 embedded_feature_html:
