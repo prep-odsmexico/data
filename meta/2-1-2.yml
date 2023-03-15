@@ -124,7 +124,7 @@ graph_title:
 graph_titles:
   - series: Proporción de la población con inseguridad alimentaria moderada o severa, desglosada por sexo y edad
     title: Proporción de la población con inseguridad alimentaria moderada o severa, desglosada por sexo y edad
-    '- series: Proporción de la población con inseguridad alimentaria moderada o severa, por desglose geográfico
+  - series: Proporción de la población con inseguridad alimentaria moderada o severa, por desglose geográfico
     title: Proporción de la población con inseguridad alimentaria moderada o severa, por desglose geográfico
 graph_type:
   line
