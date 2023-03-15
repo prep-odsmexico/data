@@ -111,7 +111,7 @@ embedded_feature_footer:
 embedded_feature_html:
   <html><head></head><body>Prueba de pestaña adiciona</body></html>
 embedded_feature_tab_title:
-  Tab_title
+  Título de la pestaña
 embedded_feature_title:
   Adicional
 embedded_feature_url:
