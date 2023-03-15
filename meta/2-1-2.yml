@@ -154,11 +154,11 @@ tags:
 source_active_1:
   true
 source_organisation_1:
-  Se emplea una escala de seguridad alimentaria basada en una propuesta de Pérez-Escamilla, Melgar-Quiñonez, Nord, Álvarez y Segall-Correa. Esta escala reconoce cuatro posibles niveles de inseguridad alimentaria: inseguridad alimentaria severa, inseguridad alimentaria moderada, inseguridad alimentaria leve y seguridad alimentaria.
+  Se emplea una escala de seguridad alimentaria basada en una propuesta de Pérez-Escamilla, Melgar-Quiñonez, Nord, Álvarez y Segall-Correa. Esta escala reconoce cuatro posibles niveles de inseguridad alimentaria inseguridad alimentaria severa, inseguridad alimentaria moderada, inseguridad alimentaria leve y seguridad alimentaria.
   
-  Para mayor detalle consultar:
+  Para mayor detalle consultar
   La Metodología para la medición multidimensional de la pobreza en México.
-  Datos de CONEVAL sobre acceso a la alimentación: http://www.coneval.gob.mx/Medicion/Paginas/PobrezaInicio.aspx
+  Datos de CONEVAL sobre acceso a la alimentación http://www.coneval.gob.mx/Medicion/Paginas/PobrezaInicio.aspx
 source_periodicity_1:
   Bienal
 source_geographical_coverage_1:
