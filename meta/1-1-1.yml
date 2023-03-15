@@ -109,13 +109,13 @@ data_start_values:
 embedded_feature_footer:
   ''
 embedded_feature_html:
-  ''
+  <html><head></head><body>Prueba de pestaña adiciona</body></html>
 embedded_feature_tab_title:
-  ''
+  Tab_title
 embedded_feature_title:
   Adicional
 embedded_feature_url:
-  http://www.google.com/?hl=es
+  ''
 expected_disaggregations:
   []
 graph_annotations:
