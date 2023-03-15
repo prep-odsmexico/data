@@ -115,7 +115,7 @@ embedded_feature_tab_title:
 embedded_feature_title:
   ''
 embedded_feature_url:
-  ''
+  https://www.google.com/?hl=es
 expected_disaggregations:
   []
 graph_annotations:
