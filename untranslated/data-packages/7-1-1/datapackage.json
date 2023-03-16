@@ -15,12 +15,25 @@
             "type": "integer"
           },
           {
+            "name": "Año",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2020",
+                "2018",
+                "2016",
+                "2010",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Serie de tiempo",
             "type": "string",
             "constraints": {
               "enum": [
-                "Censo de Población y Vivienda",
                 "Encuesta Nacional de Ingresos y Gastos de los Hogares",
+                "Censo de Población y Vivienda",
                 ""
               ]
             }
@@ -2411,9 +2424,8 @@
             "constraints": {
               "enum": [
                 "Total",
-                "Hombres ",
-                "Mujeres",
                 "Hombres",
+                "Mujeres",
                 ""
               ]
             }
