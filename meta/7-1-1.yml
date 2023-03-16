@@ -101,6 +101,8 @@ data_start_values:
     value: Encuesta Nacional de Ingresos y Gastos de los Hogares
   - field: Entidad federativa
     value: Estados Unidos Mexicanos
+  - field: Sexo
+    value: Total
 embedded_feature_footer:
   ''
 embedded_feature_html:
