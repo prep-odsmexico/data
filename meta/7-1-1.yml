@@ -97,6 +97,8 @@ data_notice_text:
 data_show_map:
   true
 data_start_values:
+  - field: Año
+    value: 2020
   - field: Serie de tiempo
     value: Encuesta Nacional de Ingresos y Gastos de los Hogares
   - field: Entidad federativa
