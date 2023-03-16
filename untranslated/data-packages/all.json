@@ -12960,10 +12960,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total ",
+                "Total",
                 "Hombres ",
                 "Mujeres",
-                "Total",
                 "Hombres",
                 ""
               ]
