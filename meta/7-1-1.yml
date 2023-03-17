@@ -130,9 +130,12 @@ graph_title:
 graph_titles:
   []
 graph_type:
-  line
+  ''
 graph_types:
-  []
+  - serie: Censo de Población y Vivienda
+    type: line
+  - serie: Encuesta Nacional de Ingresos y Gastos de los Hogares
+    type: bar
 indicator_name:
   7.1.1 Proporción de la población que tiene acceso a la electricidad
 indicator_number:
