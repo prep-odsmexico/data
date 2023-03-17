@@ -97,10 +97,8 @@ data_notice_text:
 data_show_map:
   true
 data_start_values:
-  - field: Serie de tiempo
+  - field: Series
     value: Encuesta Nacional de Ingresos y Gastos de los Hogares
-  - field: Year
-    value: '2020'
   - field: Entidad federativa
     value: Estados Unidos Mexicanos
   - field: Sexo
@@ -128,9 +126,12 @@ graph_stacked_disaggregation:
 graph_title:
   7.1.1 Proporción de la población que tiene acceso a la electricidad
 graph_titles:
-  []
+  - series: Censo de Población y Vivienda
+    title: Censo de Población y Vivienda
+  - series: Encuesta Nacional de Ingresos y Gastos de los Hogares
+    title: Encuesta Nacional de Ingresos y Gastos de los Hogares
 graph_type:
-  ''
+  line
 graph_types:
   - serie: Censo de Población y Vivienda
     type: line
