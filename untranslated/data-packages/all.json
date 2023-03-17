@@ -10565,6 +10565,17 @@
             "type": "integer"
           },
           {
+            "name": "Serie de tiempo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Encuesta Nacional de Ingresos y Gastos de los Hogares",
+                "Censo de Población y Vivienda",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Año",
             "type": "string",
             "constraints": {
@@ -10573,17 +10584,6 @@
                 "2018",
                 "2016",
                 "2010",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Serie de tiempo",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Encuesta Nacional de Ingresos y Gastos de los Hogares",
-                "Censo de Población y Vivienda",
                 ""
               ]
             }

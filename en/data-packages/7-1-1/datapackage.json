@@ -16,6 +16,18 @@
             "title": "Year"
           },
           {
+            "name": "Serie de tiempo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Encuesta Nacional de Ingresos y Gastos de los Hogares",
+                "Censo de Población y Vivienda",
+                ""
+              ]
+            },
+            "title": "Serie de tiempo"
+          },
+          {
             "name": "Año",
             "type": "string",
             "constraints": {
@@ -28,18 +40,6 @@
               ]
             },
             "title": "Año"
-          },
-          {
-            "name": "Serie de tiempo",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Encuesta Nacional de Ingresos y Gastos de los Hogares",
-                "Censo de Población y Vivienda",
-                ""
-              ]
-            },
-            "title": "Serie de tiempo"
           },
           {
             "name": "Entidad federativa",

@@ -1,6 +1,6 @@
 From,To
-Año,Serie de tiempo
-Serie de tiempo,Entidad federativa
+Serie de tiempo,Año
+Año,Entidad federativa
 Entidad federativa,Municipios
 Entidad federativa,Sexo
 Entidad federativa,Poblaciones
