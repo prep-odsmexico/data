@@ -26,19 +26,6 @@
             }
           },
           {
-            "name": "Año",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "2020",
-                "2010",
-                "2018",
-                "2016",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Entidad federativa",
             "type": "string",
             "constraints": {
