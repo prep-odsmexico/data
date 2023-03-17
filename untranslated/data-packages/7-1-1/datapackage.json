@@ -19,8 +19,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Encuesta Nacional de Ingresos y Gastos de los Hogares",
                 "Censo de Población y Vivienda",
+                "Encuesta Nacional de Ingresos y Gastos de los Hogares",
                 ""
               ]
             }
@@ -31,9 +31,9 @@
             "constraints": {
               "enum": [
                 "2020",
+                "2010",
                 "2018",
                 "2016",
-                "2010",
                 ""
               ]
             }
