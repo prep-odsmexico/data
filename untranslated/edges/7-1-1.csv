@@ -1,4 +1,3 @@
 From,To
-Entidad federativa,Municipios
-Entidad federativa,Sexo
-Entidad federativa,Poblaciones
+Entidad federativa,Sexo-Poblaciones
+Sexo-Poblaciones,Municipios

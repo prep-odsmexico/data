@@ -12956,22 +12956,13 @@
             }
           },
           {
-            "name": "Sexo",
+            "name": "Sexo-Poblaciones",
             "type": "string",
             "constraints": {
               "enum": [
                 "Total",
                 "Hombres",
                 "Mujeres",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Poblaciones",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "Hablantes de lengua indigena",
                 "Discapacidad",
                 "Afromexicana o afrodescendiente",

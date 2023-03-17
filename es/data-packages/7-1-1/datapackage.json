@@ -2410,23 +2410,13 @@
             "title": "Municipios"
           },
           {
-            "name": "Sexo",
+            "name": "Sexo-Poblaciones",
             "type": "string",
             "constraints": {
               "enum": [
                 "Total",
                 "Hombres",
                 "Mujeres",
-                ""
-              ]
-            },
-            "title": "Sexo"
-          },
-          {
-            "name": "Poblaciones",
-            "type": "string",
-            "constraints": {
-              "enum": [
                 "Hablantes de lengua indigena",
                 "Discapacidad",
                 "Afromexicana o afrodescendiente",
@@ -2434,7 +2424,7 @@
                 ""
               ]
             },
-            "title": "Poblaciones"
+            "title": "Sexo-Poblaciones"
           },
           {
             "name": "GeoCode",
