@@ -131,7 +131,7 @@ graph_titles:
   - series: Encuesta Nacional de Ingresos y Gastos de los Hogares
     title: Encuesta Nacional de Ingresos y Gastos de los Hogares
 graph_type:
-  line
+  ''
 graph_types:
   - serie: Censo de Población y Vivienda
     type: line
