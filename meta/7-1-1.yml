@@ -131,11 +131,11 @@ graph_titles:
   - series: Encuesta Nacional de Ingresos y Gastos de los Hogares
     title: Encuesta Nacional de Ingresos y Gastos de los Hogares
 graph_type:
-  ''
+  line
 graph_types:
-  - serie: Censo de Población y Vivienda
+  - series: Censo de Población y Vivienda
     type: line
-  - serie: Encuesta Nacional de Ingresos y Gastos de los Hogares
+  - series: Encuesta Nacional de Ingresos y Gastos de los Hogares
     type: bar
 indicator_name:
   7.1.1 Proporción de la población que tiene acceso a la electricidad
