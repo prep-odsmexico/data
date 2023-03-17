@@ -10643,7 +10643,7 @@
             "title": "Year"
           },
           {
-            "name": "Serie de tiempo",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
@@ -10652,7 +10652,7 @@
                 ""
               ]
             },
-            "title": "Serie de tiempo"
+            "title": "Series"
           },
           {
             "name": "Entidad federativa",
