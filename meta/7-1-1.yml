@@ -99,7 +99,7 @@ data_show_map:
 data_start_values:
   - field: Serie de tiempo
     value: Encuesta Nacional de Ingresos y Gastos de los Hogares
-  - field: Año
+  - field: Year
     value: '2020'
   - field: Entidad federativa
     value: Estados Unidos Mexicanos
