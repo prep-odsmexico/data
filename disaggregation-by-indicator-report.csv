@@ -1,6 +1,6 @@
 Indicator,Disaggregations,Number of disaggregations
 #1-1-1,Ámbito,1
-#1-2-1,"Entidad federativa, Municipios, Sexo, Grupo de edad",4
+#1-2-1,"Entidad federativa, Sexo, Grupo de edad, Municipios",4
 #1-2-1-a,Desglose_geográfico,1
 #1-2-1-a1,Desglose_geográfico,1
 #1-2-1-a2,"Entidad_federativa, Municipio",2
