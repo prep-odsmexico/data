@@ -79,7 +79,7 @@ computation_units:
 copyright:
   ''
 data_footnote:
-  - Se utilizan los factores de expansión que fueron construidos a partir de la actualización en las estimaciones de población con base en el Marco de Muestreo de Viviendas y los resultados del Censo de Población y Vivienda 2020.<br>  <br>  <sup>1</sup> Horas promedio diarias sin paga o remuneración económica, dedicadas a cuidar y/o atender a integrantes del hogar que sean población infantil, adulta mayor, con enfermedad o discapacidad.				<br>  <sup>2</sup> Horas promedio diarias sin paga, dedicadas a realizar el quehacer del hogar.
+  - Se utilizan los factores de expansión que fueron construidos a partir de la actualización en las estimaciones de población con base en el Marco de Muestreo de Viviendas y los resultados del Censo de Población y Vivienda 2020.<br>  <br>  <sup>1</sup> Horas promedio diarias sin paga o remuneración económica, dedicadas a cuidar y/o atender a integrantes del hogar que sean población infantil, adulta mayor, con enfermedad o discapacidad.<br>  <sup>2</sup> Horas promedio diarias sin paga, dedicadas a realizar el quehacer del hogar.
 data_non_statistical:
   false
 data_notice_class:
