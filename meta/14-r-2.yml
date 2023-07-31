@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Hectáreas¬Hectares
+  Hectáreas
 copyright:
   ''
 data_footnote:
-  1970/1980 Corresponde a las décadas de la toma de fotografías aéreas, insumo para elaborar el mapa Distribución de los manglares en México en 1970 -1980.<br>  La periodicidad quinquenal se dio a partir del año de evaluación 2005. El último dato se publicó en enero de 2021 y corresponde al año 2020.<br>  Los detalles del aumento de superficie en 2020 se encuentran en la publicación abajo mencionada (Velázquez-Salazar et al. 2021).
+  <br>Nota <br>1970/1980 Corresponde a las décadas de la toma de fotografías aéreas, insumo para elaborar el mapa Distribución de los manglares en México en 1970 -1980.<br>  La periodicidad quinquenal se dio a partir del año de evaluación 2005. El último dato se publicó en enero de 2021 y corresponde al año 2020.<br>  Los detalles del aumento de superficie en 2020 se encuentran en la publicación abajo mencionada (Velázquez-Salazar et al. 2021).
 data_non_statistical:
   false
 data_notice_class:

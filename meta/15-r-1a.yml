@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Porcentaje¬Percentage
+  Porcentaje
 copyright:
   ''
 data_footnote:
-  El porcentaje de protección se estimó con base en 1 964 375 km² que incluye la superficie continental, insular y los cuerpos de agua del país.<br>  El número y la superficie de ANP federales en un año particular pueden diferir de las reportadas por la Conanp debido a que se calculan para el indicador con base en el año de decreto de creación.<br>  La fuente original actualizó la información, por lo que hay ajustes en las cifras para varios años.<br>  La superficie de 2020 incluye una reducción en los límites del Área de Protección de Flora y Fauna Médanos de Samalayuca y del Parque Nacional Gogorrón respecto a los valores establecidos en sus decretos de creación, a razón de juicios de amparo.
+  <br>Nota <br>El porcentaje de protección se estimó con base en 1 964 375 km² que incluye la superficie continental, insular y los cuerpos de agua del país.<br>  El número y la superficie de ANP federales en un año particular pueden diferir de las reportadas por la Conanp debido a que se calculan para el indicador con base en el año de decreto de creación.<br>  La fuente original actualizó la información, por lo que hay ajustes en las cifras para varios años.<br>  La superficie de 2020 incluye una reducción en los límites del Área de Protección de Flora y Fauna Médanos de Samalayuca y del Parque Nacional Gogorrón respecto a los valores establecidos en sus decretos de creación, a razón de juicios de amparo.
 data_non_statistical:
   false
 data_notice_class:

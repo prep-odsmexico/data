@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Porcentaje¬Percentage
+  Porcentaje
 copyright:
   ''
 data_footnote:
-  Para el cálculo de este indicador se consideró la edad desglosada del hijo sobreviviente al momento de la entrevista.
+  <br>Nota <br>Para el cálculo de este indicador se consideró la edad desglosada del hijo sobreviviente al momento de la entrevista.
 data_non_statistical:
   false
 data_notice_class:

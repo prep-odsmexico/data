@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Porcentaje¬Percentage
+  Porcentaje
 copyright:
   ''
 data_footnote:
-  El numerador se compone de adultos “Sin sentencia” del CNGSPSPE 2017 al 2020 y CNSIPEE 2020 al 2021; adolescentes “Sin resolución” del CNGSPSPE 2017 al 2018 y con “Medida cautelar de Internamiento preventivo” del CNGSPSPE 2019 al 2020 y CNSIPEE 2020 al 2021; adultos “Procesados” del CNSPEF 2018 al 2019 y “Sin sentencia” del CNSPEF 2020 al 2022.<br>  <br>  El denominador es la suma de los numeradores, más adultos “Con sentencia” que se compone de sentencia definitiva, sentencia no definitiva y sentencia no identificada, en el CNGSPSPE 2017 al 2020, CNSIPEE 2020 al 2021 y del CNSPEF 2018 al 2022; adolescentes “Con resolución” en el CNGSPSPE 2017 al 2018 y adolescentes en “Internamiento”, “Semi - internamiento” o “Internamiento en tiempo libre” que puede ser Definitivo o No definitivo, en el CNGSPSPE 2019 al 2020 y CNSIPEE 2020 al 2021.
+  <br>Nota <br>El numerador se compone de adultos “Sin sentencia” del CNGSPSPE 2017 al 2020 y CNSIPEE 2020 al 2021; adolescentes “Sin resolución” del CNGSPSPE 2017 al 2018 y con “Medida cautelar de Internamiento preventivo” del CNGSPSPE 2019 al 2020 y CNSIPEE 2020 al 2021; adultos “Procesados” del CNSPEF 2018 al 2019 y “Sin sentencia” del CNSPEF 2020 al 2022.<br>  <br>  El denominador es la suma de los numeradores, más adultos “Con sentencia” que se compone de sentencia definitiva, sentencia no definitiva y sentencia no identificada, en el CNGSPSPE 2017 al 2020, CNSIPEE 2020 al 2021 y del CNSPEF 2018 al 2022; adolescentes “Con resolución” en el CNGSPSPE 2017 al 2018 y adolescentes en “Internamiento”, “Semi - internamiento” o “Internamiento en tiempo libre” que puede ser Definitivo o No definitivo, en el CNGSPSPE 2019 al 2020 y CNSIPEE 2020 al 2021.
 data_non_statistical:
   false
 data_notice_class:

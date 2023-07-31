@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Porcentaje¬Percentage
+  Porcentaje
 copyright:
   ''
 data_footnote:
-  Los totales pueden no coincidir debido al redondeo de las cifras
+  <br>Nota <br>Los totales pueden no coincidir debido al redondeo de las cifras
 data_non_statistical:
   false
 data_notice_class:

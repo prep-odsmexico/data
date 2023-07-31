@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Porcentaje¬Percentage
+  Porcentaje
 copyright:
   ''
 data_footnote:
-  1) El porcentaje presentado se calculó tomando en cuenta la suma acumulada de la superficie de los instrumentos dentro de ANP evitando duplicidad en cada año, con respecto a la superficie total de montaña de los tres instrumentos a nivel nacional y finalmente el resultado de la división se multiplicó por 100.<br>  2) Para los años de 1999 a 2006 el indicador sólo considera las AICA presentes en el país, esta es la razón por la que el indicador presenta una disminución marcada en el porcentaje a partir del año 2007.
+  <br>Nota <br>1) El porcentaje presentado se calculó tomando en cuenta la suma acumulada de la superficie de los instrumentos dentro de ANP evitando duplicidad en cada año, con respecto a la superficie total de montaña de los tres instrumentos a nivel nacional y finalmente el resultado de la división se multiplicó por 100.<br>  2) Para los años de 1999 a 2006 el indicador sólo considera las AICA presentes en el país, esta es la razón por la que el indicador presenta una disminución marcada en el porcentaje a partir del año 2007.
 data_non_statistical:
   false
 data_notice_class:

@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Tasa por cada 100 habitantes¬Rate per 100 inhabitants
+  Tasa por cada 100 habitantes
 copyright:
   ''
 data_footnote:
-  La población se estimó trimestralmente con base en las Proyecciones de la Población 2010-2050.
+  <br>Nota <br>La población se estimó trimestralmente con base en las Proyecciones de la Población 2010-2050.
 data_non_statistical:
   false
 data_notice_class:

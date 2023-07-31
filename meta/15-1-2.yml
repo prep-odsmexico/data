@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Porcentaje¬Percentage
+  Porcentaje
 copyright:
   ''
 data_footnote:
-  La fuente realizó una revisión de la serie histórica de la superficie cubierta por áreas naturales protegidas federales marinas, por lo que las cifras no coinciden con las anteriormente reportadas a esta actualización. En el mes de diciembre del año 2016, se incorporaron áreas naturales protegidas con una gran superficie ("Pacífico Mexicano Profundo" 43 millones de ha, entre otras) lo que incrementó considerablemente la superficie en cuestión.
+  <br>Nota <br>La fuente realizó una revisión de la serie histórica de la superficie cubierta por áreas naturales protegidas federales marinas, por lo que las cifras no coinciden con las anteriormente reportadas a esta actualización. En el mes de diciembre del año 2016, se incorporaron áreas naturales protegidas con una gran superficie ("Pacífico Mexicano Profundo" 43 millones de ha, entre otras) lo que incrementó considerablemente la superficie en cuestión.
 data_non_statistical:
   false
 data_notice_class:

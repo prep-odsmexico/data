@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Porcentaje¬Percentage
+  Porcentaje
 copyright:
   ''
 data_footnote:
-  Las estimaciones para el total de la población y para los hombres no se presentan debido a que no cuentan con la calidad estadística requerida.
+  <br>Nota <br>Las estimaciones para el total de la población y para los hombres no se presentan debido a que no cuentan con la calidad estadística requerida.
 data_non_statistical:
   false
 data_notice_class:

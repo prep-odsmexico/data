@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Porcentaje¬Percentage
+  Porcentaje
 copyright:
   ''
 data_footnote:
-  Debido al método de estimación del PIB las series pueden ser modificadas al incorporarse nueva información; Remesas a partir de 2022/1.
+  <br>Nota <br>Debido al método de estimación del PIB las series pueden ser modificadas al incorporarse nueva información; Remesas a partir de 2022/1.
 data_non_statistical:
   false
 data_notice_class:

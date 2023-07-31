@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Hectáreas¬Hectares
+  Hectáreas
 copyright:
   ''
 data_footnote:
-  El cálculo se llevó a cabo a partir de los datos oficiales de la Convención sobre los Humedales RAMSAR por parte del personal de la CONANP presentando el valor acumulado de la superficie en hectáreas, por lo cual los datos que se repiten a través de los años se refieren a que en ese periodo no se designaron Humedales, por tanto la superficie se mantiene constante.
+  <br>Nota <br>El cálculo se llevó a cabo a partir de los datos oficiales de la Convención sobre los Humedales RAMSAR por parte del personal de la CONANP presentando el valor acumulado de la superficie en hectáreas, por lo cual los datos que se repiten a través de los años se refieren a que en ese periodo no se designaron Humedales, por tanto la superficie se mantiene constante.
 data_non_statistical:
   false
 data_notice_class:
