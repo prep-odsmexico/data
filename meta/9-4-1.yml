@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Kilogramos de CO<sub>2</sub>e por dólar¬Kilograms of CO<sub>2</sub>e per dollar
+  Kilogramos de CO<sub>2</sub>e por dólar
 copyright:
   ''
 data_footnote:
-  Los rubros y las cifras históricas del indicador cambiaron, debido a la actualización del Inventario Nacional de Emisiones de Gases y Compuestos de Efecto Invernadero y al año de referencia para el cálculo del PIB a precios constantes expresado en Paridad de Poder de Compra (dólares).
+  <br>Nota <br>Los rubros y las cifras históricas del indicador cambiaron, debido a la actualización del Inventario Nacional de Emisiones de Gases y Compuestos de Efecto Invernadero y al año de referencia para el cálculo del PIB a precios constantes expresado en Paridad de Poder de Compra (dólares).
 data_non_statistical:
   false
 data_notice_class:

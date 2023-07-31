@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Porcentaje¬Percentage
+  Porcentaje
 copyright:
   ''
 data_footnote:
-  En el año 2020, se realizó una revisión del indicador y se actualizaron los nombres de las variables y los respectivos valores. Se consideró la información de los registros administrativos de las Subdirecciones Generales Técnica y de Agua Potable, Drenaje y Saneamiento de la Comisión Nacional del Agua que se integran en el Sistema Nacional de Información del Agua (SINA).
+  <br>Nota <br>En el año 2020, se realizó una revisión del indicador y se actualizaron los nombres de las variables y los respectivos valores. Se consideró la información de los registros administrativos de las Subdirecciones Generales Técnica y de Agua Potable, Drenaje y Saneamiento de la Comisión Nacional del Agua que se integran en el Sistema Nacional de Información del Agua (SINA).
 data_non_statistical:
   false
 data_notice_class:

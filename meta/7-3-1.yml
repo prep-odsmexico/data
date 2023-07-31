@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Kilojoules por peso de PIB producido¬Kilojoules by weight of GDP produced
+  Kilojoules por peso de PIB producido
 copyright:
   ''
 data_footnote:
-  El cálculo de la intensidad energética medida en función de la energía primaria ha cambiado debido a que se ajustaron las dos variables involucradas.
+  <br>Nota <br>El cálculo de la intensidad energética medida en función de la energía primaria ha cambiado debido a que se ajustaron las dos variables involucradas.
 data_non_statistical:
   false
 data_notice_class:

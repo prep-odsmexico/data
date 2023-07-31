@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Porcentaje¬Percentage
+  Porcentaje
 copyright:
   ''
 data_footnote:
-  A partir de la información de los Registros Administrativos de la Subdirección General Técnica de la CONAGUA integrados en el Sistema Nacional de Información del Agua (SINA).
+  <br>Nota <br>A partir de la información de los Registros Administrativos de la Subdirección General Técnica de la CONAGUA integrados en el Sistema Nacional de Información del Agua (SINA).
 data_non_statistical:
   false
 data_notice_class:

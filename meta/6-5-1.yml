@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Adimensional¬Dimensionless
+  Adimensional
 copyright:
   ''
 data_footnote:
-  A partir de los registros administrativos de la Gerencia de Planificación Hídrica de la CONAGUA. El mecanismo de aplicación y la encuesta en 2020 fue diferente al del 2018, lo que explica la variación en los resultados.
+  <br>Nota <br>A partir de los registros administrativos de la Gerencia de Planificación Hídrica de la CONAGUA. El mecanismo de aplicación y la encuesta en 2020 fue diferente al del 2018, lo que explica la variación en los resultados.
 data_non_statistical:
   false
 data_notice_class:

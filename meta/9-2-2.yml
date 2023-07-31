@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Porcentaje¬Percentage
+  Porcentaje
 copyright:
   ''
 data_footnote:
-  A partir de 2014, la información utiliza las estimaciones trimestrales de población que genera el Marco de Muestreo de Viviendas del INEGI, con base en el Censo 2020.
+  <br>Nota <br>A partir de 2014, la información utiliza las estimaciones trimestrales de población que genera el Marco de Muestreo de Viviendas del INEGI, con base en el Censo 2020.
 data_non_statistical:
   false
 data_notice_class:

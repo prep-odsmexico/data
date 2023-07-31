@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Porcentaje¬Percentage
+  Porcentaje
 copyright:
   ''
 data_footnote:
-  Tenencia de cuenta en el banco Incluye a las personas que declararon tener al menos una cuenta de ahorro formal o tarjeta de ahorro, un crédito formal, un seguro o una cuenta de ahorro para el retiro o Afore.
+  <br>Nota <br>Tenencia de cuenta en el banco Incluye a las personas que declararon tener al menos una cuenta de ahorro formal o tarjeta de ahorro, un crédito formal, un seguro o una cuenta de ahorro para el retiro o Afore.
 data_non_statistical:
   false
 data_notice_class:

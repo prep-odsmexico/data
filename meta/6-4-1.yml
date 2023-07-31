@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Porcentaje¬Percentage
+  Porcentaje
 copyright:
   ''
 data_footnote:
-  A partir de la información del Sistema de Cuentas Ambientales y Económicas del Agua (SCAE Agua) de INEGI (año base 2013). Para el cálculo del indicador se actualizó el valor agregado bruto a precios del año 2015. El pasado diciembre de 2022, se hizo una consulta a la información del SCAE-Agua, misma que llevo a una actualización en el valor del indicador y en su serie histórica.
+  <br>Nota <br>A partir de la información del Sistema de Cuentas Ambientales y Económicas del Agua (SCAE Agua) de INEGI (año base 2013). Para el cálculo del indicador se actualizó el valor agregado bruto a precios del año 2015. El pasado diciembre de 2022, se hizo una consulta a la información del SCAE-Agua, misma que llevo a una actualización en el valor del indicador y en su serie histórica.
 data_non_statistical:
   false
 data_notice_class:

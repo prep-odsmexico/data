@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Porcentaje¬Percentage
+  Porcentaje
 copyright:
   ''
 data_footnote:
-  Este indicador se toma de la base de datos Global Findex del Banco Mundial y no se cuenta con los datos requeridos para realizar el cálculo de éste, dado que este porcentaje se construye a partir de un conjunto de preguntas y no se publica el número de respuestas positivas, ni los factores de expansión asociados a cada respuesta.<br>   <br>  Los resultados del Global Findex se basan en encuestas individuales a nivel mundial y se construye cada tres años. La primera edición se realizó en 2011, la segunda en 2014 y la tercera en 2017. La cuarta edición se realizará en el en 2020 (de los cuáles se publicarán sus resultados en 2021). La base de datos tiene una cobertura para alrededor de 140 países.<br>   <br>  La cifra para 2011 no incluye a otra institución financiera o algún otro proveedor de servicios financieros móviles.
+  <br>Nota <br>Este indicador se toma de la base de datos Global Findex del Banco Mundial y no se cuenta con los datos requeridos para realizar el cálculo de éste, dado que este porcentaje se construye a partir de un conjunto de preguntas y no se publica el número de respuestas positivas, ni los factores de expansión asociados a cada respuesta.<br>   <br>  Los resultados del Global Findex se basan en encuestas individuales a nivel mundial y se construye cada tres años. La primera edición se realizó en 2011, la segunda en 2014 y la tercera en 2017. La cuarta edición se realizará en el en 2020 (de los cuáles se publicarán sus resultados en 2021). La base de datos tiene una cobertura para alrededor de 140 países.<br>   <br>  La cifra para 2011 no incluye a otra institución financiera o algún otro proveedor de servicios financieros móviles.
 data_non_statistical:
   false
 data_notice_class:

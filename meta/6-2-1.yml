@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Porcentaje¬Percentage
+  Porcentaje
 copyright:
   ''
 data_footnote:
-  A partir de la información de la Encuesta Nacional de Ingreso y Gasto en los Hogares. 2014. 2016. 2018. 2020. Instituto Nacional de Estadística y Geografía (INEGI).
+  <br>Nota <br>A partir de la información de la Encuesta Nacional de Ingreso y Gasto en los Hogares. 2014. 2016. 2018. 2020. Instituto Nacional de Estadística y Geografía (INEGI).
 data_non_statistical:
   false
 data_notice_class:
