@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Porcentaje¬Percentage
+  Porcentaje
 copyright:
   ''
 data_footnote:
-  La información se refiere al 31 de diciembre de cada año. El total incluye hombres y mujeres, se omiten puestos vacantes y no especificados. Para la Ciudad de México, a partir de 2020 se incorporó la categoría de Concejales, ya que las figuras de síndicos y regidores no aplican para las alcaldías de esta entidad.
+  <br>Nota <br>La información se refiere al 31 de diciembre de cada año. El total incluye hombres y mujeres, se omiten puestos vacantes y no especificados. Para la Ciudad de México, a partir de 2020 se incorporó la categoría de Concejales, ya que las figuras de síndicos y regidores no aplican para las alcaldías de esta entidad.
 data_non_statistical:
   false
 data_notice_class:

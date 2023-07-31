@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Porcentaje¬Percentage
+  Porcentaje
 copyright:
   ''
 data_footnote:
-  Muertes atribuibles a agua, saneamiento e higiene inseguros que se centran en servicios WASH inadecuados, expresado por 100.000 habitantes; Las enfermedades incluidas son las fracciones atribuibles a WASH de diarrea (CIE-10 códigos A00, A01, A03, A04, A06-A09), infecciones respiratorias agudas (CIE-10 códigos H65-H66, J20-J22, P23, Y U04) infecciones por nematodos intestinales (CIE-10 códigos B76-B77, B79) y desnutrición proteico-energética (CIE-10 códigos E40-E46).
+  <br>Nota <br>Muertes atribuibles a agua, saneamiento e higiene inseguros que se centran en servicios WASH inadecuados, expresado por 100.000 habitantes; Las enfermedades incluidas son las fracciones atribuibles a WASH de diarrea (CIE-10 códigos A00, A01, A03, A04, A06-A09), infecciones respiratorias agudas (CIE-10 códigos H65-H66, J20-J22, P23, Y U04) infecciones por nematodos intestinales (CIE-10 códigos B76-B77, B79) y desnutrición proteico-energética (CIE-10 códigos E40-E46).
 data_non_statistical:
   false
 data_notice_class:

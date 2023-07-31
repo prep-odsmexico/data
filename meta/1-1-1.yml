@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Porcentaje¬Percentage
+  Porcentaje
 copyright:
   ''
 data_footnote:
-  - A partir de 2006 se utiliza la ENIGH con factores ajustados a la proyección de población de CONAPO, actualizadas en abril de 2013. <br>  - La información de 1992 se toma de los datos históricos del indicador. <br>  - Urbana Localidades de 15,000 habitantes y más.<br>  - Rural Localidades de menos de 15,000 habitantes.
+  <br>Nota <br>- A partir de 2006 se utiliza la ENIGH con factores ajustados a la proyección de población de CONAPO, actualizadas en abril de 2013. <br>  - La información de 1992 se toma de los datos históricos del indicador. <br>  - Urbana Localidades de 15,000 habitantes y más.<br>  - Rural Localidades de menos de 15,000 habitantes.
 data_non_statistical:
   false
 data_notice_class:

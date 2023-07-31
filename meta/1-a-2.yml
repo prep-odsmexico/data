@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Porcentaje¬Percentage
+  Porcentaje
 copyright:
   ''
 data_footnote:
-  Las cifras reportadas de 2006 a 2011 corresponden a las funciones de Salud, Educación y la suma de Seguridad Social y Asistencia Social, a partir de 2012 se considera la Nueva Clasificación Funcional  emitida por el Consejo Nacional de Armonización Contable (CONAC) Salud, Educación y Protección Social.
+  <br>Nota <br>Las cifras reportadas de 2006 a 2011 corresponden a las funciones de Salud, Educación y la suma de Seguridad Social y Asistencia Social, a partir de 2012 se considera la Nueva Clasificación Funcional  emitida por el Consejo Nacional de Armonización Contable (CONAC) Salud, Educación y Protección Social.
 data_non_statistical:
   false
 data_notice_class:

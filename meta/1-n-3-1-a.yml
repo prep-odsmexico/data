@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Porcentaje¬Percentage
+  Porcentaje
 copyright:
   ''
 data_footnote:
-  El CONEVAL establece que una estimación cuenta con precisión cuando el valor del Coeficiente de Variación (CV) es menor o igual a 15%, con precisión aceptable si el CV es mayor que 15% y menor o igual que 25% y sin precisión cuando el CV es mayor que 25% cuando la información proviene de encuestas de hogares con diseño muestral probabilístico.
+  <br>Nota <br>El CONEVAL establece que una estimación cuenta con precisión cuando el valor del Coeficiente de Variación (CV) es menor o igual a 15%, con precisión aceptable si el CV es mayor que 15% y menor o igual que 25% y sin precisión cuando el CV es mayor que 25% cuando la información proviene de encuestas de hogares con diseño muestral probabilístico.
 data_non_statistical:
   false
 data_notice_class:

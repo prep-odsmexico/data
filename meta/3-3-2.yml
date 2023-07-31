@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Casos confirmados por cada 100 mil habitantes¬Confirmed cases per 100 thousand inhabitants
+  Casos confirmados por cada 100 mil habitantes
 copyright:
   ''
 data_footnote:
-  Para el periodo 1990-2021 la Población a mitad de año corresponde a las Proyecciones de la Población de México y de las Entidades Federativas, 2016-2050 y Conciliación Demográfica de México, 1950-2015. (CONAPO).
+  <br>Nota <br>Para el periodo 1990-2021 la Población a mitad de año corresponde a las Proyecciones de la Población de México y de las Entidades Federativas, 2016-2050 y Conciliación Demográfica de México, 1950-2015. (CONAPO).
 data_non_statistical:
   false
 data_notice_class:

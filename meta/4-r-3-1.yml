@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Porcentaje¬Percentage
+  Porcentaje
 copyright:
   ''
 data_footnote:
-  Incluye las modalidades escolarizada y no escolarizada de educación superior, sin posgrado.
+  <br>Nota <br>Incluye las modalidades escolarizada y no escolarizada de educación superior, sin posgrado.
 data_non_statistical:
   false
 data_notice_class:

@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Porcentaje¬Percentage
+  Porcentaje
 copyright:
   ''
 data_footnote:
-  La Zona Metropolitana del Valle de México incluye 16 delegaciones de la Ciudad de México, 59 municipios del estado de México y uno del estado de Hidalgo.
+  <br>Nota <br>La Zona Metropolitana del Valle de México incluye 16 delegaciones de la Ciudad de México, 59 municipios del estado de México y uno del estado de Hidalgo.
 data_non_statistical:
   false
 data_notice_class:

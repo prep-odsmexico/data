@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Porcentaje¬Percentage
+  Porcentaje
 copyright:
   ''
 data_footnote:
-  Se consideran a los alumnos inscritos en escuelas con organización multigrado y unitarias de educación primaria.
+  <br>Nota <br>Se consideran a los alumnos inscritos en escuelas con organización multigrado y unitarias de educación primaria.
 data_non_statistical:
   false
 data_notice_class:

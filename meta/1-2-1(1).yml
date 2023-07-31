@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Porcentaje¬Percentage
+  Porcentaje
 copyright:
   ''
 data_footnote:
-  - Se utilizan las bases de datos que publicó el INEGI con los nuevos factores de expansión construidos con base en el Marco de Muestreo de Viviendas y los resultados del Censo de Población y Vivienda 2020.
+  <br>Nota <br>- Se utilizan las bases de datos que publicó el INEGI con los nuevos factores de expansión construidos con base en el Marco de Muestreo de Viviendas y los resultados del Censo de Población y Vivienda 2020.
 data_non_statistical:
   false
 data_notice_class:

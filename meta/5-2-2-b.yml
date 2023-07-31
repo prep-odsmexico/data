@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Porcentaje¬Percentage
+  Porcentaje
 copyright:
   ''
 data_footnote:
-  Excepto las estimaciones con notas /a, /b, /c  y /d, las estimaciones presentadas en este cuadro tienen un coeficiente de variación (%) en el rango de (0,15), por lo que su nivel de precisión es clasificado como Alto.<br>  <br>  <br>  <sup>1</sup> En la ENDIREH 2016 y 2021 incluye las categorías autobús, microbús, metro, metrobús y taxi.<br>  <sup>2</sup> En la ENDIREH 2011 incluye las categorías escuela, fábrica y taller.<br>  <sup>3</sup> En la ENDIREH 2011 incluye sólo la categoría centro comercial. En la ENDIREH 2016 y 2021 incluye las categorías mercado, plaza, tianguis, centro comercial, iglesia, cantina, bar, antro, feria, fiesta y asamblea o junta vecinal.<br>  <sup>4</sup> En la ENDIREH 2011 incluye las categorías cine y otro. En la ENDIREH 2016 y 2021 incluye las categorías otro y otro lugar público.
+  <br>Nota <br>Excepto las estimaciones con notas /a, /b, /c  y /d, las estimaciones presentadas en este cuadro tienen un coeficiente de variación (%) en el rango de (0,15), por lo que su nivel de precisión es clasificado como Alto.<br>  <br>  <br>  <sup>1</sup> En la ENDIREH 2016 y 2021 incluye las categorías autobús, microbús, metro, metrobús y taxi.<br>  <sup>2</sup> En la ENDIREH 2011 incluye las categorías escuela, fábrica y taller.<br>  <sup>3</sup> En la ENDIREH 2011 incluye sólo la categoría centro comercial. En la ENDIREH 2016 y 2021 incluye las categorías mercado, plaza, tianguis, centro comercial, iglesia, cantina, bar, antro, feria, fiesta y asamblea o junta vecinal.<br>  <sup>4</sup> En la ENDIREH 2011 incluye las categorías cine y otro. En la ENDIREH 2016 y 2021 incluye las categorías otro y otro lugar público.
 data_non_statistical:
   false
 data_notice_class:

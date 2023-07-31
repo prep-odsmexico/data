@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Número de hijos(as) nacidos(as) vivos(as) por cada 1 000 niñas y adolescentes entre 10 y 14 años¬Number of children born alive per 1,000 girls and adolescents between 10 and 14 years old
+  Número de hijos(as) nacidos(as) vivos(as) por cada 1 000 niñas y adolescentes entre 10 y 14 años
 copyright:
   ''
 data_footnote:
-  Nacimientos reconstruidos a siete años. A partir del año 2010 se estima el total de nacimientos con una extrapolación lineal con base en la reconstrucción de nacimientos. La expresión de fecundidad en el intervalo de 10 a 14 años no es una tasa, sino una razón, bajo el supuesto de que la mayoría de las niñas de 10 y 11 años aún no presentan su primera menstruación, por lo que no pueden considerarse como expuestas al riesgo de un embarazo.
+  <br>Nota <br>Nacimientos reconstruidos a siete años. A partir del año 2010 se estima el total de nacimientos con una extrapolación lineal con base en la reconstrucción de nacimientos. La expresión de fecundidad en el intervalo de 10 a 14 años no es una tasa, sino una razón, bajo el supuesto de que la mayoría de las niñas de 10 y 11 años aún no presentan su primera menstruación, por lo que no pueden considerarse como expuestas al riesgo de un embarazo.
 data_non_statistical:
   false
 data_notice_class:

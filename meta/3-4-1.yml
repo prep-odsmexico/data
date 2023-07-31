@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Tasa de mortalidad¬Mortality rate
+  Tasa de mortalidad
 copyright:
   ''
 data_footnote:
-  Personas de 30 a 70 años
+  <br>Nota <br>Personas de 30 a 70 años
 data_non_statistical:
   false
 data_notice_class:

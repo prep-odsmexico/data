@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Porcentaje¬Percentage
+  Porcentaje
 copyright:
   ''
 data_footnote:
-  La información estadística correspondiente a las entidades de Coahuila y Nuevo León puede estar subreportada en algunos periodos.
+  <br>Nota <br>La información estadística correspondiente a las entidades de Coahuila y Nuevo León puede estar subreportada en algunos periodos.
 data_non_statistical:
   false
 data_notice_class:

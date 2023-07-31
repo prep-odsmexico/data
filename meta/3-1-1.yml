@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Defunciones de mujeres por cada 100 mil  nacidos vivos¬Deaths of women per 100 000 live births
+  Defunciones de mujeres por cada 100 mil  nacidos vivos
 copyright:
   ''
 data_footnote:
-  A partir de 2007 se excluyen defunciones con residencia en el extranjero y a partir de 2009 las defunciones extemporáneas.
+  <br>Nota <br>A partir de 2007 se excluyen defunciones con residencia en el extranjero y a partir de 2009 las defunciones extemporáneas.
 data_non_statistical:
   false
 data_notice_class:

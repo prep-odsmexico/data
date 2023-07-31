@@ -75,11 +75,11 @@ OTHER_DOC: >-
 composite_breakdown_label:
   ''
 computation_units:
-  Porcentaje¬Percentage
+  Porcentaje
 copyright:
   ''
 data_footnote:
-  En el ciclo escolar 2020-2021, la entidad federativa Nuevo León no reportó toda la información de infraestructura debido a la contingencia sanitaría por COVID-19.
+  <br>Nota <br>En el ciclo escolar 2020-2021, la entidad federativa Nuevo León no reportó toda la información de infraestructura debido a la contingencia sanitaría por COVID-19.
 data_non_statistical:
   false
 data_notice_class:
