@@ -210,6 +210,78 @@
       "title": ""
     },
     {
+      "path": "5-n-2-1/data.csv",
+      "name": "5-n-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Entidad federativa",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estados Unidos Mexicanos",
+                "Aguascalientes",
+                "Baja California",
+                "Baja California Sur",
+                "Campeche",
+                "Coahuila de Zaragoza",
+                "Colima",
+                "Chiapas",
+                "Chihuahua",
+                "Ciudad de México",
+                "Durango",
+                "Guanajuato",
+                "Guerrero",
+                "Hidalgo",
+                "Jalisco",
+                "México",
+                "Michoacán de Ocampo",
+                "Morelos",
+                "Nayarit",
+                "Nuevo León",
+                "Oaxaca",
+                "Puebla",
+                "Querétaro",
+                "Quintana Roo",
+                "San Luis Potosí",
+                "Sinaloa",
+                "Sonora",
+                "Tabasco",
+                "Tamaulipas",
+                "Tlaxcala",
+                "Veracruz de Ignacio de la Llave",
+                "Yucatán",
+                "Zacatecas",
+                ""
+              ]
+            },
+            "title": "Entidad federativa"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "3-1-1/data.csv",
       "name": "3-1-1",
       "profile": "tabular-data-resource",
@@ -2966,6 +3038,149 @@
       "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)"
     },
     {
+      "path": "5-b-1/data.csv",
+      "name": "5-b-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Entidad federativa",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estados Unidos Mexicanos",
+                "Aguascalientes",
+                "Baja California",
+                "Baja California Sur",
+                "Campeche",
+                "Coahuila de Zaragoza",
+                "Colima",
+                "Chiapas",
+                "Chihuahua",
+                "Ciudad de México",
+                "Durango",
+                "Guanajuato",
+                "Guerrero",
+                "Hidalgo",
+                "Jalisco",
+                "México",
+                "Michoacán de Ocampo",
+                "Morelos",
+                "Nayarit",
+                "Nuevo León",
+                "Oaxaca",
+                "Puebla",
+                "Querétaro",
+                "Quintana Roo",
+                "San Luis Potosí",
+                "Sinaloa",
+                "Sonora",
+                "Tabasco",
+                "Tamaulipas",
+                "Tlaxcala",
+                "Veracruz de Ignacio de la Llave",
+                "Yucatán",
+                "Zacatecas",
+                ""
+              ]
+            },
+            "title": "Entidad federativa"
+          },
+          {
+            "name": "Municipio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aguascalientes",
+                "Ensenada",
+                "Mexicali",
+                "Tijuana",
+                "La Paz",
+                "Campeche",
+                "Saltillo",
+                "Torreón",
+                "Colima",
+                "Tapachula",
+                "Tuxtla Gutiérrez",
+                "Chihuahua",
+                "Juárez",
+                "Zona Metropolitana del Valle de México",
+                "Durango",
+                "Celaya",
+                "Irapuato",
+                "León",
+                "Acapulco",
+                "Chilpancingo de los Bravo",
+                "Pachuca",
+                "Guadalajara",
+                "Toluca",
+                "Morelia",
+                "Uruapan",
+                "Cuernavaca",
+                "Tepic",
+                "Monterrey",
+                "Oaxaca",
+                "Puebla",
+                "Tehuacán",
+                "Querétaro",
+                "Cancún",
+                "San Luis Potosí",
+                "Culiacán",
+                "Mazatlán",
+                "Ciudad Obregón",
+                "Hermosillo",
+                "Villahermosa",
+                "Heroica Matamoros",
+                "Nuevo Laredo",
+                "Reynosa",
+                "Tampico",
+                "Tlaxcala",
+                "Coatzacoalcos",
+                "Xalapa-Enríquez",
+                "Veracruz",
+                "Mérida",
+                "Zacatecas",
+                ""
+              ]
+            },
+            "title": "Municipio"
+          },
+          {
+            "name": "Usuarios",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Usuarios"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of individuals who own a mobile telephone, by sex"
+    },
+    {
       "path": "1-n-3-1-a/data.csv",
       "name": "1-n-3-1-a",
       "profile": "tabular-data-resource",
@@ -3027,6 +3242,69 @@
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "5-2-1-b/data.csv",
+      "name": "5-2-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Grupo de edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total de 15 a 49 años de edad",
+                "De 15 a 17 años",
+                "De 18 a 19 años",
+                "De 20 a 24 años",
+                "De 25 a 29 años",
+                "De 30 a 34 años",
+                "De 35 a 39 años",
+                "De 40 a 44 años",
+                "De 45 a 49 años",
+                "De 50 a 54 años",
+                "De 55 a 59 años",
+                "De 60 años y más",
+                "No especificado",
+                ""
+              ]
+            },
+            "title": "Grupo de edad"
+          },
+          {
+            "name": "Tipo de violencia",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Con al menos un incidente de violencia física, sexual o emocional",
+                "Sin al menos un incidente de violencia física, sexual o emocional",
+                "No especificado",
+                "Con al menos un incidente de violencia física",
+                "Con al menos un incidente de violencia sexual",
+                "Con al menos un incidente de violencia emocional",
+                ""
+              ]
+            },
+            "title": "Tipo de violencia"
           },
           {
             "name": "Value",
@@ -3312,6 +3590,138 @@
       "title": ""
     },
     {
+      "path": "5-5-2/data.csv",
+      "name": "5-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Entidad federativa",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estados Unidos Mexicanos",
+                "Aguascalientes",
+                "Baja California",
+                "Baja California Sur",
+                "Campeche",
+                "Coahuila de Zaragoza",
+                "Colima",
+                "Chiapas",
+                "Chihuahua",
+                "Ciudad de México",
+                "Durango",
+                "Guanajuato",
+                "Guerrero",
+                "Hidalgo",
+                "Jalisco",
+                "México",
+                "Michoacán de Ocampo",
+                "Morelos",
+                "Nayarit",
+                "Nuevo León",
+                "Oaxaca",
+                "Puebla",
+                "Querétaro",
+                "Quintana Roo",
+                "San Luis Potosí",
+                "Sinaloa",
+                "Sonora",
+                "Tabasco",
+                "Tamaulipas",
+                "Tlaxcala",
+                "Veracruz de Ignacio de la Llave",
+                "Yucatán",
+                "Zacatecas",
+                ""
+              ]
+            },
+            "title": "Entidad federativa"
+          },
+          {
+            "name": "Municipio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aguascalientes",
+                "Ensenada",
+                "Mexicali",
+                "Tijuana",
+                "La Paz",
+                "Campeche",
+                "Ciudad del Carmen",
+                "Saltillo",
+                "Torreón",
+                "Colima",
+                "Tapachula",
+                "Tuxtla Gutiérrez",
+                "Chihuahua",
+                "Juárez",
+                "Zona Metropolitana del Valle de México",
+                "Durango",
+                "Celaya",
+                "Irapuato",
+                "León",
+                "Acapulco",
+                "Chilpancingo de los Bravo",
+                "Pachuca",
+                "Guadalajara",
+                "Toluca",
+                "Morelia",
+                "Uruapan",
+                "Cuernavaca",
+                "Tepic",
+                "Monterrey",
+                "Oaxaca",
+                "Puebla",
+                "Tehuacán",
+                "Querétaro",
+                "Cancún",
+                "San Luis Potosí",
+                "Culiacán",
+                "Mazatlán",
+                "Ciudad Obregón",
+                "Hermosillo",
+                "Villahermosa",
+                "Heroica Matamoros",
+                "Nuevo Laredo",
+                "Reynosa",
+                "Tampico",
+                "Tlaxcala",
+                "Coatzacoalcos",
+                "Xalapa-Enríquez",
+                "Veracruz",
+                "Mérida",
+                "Zacatecas",
+                ""
+              ]
+            },
+            "title": "Municipio"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of women in managerial positions"
+    },
+    {
       "path": "3-4-1/data.csv",
       "name": "3-4-1",
       "profile": "tabular-data-resource",
@@ -3349,6 +3759,182 @@
         ]
       },
       "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
+    },
+    {
+      "path": "5-2-2-b/data.csv",
+      "name": "5-2-2-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Grupo de edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total de 15 a 49 años de edad",
+                "De 15 a 17 años",
+                "De 18 a 19 años",
+                "De 20 a 24 años",
+                "De 25 a 29 años",
+                "De 30 a 34 años",
+                "De 35 a 39 años",
+                "De 40 a 44 años",
+                "De 45 a 49 años",
+                "De 50 a 54 años",
+                "De 55 a 59 años",
+                "De 60 años y más",
+                "No especificado",
+                ""
+              ]
+            },
+            "title": "Grupo de edad"
+          },
+          {
+            "name": "Violencia sexual  y Lugar de la(s) agresión(es)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Con al menos un incidente de violencia sexual",
+                "Sin incidentes",
+                "No especificado",
+                "Calle o parque",
+                "Transporte público <sup>1</sup>",
+                "Casa particular",
+                "Instalaciones de la escuela o trabajo <sup>2</sup>",
+                "Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",
+                "Otro <sup>4</sup>",
+                "Lugar no especificado",
+                "A través de medios electrónicos",
+                ""
+              ]
+            },
+            "title": "Violencia sexual  y Lugar de la(s) agresión(es)"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "5-n-1-4/data.csv",
+      "name": "5-n-1-4",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Año"
+          },
+          {
+            "name": "Entidad federativa",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estados Unidos Mexicanos",
+                "Aguascalientes",
+                "Baja California",
+                "Baja California Sur",
+                "Campeche",
+                "Coahuila de Zaragoza",
+                "Colima",
+                "Chiapas",
+                "Chihuahua",
+                "Ciudad de México",
+                "Durango",
+                "Guanajuato",
+                "Guerrero",
+                "Hidalgo",
+                "Jalisco",
+                "México",
+                "Michoacán de Ocampo",
+                "Morelos",
+                "Nayarit",
+                "Nuevo León",
+                "Oaxaca",
+                "Puebla",
+                "Querétaro",
+                "Quintana Roo",
+                "San Luis Potosí",
+                "Sinaloa",
+                "Sonora",
+                "Tabasco",
+                "Tamaulipas",
+                "Tlaxcala",
+                "Veracruz de Ignacio de la Llave",
+                "Yucatán",
+                "Zacatecas",
+                ""
+              ]
+            },
+            "title": "Entidad federativa"
+          },
+          {
+            "name": "Usuarios",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Usuarios"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "5-5-1-a/data.csv",
+      "name": "5-5-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
     },
     {
       "path": "1-2-1-a/data.csv",
@@ -6106,6 +6692,43 @@
       "title": ""
     },
     {
+      "path": "5-4-1c/data.csv",
+      "name": "5-4-1c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Hablantes de lengua indígena",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total (15 años y más)",
+                "Mujeres (15 años y más)",
+                "Hombres (15 años y más)",
+                ""
+              ]
+            },
+            "title": "Hablantes de lengua indígena"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "2-2-2(1)/data.csv",
       "name": "2-2-2(1)",
       "profile": "tabular-data-resource",
@@ -6290,6 +6913,78 @@
         ]
       },
       "title": "Completion rate (primary education, lower secondary education, upper secondary education)"
+    },
+    {
+      "path": "5-n-3-1/data.csv",
+      "name": "5-n-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Entidad federativa",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estados Unidos Mexicanos",
+                "Aguascalientes",
+                "Baja California",
+                "Baja California Sur",
+                "Campeche",
+                "Coahuila de Zaragoza",
+                "Colima",
+                "Chiapas",
+                "Chihuahua",
+                "Ciudad de México",
+                "Durango",
+                "Guanajuato",
+                "Guerrero",
+                "Hidalgo",
+                "Jalisco",
+                "México",
+                "Michoacán de Ocampo",
+                "Morelos",
+                "Nayarit",
+                "Nuevo León",
+                "Oaxaca",
+                "Puebla",
+                "Querétaro",
+                "Quintana Roo",
+                "San Luis Potosí",
+                "Sinaloa",
+                "Sonora",
+                "Tabasco",
+                "Tamaulipas",
+                "Tlaxcala",
+                "Veracruz de Ignacio de la Llave",
+                "Yucatán",
+                "Zacatecas",
+                ""
+              ]
+            },
+            "title": "Entidad federativa"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
     },
     {
       "path": "3-n-1-1/data.csv",
@@ -6496,6 +7191,109 @@
               ]
             },
             "title": "Sexo"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "5-2-2-a/data.csv",
+      "name": "5-2-2-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Entidad federativa",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estados Unidos Mexicanos",
+                "Aguascalientes",
+                "Baja California",
+                "Baja California Sur",
+                "Campeche",
+                "Coahuila de Zaragoza",
+                "Colima",
+                "Chiapas",
+                "Chihuahua",
+                "Ciudad de México",
+                "Durango",
+                "Guanajuato",
+                "Guerrero",
+                "Hidalgo",
+                "Jalisco",
+                "México",
+                "Michoacán de Ocampo",
+                "Morelos",
+                "Nayarit",
+                "Nuevo León",
+                "Oaxaca",
+                "Puebla",
+                "Querétaro",
+                "Quintana Roo",
+                "San Luis Potosí",
+                "Sinaloa",
+                "Sonora",
+                "Tabasco",
+                "Tamaulipas",
+                "Tlaxcala",
+                "Veracruz de Ignacio de la Llave",
+                "Yucatán",
+                "Zacatecas",
+                ""
+              ]
+            },
+            "title": "Entidad federativa"
+          },
+          {
+            "name": "Violencia sexual",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Con al menos un incidente",
+                "Sin incidentes",
+                "No especificado",
+                ""
+              ]
+            },
+            "title": "Violencia sexual"
+          },
+          {
+            "name": "Lugar de la(s) agresión(es)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Calle o parque",
+                "Transporte público <sup>1</sup>",
+                "Casa particular",
+                "Instalaciones de la escuela o trabajo <sup>2</sup>",
+                "Mercado, plaza, tianguis, centro comercial, iglesia <sup>3</sup>",
+                "Otro <sup>4</sup>",
+                "Lugar no especificado",
+                "A través de medios electrónicos",
+                ""
+              ]
+            },
+            "title": "Lugar de la(s) agresión(es)"
           },
           {
             "name": "GeoCode",
@@ -6805,6 +7603,60 @@
       "title": ""
     },
     {
+      "path": "5-4-1a/data.csv",
+      "name": "5-4-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Tipo de localidad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nacional",
+                "Urbano (localidades de 2 500 y más habitantes)",
+                "Rural (localidades menores a 2 500 habitantes)",
+                ""
+              ]
+            },
+            "title": "Tipo de localidad"
+          },
+          {
+            "name": "Mujeres_trabajo doméstico",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total (12 años y más)",
+                "De 15 y más",
+                "De 15 a 24 años",
+                "De 25 a 44 años",
+                "De 45 a 54 años",
+                "De 55 a 64 años",
+                "De 65 años y más",
+                ""
+              ]
+            },
+            "title": "Mujeres_trabajo doméstico"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "4-a-1-f/data.csv",
       "name": "4-a-1-f",
       "profile": "tabular-data-resource",
@@ -6953,6 +7805,90 @@
       "title": ""
     },
     {
+      "path": "5-4-1b/data.csv",
+      "name": "5-4-1b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Entidad federativa",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estados Unidos Mexicanos",
+                "Aguascalientes",
+                "Baja California",
+                "Baja California Sur",
+                "Campeche",
+                "Coahuila de Zaragoza",
+                "Colima",
+                "Chiapas",
+                "Chihuahua",
+                "Ciudad de México",
+                "Durango",
+                "Guanajuato",
+                "Guerrero",
+                "Hidalgo",
+                "Jalisco",
+                "México",
+                "Michoacán de Ocampo",
+                "Morelos",
+                "Nayarit",
+                "Nuevo León",
+                "Oaxaca",
+                "Puebla",
+                "Querétaro",
+                "Quintana Roo",
+                "San Luis Potosí",
+                "Sinaloa",
+                "Sonora",
+                "Tabasco",
+                "Tamaulipas",
+                "Tlaxcala",
+                "Veracruz de Ignacio de la Llave",
+                "Yucatán",
+                "Zacatecas",
+                ""
+              ]
+            },
+            "title": "Entidad federativa"
+          },
+          {
+            "name": "Trabajo doméstico_entidad federativa",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mujeres de 15 años y más",
+                "Hombres de 15 años y más",
+                ""
+              ]
+            },
+            "title": "Trabajo doméstico_entidad federativa"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "2-n-1-1/data.csv",
       "name": "2-n-1-1",
       "profile": "tabular-data-resource",
@@ -6966,6 +7902,78 @@
             "name": "Year",
             "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "5-5-1-d/data.csv",
+      "name": "5-5-1-d",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Entidad federativa",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estados Unidos Mexicanos",
+                "Aguascalientes",
+                "Baja California",
+                "Baja California Sur",
+                "Campeche",
+                "Coahuila de Zaragoza",
+                "Colima",
+                "Chiapas",
+                "Chihuahua",
+                "Ciudad de México",
+                "Durango",
+                "Guanajuato",
+                "Guerrero",
+                "Hidalgo",
+                "Jalisco",
+                "México",
+                "Michoacán de Ocampo",
+                "Morelos",
+                "Nayarit",
+                "Nuevo León",
+                "Oaxaca",
+                "Puebla",
+                "Querétaro",
+                "Quintana Roo",
+                "San Luis Potosí",
+                "Sinaloa",
+                "Sonora",
+                "Tabasco",
+                "Tamaulipas",
+                "Tlaxcala",
+                "Veracruz de Ignacio de la Llave",
+                "Yucatán",
+                "Zacatecas",
+                ""
+              ]
+            },
+            "title": "Entidad federativa"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -7321,6 +8329,117 @@
       "title": ""
     },
     {
+      "path": "5-a-1b/data.csv",
+      "name": "5-a-1b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Entidad federativa",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estados Unidos Mexicanos",
+                "Aguascalientes",
+                "Baja California",
+                "Baja California Sur",
+                "Campeche",
+                "Coahuila de Zaragoza",
+                "Colima",
+                "Chiapas",
+                "Chihuahua",
+                "Ciudad de México",
+                "Durango",
+                "Guanajuato",
+                "Guerrero",
+                "Hidalgo",
+                "Jalisco",
+                "México",
+                "Michoacán de Ocampo",
+                "Morelos",
+                "Nayarit",
+                "Nuevo León",
+                "Oaxaca",
+                "Puebla",
+                "Querétaro",
+                "Quintana Roo",
+                "San Luis Potosí",
+                "Sinaloa",
+                "Sonora",
+                "Tabasco",
+                "Tamaulipas",
+                "Tlaxcala",
+                "Veracruz de Ignacio de la Llave",
+                "Yucatán",
+                "Zacatecas",
+                ""
+              ]
+            },
+            "title": "Entidad federativa"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "5-n-1-1/data.csv",
+      "name": "5-n-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Nivel de escolaridad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Preescolar o menos",
+                "Básica",
+                "Media superior",
+                "Superior",
+                ""
+              ]
+            },
+            "title": "Nivel de escolaridad"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "3-r-3-1/data.csv",
       "name": "3-r-3-1",
       "profile": "tabular-data-resource",
@@ -7600,6 +8719,78 @@
       "title": ""
     },
     {
+      "path": "5-6-1/data.csv",
+      "name": "5-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Entidad federativa",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estados Unidos Mexicanos",
+                "Aguascalientes",
+                "Baja California",
+                "Baja California Sur",
+                "Campeche",
+                "Coahuila de Zaragoza",
+                "Colima",
+                "Chiapas",
+                "Chihuahua",
+                "Ciudad de México",
+                "Durango",
+                "Guanajuato",
+                "Guerrero",
+                "Hidalgo",
+                "Jalisco",
+                "México",
+                "Michoacán de Ocampo",
+                "Morelos",
+                "Nayarit",
+                "Nuevo León",
+                "Oaxaca",
+                "Puebla",
+                "Querétaro",
+                "Quintana Roo",
+                "San Luis Potosí",
+                "Sinaloa",
+                "Sonora",
+                "Tabasco",
+                "Tamaulipas",
+                "Tlaxcala",
+                "Veracruz de Ignacio de la Llave",
+                "Yucatán",
+                "Zacatecas",
+                ""
+              ]
+            },
+            "title": "Entidad federativa"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care"
+    },
+    {
       "path": "4-c-1-c/data.csv",
       "name": "4-c-1-c",
       "profile": "tabular-data-resource",
@@ -7738,6 +8929,176 @@
       "title": ""
     },
     {
+      "path": "5-5-1-e/data.csv",
+      "name": "5-5-1-e",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Entidad federativa",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estados Unidos Mexicanos",
+                "Aguascalientes",
+                "Baja California",
+                "Baja California Sur",
+                "Campeche",
+                "Coahuila de Zaragoza",
+                "Colima",
+                "Chiapas",
+                "Chihuahua",
+                "Ciudad de México",
+                "Durango",
+                "Guanajuato",
+                "Guerrero",
+                "Hidalgo",
+                "Jalisco",
+                "México",
+                "Michoacán de Ocampo",
+                "Morelos",
+                "Nayarit",
+                "Nuevo León",
+                "Oaxaca",
+                "Puebla",
+                "Querétaro",
+                "Quintana Roo",
+                "San Luis Potosí",
+                "Sinaloa",
+                "Sonora",
+                "Tabasco",
+                "Tamaulipas",
+                "Tlaxcala",
+                "Veracruz de Ignacio de la Llave",
+                "Yucatán",
+                "Zacatecas",
+                ""
+              ]
+            },
+            "title": "Entidad federativa"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "5-2-1-a/data.csv",
+      "name": "5-2-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Entidad federativa",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estados Unidos Mexicanos",
+                "Aguascalientes",
+                "Baja California",
+                "Baja California Sur",
+                "Campeche",
+                "Coahuila de Zaragoza",
+                "Colima",
+                "Chiapas",
+                "Chihuahua",
+                "Ciudad de México",
+                "Durango",
+                "Guanajuato",
+                "Guerrero",
+                "Hidalgo",
+                "Jalisco",
+                "México",
+                "Michoacán de Ocampo",
+                "Morelos",
+                "Nayarit",
+                "Nuevo León",
+                "Oaxaca",
+                "Puebla",
+                "Querétaro",
+                "Quintana Roo",
+                "San Luis Potosí",
+                "Sinaloa",
+                "Sonora",
+                "Tabasco",
+                "Tamaulipas",
+                "Tlaxcala",
+                "Veracruz de Ignacio de la Llave",
+                "Yucatán",
+                "Zacatecas",
+                ""
+              ]
+            },
+            "title": "Entidad federativa"
+          },
+          {
+            "name": "Condición de violencia",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Con incidentes de violencia física, sexual o emocional",
+                "Sin al menos un incidente de violencia física, sexual o emocional",
+                "No especificado",
+                ""
+              ]
+            },
+            "title": "Condición de violencia"
+          },
+          {
+            "name": "Tipo de violencia",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Con al menos un incidente de violencia física",
+                "Con al menos un incidente de violencia sexual",
+                "Con al menos un incidente de violencia emocional",
+                ""
+              ]
+            },
+            "title": "Tipo de violencia"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "3-r-7-a/data.csv",
       "name": "3-r-7-a",
       "profile": "tabular-data-resource",
@@ -7802,6 +9163,30 @@
               ]
             },
             "title": "Sexo"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "5-5-1-b/data.csv",
+      "name": "5-5-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
           },
           {
             "name": "Value",
@@ -7997,6 +9382,78 @@
         ]
       },
       "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
+    },
+    {
+      "path": "5-5-1-c/data.csv",
+      "name": "5-5-1-c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Entidad federativa",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estados Unidos Mexicanos",
+                "Aguascalientes",
+                "Baja California",
+                "Baja California Sur",
+                "Campeche",
+                "Coahuila de Zaragoza",
+                "Colima",
+                "Chiapas",
+                "Chihuahua",
+                "Ciudad de México",
+                "Durango",
+                "Guanajuato",
+                "Guerrero",
+                "Hidalgo",
+                "Jalisco",
+                "México",
+                "Michoacán de Ocampo",
+                "Morelos",
+                "Nayarit",
+                "Nuevo León",
+                "Oaxaca",
+                "Puebla",
+                "Querétaro",
+                "Quintana Roo",
+                "San Luis Potosí",
+                "Sinaloa",
+                "Sonora",
+                "Tabasco",
+                "Tamaulipas",
+                "Tlaxcala",
+                "Veracruz de Ignacio de la Llave",
+                "Yucatán",
+                "Zacatecas",
+                ""
+              ]
+            },
+            "title": "Entidad federativa"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
     },
     {
       "path": "4-a-1-c/data.csv",
@@ -8605,6 +10062,44 @@
       "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations"
     },
     {
+      "path": "5-3-1a/data.csv",
+      "name": "5-3-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Grupo de edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Antes de los 15 años",
+                "Antes de los 18 años",
+                "Hablantes de lengua indígena antes de los 15 años",
+                "Hablantes de lengua indígena antes de los 18 años",
+                ""
+              ]
+            },
+            "title": "Grupo de edad"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "3-3-2/data.csv",
       "name": "3-3-2",
       "profile": "tabular-data-resource",
@@ -8675,6 +10170,175 @@
         ]
       },
       "title": "Tuberculosis incidence per 100,000 population"
+    },
+    {
+      "path": "5-3-1b/data.csv",
+      "name": "5-3-1b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Entidad federativa",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estados Unidos Mexicanos",
+                "Aguascalientes",
+                "Baja California",
+                "Baja California Sur",
+                "Campeche",
+                "Coahuila de Zaragoza",
+                "Colima",
+                "Chiapas",
+                "Chihuahua",
+                "Ciudad de México",
+                "Durango",
+                "Guanajuato",
+                "Guerrero",
+                "Hidalgo",
+                "Jalisco",
+                "México",
+                "Michoacán de Ocampo",
+                "Morelos",
+                "Nayarit",
+                "Nuevo León",
+                "Oaxaca",
+                "Puebla",
+                "Querétaro",
+                "Quintana Roo",
+                "San Luis Potosí",
+                "Sinaloa",
+                "Sonora",
+                "Tabasco",
+                "Tamaulipas",
+                "Tlaxcala",
+                "Veracruz de Ignacio de la Llave",
+                "Yucatán",
+                "Zacatecas",
+                ""
+              ]
+            },
+            "title": "Entidad federativa"
+          },
+          {
+            "name": "Mujeres casadas o unidas",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Antes de los 15 años",
+                "Antes de los 18 años",
+                ""
+              ]
+            },
+            "title": "Mujeres casadas o unidas"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "5-a-1a/data.csv",
+      "name": "5-a-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Entidad federativa",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estados Unidos Mexicanos",
+                "Aguascalientes",
+                "Baja California",
+                "Baja California Sur",
+                "Campeche",
+                "Coahuila de Zaragoza",
+                "Colima",
+                "Chiapas",
+                "Chihuahua",
+                "Ciudad de México",
+                "Durango",
+                "Guanajuato",
+                "Guerrero",
+                "Hidalgo",
+                "Jalisco",
+                "México",
+                "Michoacán de Ocampo",
+                "Morelos",
+                "Nayarit",
+                "Nuevo León",
+                "Oaxaca",
+                "Puebla",
+                "Querétaro",
+                "Quintana Roo",
+                "San Luis Potosí",
+                "Sinaloa",
+                "Sonora",
+                "Tabasco",
+                "Tamaulipas",
+                "Tlaxcala",
+                "Veracruz de Ignacio de la Llave",
+                "Yucatán",
+                "Zacatecas",
+                ""
+              ]
+            },
+            "title": "Entidad federativa"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
     },
     {
       "path": "3-2-1/data.csv",
@@ -11474,6 +13138,84 @@
       "title": ""
     },
     {
+      "path": "5-n-1-3/data.csv",
+      "name": "5-n-1-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Edad brecha",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total (5 a 11 años)",
+                "De 5 a 7 años",
+                "De 8 a 9 años",
+                "De 10 a 11 años",
+                ""
+              ]
+            },
+            "title": "Edad brecha"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "5-n-1-2/data.csv",
+      "name": "5-n-1-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "Brecha en el tiempo y por grupos de edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "12-19 años",
+                "20-29 años",
+                "30-39 años",
+                "40-49 años",
+                "50-59 años",
+                "60 años y más",
+                ""
+              ]
+            },
+            "title": "Brecha en el tiempo y por grupos de edad"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "3-c-1/data.csv",
       "name": "3-c-1",
       "profile": "tabular-data-resource",
@@ -12050,30 +13792,6 @@
       "title": ""
     },
     {
-      "path": "5-n-3-1/data.csv",
-      "name": "5-n-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
       "path": "8-n-3-1d/data.csv",
       "name": "8-n-3-1d",
       "profile": "tabular-data-resource",
@@ -12098,56 +13816,8 @@
       "title": ""
     },
     {
-      "path": "5-2-2-a/data.csv",
-      "name": "5-2-2-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
       "path": "15-n-2-1/data.csv",
       "name": "15-n-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
-      "path": "5-n-1-3/data.csv",
-      "name": "5-n-1-3",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -12434,30 +14104,6 @@
       "title": "Manufacturing employment as a proportion of total employment"
     },
     {
-      "path": "5-n-1-2/data.csv",
-      "name": "5-n-1-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
       "path": "14-5-1/data.csv",
       "name": "14-5-1",
       "profile": "tabular-data-resource",
@@ -12504,30 +14150,6 @@
         ]
       },
       "title": "Debt service as a proportion of exports of goods and services"
-    },
-    {
-      "path": "5-6-1/data.csv",
-      "name": "5-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care"
     },
     {
       "path": "16-7-1b/data.csv",
@@ -12746,30 +14368,6 @@
       "title": "Number of victims of intentional homicide per 100,000 population, by sex and age"
     },
     {
-      "path": "5-2-1-a/data.csv",
-      "name": "5-2-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
       "path": "9-5-2/data.csv",
       "name": "9-5-2",
       "profile": "tabular-data-resource",
@@ -12792,30 +14390,6 @@
         ]
       },
       "title": "Researchers (in full-time equivalent) per million inhabitants"
-    },
-    {
-      "path": "5-2-2-b/data.csv",
-      "name": "5-2-2-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
     },
     {
       "path": "9-2-1-a/data.csv",
@@ -12868,30 +14442,6 @@
     {
       "path": "16-6-2-b/data.csv",
       "name": "16-6-2-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
-      "path": "5-2-1-b/data.csv",
-      "name": "5-2-1-b",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -13008,30 +14558,6 @@
         ]
       },
       "title": "Proportion of urban population living in slums, informal settlements or inadequate housing"
-    },
-    {
-      "path": "5-4-1b/data.csv",
-      "name": "5-4-1b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
     },
     {
       "path": "16-n-2-4/data.csv",
@@ -13418,30 +14944,6 @@
       "title": "Total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage, by source of funding (public, private), type of heritage (cultural, natural) and level of government (national, regional, and local/municipal)"
     },
     {
-      "path": "5-5-1-a/data.csv",
-      "name": "5-5-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
       "path": "17-1-1/data.csv",
       "name": "17-1-1",
       "profile": "tabular-data-resource",
@@ -13562,30 +15064,6 @@
       "title": ""
     },
     {
-      "path": "5-4-1c/data.csv",
-      "name": "5-4-1c",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
       "path": "15-1-1/data.csv",
       "name": "15-1-1",
       "profile": "tabular-data-resource",
@@ -13612,30 +15090,6 @@
     {
       "path": "7-n-2-1/data.csv",
       "name": "7-n-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
-      "path": "5-3-1a/data.csv",
-      "name": "5-3-1a",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -13756,30 +15210,6 @@
     {
       "path": "16-n-1-1/data.csv",
       "name": "16-n-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
-      "path": "5-3-1b/data.csv",
-      "name": "5-3-1b",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -14450,30 +15880,6 @@
       "title": ""
     },
     {
-      "path": "5-b-1/data.csv",
-      "name": "5-b-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of individuals who own a mobile telephone, by sex"
-    },
-    {
       "path": "8-n-4-1/data.csv",
       "name": "8-n-4-1",
       "profile": "tabular-data-resource",
@@ -14548,30 +15954,6 @@
     {
       "path": "6-n-1-1/data.csv",
       "name": "6-n-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
-      "path": "5-n-2-1/data.csv",
-      "name": "5-n-2-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -15026,30 +16408,6 @@
       "title": "Degree of integrated water resources management"
     },
     {
-      "path": "5-a-1a/data.csv",
-      "name": "5-a-1a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
       "path": "16-3-2/data.csv",
       "name": "16-3-2",
       "profile": "tabular-data-resource",
@@ -15098,30 +16456,6 @@
       "title": ""
     },
     {
-      "path": "5-4-1a/data.csv",
-      "name": "5-4-1a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
       "path": "17-n-4-1/data.csv",
       "name": "17-n-4-1",
       "profile": "tabular-data-resource",
@@ -15146,56 +16480,8 @@
       "title": ""
     },
     {
-      "path": "5-5-1-e/data.csv",
-      "name": "5-5-1-e",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
       "path": "16-n-3-1-a/data.csv",
       "name": "16-n-3-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
-      "path": "5-n-1-4/data.csv",
-      "name": "5-n-1-4",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -15314,30 +16600,6 @@
       "title": "Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities"
     },
     {
-      "path": "5-n-1-1/data.csv",
-      "name": "5-n-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
       "path": "16-n-3-1-e/data.csv",
       "name": "16-n-3-1-e",
       "profile": "tabular-data-resource",
@@ -15388,54 +16650,6 @@
     {
       "path": "17-8-1-a/data.csv",
       "name": "17-8-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
-      "path": "5-5-2/data.csv",
-      "name": "5-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of women in managerial positions"
-    },
-    {
-      "path": "5-5-1-b/data.csv",
-      "name": "5-5-1-b",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -15580,30 +16794,6 @@
     {
       "path": "16-9-1b/data.csv",
       "name": "16-9-1b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
-      "path": "5-5-1-c/data.csv",
-      "name": "5-5-1-c",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -15866,30 +17056,6 @@
       "title": "Red List Index"
     },
     {
-      "path": "5-5-1-d/data.csv",
-      "name": "5-5-1-d",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
       "path": "16-6-1/data.csv",
       "name": "16-6-1",
       "profile": "tabular-data-resource",
@@ -15916,30 +17082,6 @@
     {
       "path": "9-1-2-b/data.csv",
       "name": "9-1-2-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Año"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
-      "path": "5-a-1b/data.csv",
-      "name": "5-a-1b",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
