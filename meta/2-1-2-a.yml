@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Instituto Nacional de Estadística y Geografía (INEGI). Módulo de Condiciones Socioeconómicas de la Encuesta Nacional de Ingresos y Gastos de los Hogares (MCS-ENIGH) 2008-2014. <a target="_blank" class="liga3" href="https://www.inegi.org.mx/programas/mcs/2008/">https://www.inegi.org.mx/programas/mcs/2008/</a>y Modelo Estadístico para la Continuidad (MEC) del MCS-ENIGH 2016 y 2018. <a target="_blank" class="liga3" href="https://www.inegi.org.mx/investigacion/eash/2018/">https://www.inegi.org.mx/investigacion/eash/2018/</a><br>Para las estimaciones municipales: MCS-ENIGH 2010, muestra del Censo de Población y Vivienda 2010, Modelo estadístico para la continuidad del MCS-ENIGH 2015 y Encuesta Intercensal 2015.<br>Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). <a target="_blank" class="liga3" href="http://www.coneval.org.mx/Informes/Coordinacion/Publicaciones%20oficiales/MEDICION_MULTIDIMENSIONAL_SEGUNDA_EDICION.pdf"> Metodología para la medición multidimensional de la pobreza en México.</a> Fecha de consulta: 05 de agosto de 2019.<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Para mayor detalle consultar:Metodología para la medición multidimensional de la pobreza en México. <a target="_blank" class="liga3" href="https://www.coneval.org.mx/InformesPublicaciones/InformesPublicaciones/Documents/Metodologia-medicion-multidimensional-3er-edicion.pdf">https://www.coneval.org.mx/InformesPublicaciones/InformesPublicaciones/Documents/Metodologia-medicion-multidimensional-3er-edicion.pdf</a>Datos de CONEVAL sobre acceso a la alimentación. <a target="_blank" class="liga3" href="https://www.coneval.org.mx/Medicion/Paginas/PobrezaInicio.aspx">https://www.coneval.org.mx/Medicion/Paginas/PobrezaInicio.aspx</a><br>
 COMPILING_ORG: >-
-  
+  Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL).<br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  2.1.2.a Proporción de la población con inseguridad alimentaria moderada o severa, por desglose geográfico
+  '2.1.2.a Proporción de la población con inseguridad alimentaria moderada o severa, por desglose geográfico'
 graph_titles:
   []
 graph_type:
@@ -121,7 +121,7 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  2.1.2.a Proporción de la población con inseguridad alimentaria moderada o severa, por desglose geográfico
+  '2.1.2.a Proporción de la población con inseguridad alimentaria moderada o severa, por desglose geográfico'
 indicator_number:
   '2.1.2.a'
 national_geographical_coverage:

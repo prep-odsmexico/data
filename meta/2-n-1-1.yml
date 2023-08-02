@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Programa Especial para el Desarrollo Integral de la Primera Infancia 2020-2024 con información de la Encuesta Nacional de Salud y Nutrición<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -41,7 +41,7 @@ REL_CAL_POLICY: >-
 DATA_SOURCE: >-
 
 COMPILING_ORG: >-
-  
+  Instituto Nacional de Estadística y Geografía (INEGI). <a target="_blank" class="liga3" href="https://www.inegi.org.mx/">https://www.inegi.org.mx/ </a><br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  2n.1.1 Porcentaje de la población menor de 5 años que presenta algún tipo de desnutrición crónica
+  '2n.1.1 Porcentaje de la población menor de 5 años que presenta algún tipo de desnutrición crónica'
 graph_titles:
   []
 graph_type:
@@ -121,7 +121,7 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  2n.1.1 Porcentaje de la población menor de 5 años que presenta algún tipo de desnutrición crónica
+  '2n.1.1 Porcentaje de la población menor de 5 años que presenta algún tipo de desnutrición crónica'
 indicator_number:
   '2n.1.1'
 national_geographical_coverage:
@@ -140,3 +140,25 @@ standalone:
   false
 tags:
   []
+source_active_1:
+  false
+source_organisation_1:
+  ''
+source_periodicity_1:
+  ''
+source_geographical_coverage_1:
+  ''
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

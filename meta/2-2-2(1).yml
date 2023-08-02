@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Instituto Nacional de Salud Pública (INSP). Encuesta Nacional de Salud y Nutrición (ENSANUT). Disponible en: <a target="_blank" class="liga3" href="https://ensanut.insp.mx/">https://ensanut.insp.mx/</a><br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Repositorio de metadatos de los ODS, disponible en: <a target="_blank" class="liga3" href="https://unstats.un.org/sdgs/metadata/"> https://unstats.un.org/sdgs/metadata/<br>
 COMPILING_ORG: >-
-  
+  Instituto Nacional de Salud Pública (INSP).<br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  2.2.2(1) Prevalencia de emaciación (peso para la estatura, desviación típica <-2 de la mediana de los patrones de crecimiento infantil de la OMS) entre los niños menores de 5 años
+  '2.2.2(1) Prevalencia de emaciación (peso para la estatura, desviación típica <-2 de la mediana de los patrones de crecimiento infantil de la OMS) entre los niños menores de 5 años'
 graph_titles:
   []
 graph_type:
@@ -121,7 +121,7 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  2.2.2(1) Prevalencia de emaciación (peso para la estatura, desviación típica <-2 de la mediana de los patrones de crecimiento infantil de la OMS) entre los niños menores de 5 años
+  '2.2.2(1) Prevalencia de emaciación (peso para la estatura, desviación típica <-2 de la mediana de los patrones de crecimiento infantil de la OMS) entre los niños menores de 5 años'
 indicator_number:
   '2.2.2(1)'
 national_geographical_coverage:
