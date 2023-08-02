@@ -1,18 +1,18 @@
 Indicator,Disaggregations,Number of disaggregations
 #1-1-1,Ámbito,1
 #1-1-1-a,Entidad federativa,1
-#1-2-1(1),"Sexo, Grupo de edad",2
+#1-2-1(1),"Grupo de edad, Sexo",2
 #1-2-1(2),Población debajo de umbral de pobreza,1
 #1-2-1-a,"Entidad federativa, Municipio",2
-#1-2-2(1),"Sexo, Grupo de edad",2
-#1-2-2(2),"Sexo, Grupo de edad",2
+#1-2-2(1),"Grupo de edad, Sexo",2
+#1-2-2(2),"Grupo de edad, Sexo",2
 #1-2-2-a,"Entidad federativa, Municipio",2
 #1-4-2,"Entidad federativa, Población nacional, Población urbana, Población rural",4
 #1-n-1-1,Población en pobreza_nacional,1
 #1-n-2-2,Entidad federativa,1
 #1-n-3-1-a,Entidad federativa,1
 #1-n-3-3,Entidad federativa,1
-#2-1-2,"Sexo, Grupo de edad",2
+#2-1-2,"Grupo de edad, Sexo",2
 #2-1-2-a,"Entidad federativa, Municipio",2
 #2-2-1,"Entidad federativa, Cobertura geografica",2
 #2-2-2,"Entidad federativa, Cobertura geografica",2
@@ -28,13 +28,13 @@ Indicator,Disaggregations,Number of disaggregations
 #3-3-5,Entidad federativa,1
 #3-4-1,Tasa de mortalidad-enfermedad no transmisible,1
 #3-4-2-a,"Entidad federativa, Sexo (t-h-m-na), Grupos quinquenales de edad (0 a 85 y más, NA)",3
-#3-4-2-b,"Residencia habitual fuera de México o no especificada, Sexo (t-h-m-na)",2
+#3-4-2-b,"Sexo (t-h-m-na), Residencia habitual fuera de México o no especificada",2
 #3-7-1,Entidad federativa,1
 #3-7-2-a,Entidad federativa,1
 #3-7-2-b,Entidad federativa,1
 #3-9-2a,Entidad federativa,1
 #3-9-3a,"Entidad federativa, Sexo (t-h-m-na), Intoxicaciones_grupo de edad",3
-#3-9-3b,"Residencia habitual fuera de México o no especificada, Sexo (t-h-m-na)",2
+#3-9-3b,"Sexo (t-h-m-na), Residencia habitual fuera de México o no especificada",2
 #3-c-1,"Entidad federativa, Densidad del personal sanitario",2
 #3-n-1-4,"Cobertura geografica, Quintiles de Ingreso",2
 #3-n-3-1,Entidad federativa,1
@@ -62,7 +62,7 @@ Indicator,Disaggregations,Number of disaggregations
 #4-c-1-c,"Entidad federativa, Sexo",2
 #4-n-2-1,"Entidad federativa, Violencia en mujeres por edad",2
 #4-r-3-1,Sexo,1
-#5-2-1-a,"Entidad federativa, Condición de violencia, Tipo de violencia",3
+#5-2-1-a,"Entidad federativa, Tipo de violencia, Condición de violencia",3
 #5-2-1-b,"Grupo de edad, Tipo de violencia",2
 #5-2-2-a,"Entidad federativa, Violencia sexual, Lugar de la(s) agresión(es)",3
 #5-2-2-b,"Grupo de edad, Violencia sexual  y Lugar de la(s) agresión(es)",2
