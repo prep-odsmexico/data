@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  A partir del 1 de agosto de 2019, Secretaría de Seguridad y Protección Ciudadana (SSPS). Centro Nacional de Prevención de Desastres (CENAPRED).<br>Consejo Nacional de Población (CONAPO), Secretaría General, Dirección General de Estudios Sociodemográficos y Prospectiva.<br>Instituto Nacional de Estadística y Geografía (INEGI). Evaluación del impacto socioeconómico de los principales desastres naturales ocurridos en la República Mexicana.<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Comisión Económica para América Latina y el Caribe (CEPAL), <a target="_blank" class="liga3" href="http://www.cepal.org/es/publicaciones/2781-manual-la-evaluacion-impacto-socioeconomico-ambiental-desastres">Manual para la evaluación del impacto socioeconómico y ambiental de los desastres, 2003.</a><br>
 COMPILING_ORG: >-
-  
+  Centro Nacional de Prevención de Desastres (CENAPRED).<br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  1.5.1 Número de personas muertas, desaparecidas y afectadas directamente atribuido a desastres por cada 100 000 habitantes
+  '1.5.1 Número de personas muertas, desaparecidas y afectadas directamente atribuido a desastres por cada 100 000 habitantes'
 graph_titles:
   []
 graph_type:
@@ -121,7 +121,7 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  1.5.1 Número de personas muertas, desaparecidas y afectadas directamente atribuido a desastres por cada 100 000 habitantes
+  '1.5.1 Número de personas muertas, desaparecidas y afectadas directamente atribuido a desastres por cada 100 000 habitantes'
 indicator_number:
   '1.5.1'
 national_geographical_coverage:
@@ -140,3 +140,25 @@ standalone:
   false
 tags:
   []
+source_active_1:
+  false
+source_organisation_1:
+  ''
+source_periodicity_1:
+  ''
+source_geographical_coverage_1:
+  ''
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

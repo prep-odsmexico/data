@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ingresos y Gastos en los Hogares (ENIGH) 2016, 2018 y 2020; con los nuevos factores de expansión construidos con base en el Marco de Muestreo de Viviendas y los resultados del Censo de Población y Vivienda 2020.<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Banco Mundial (BM) <a target="_blank" class="liga3" href="http://www.bancomundial.org/">http://www.bancomundial.org</a><br>
 COMPILING_ORG: >-
-  
+  Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL).<br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  1.1.1.a Proporción de la población que vive por debajo del umbral internacional de la pobreza (1.90 dólares diarios), por desglose geográfico
+  '1.1.1.a Proporción de la población que vive por debajo del umbral internacional de la pobreza (1.90 dólares diarios), por desglose geográfico'
 graph_titles:
   []
 graph_type:
@@ -121,7 +121,7 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  1.1.1.a Proporción de la población que vive por debajo del umbral internacional de la pobreza (1.90 dólares diarios), por desglose geográfico
+  '1.1.1.a Proporción de la población que vive por debajo del umbral internacional de la pobreza (1.90 dólares diarios), por desglose geográfico'
 indicator_number:
   '1.1.1.a'
 national_geographical_coverage:

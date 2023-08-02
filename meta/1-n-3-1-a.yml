@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Instituto Nacional de Estadística y Geografía (INEGI):<br>-Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH) 2016, 2018 y 2020; con los nuevos factores de expansión construidos con base en el Marco de Muestreo de Viviendas y los resultados del Censo de Población y Vivienda 2020.<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). <a target="_blank" class="liga3" href="http://www.coneval.org.mx/">http://www.coneval.org.mx/.</a><br>
 COMPILING_ORG: >-
-  
+  Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). <a target="_blank" class="liga3" href="http://www.coneval.org.mx/">http://www.coneval.org.mx/.</a><br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  1n.3.1.a Porcentaje de población de 65 años o más que recibe jubilación o pensión (contributiva o no contributiva) por un monto igual o mayor al valor promedio de la línea de pobreza por ingresos, por desglose geográfico
+  '1n.3.1.a Porcentaje de población de 65 años o más que recibe jubilación o pensión (contributiva o no contributiva) por un monto igual o mayor al valor promedio de la línea de pobreza por ingresos, por desglose geográfico'
 graph_titles:
   []
 graph_type:
@@ -121,7 +121,7 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  1n.3.1.a Porcentaje de población de 65 años o más que recibe jubilación o pensión (contributiva o no contributiva) por un monto igual o mayor al valor promedio de la línea de pobreza por ingresos, por desglose geográfico
+  '1n.3.1.a Porcentaje de población de 65 años o más que recibe jubilación o pensión (contributiva o no contributiva) por un monto igual o mayor al valor promedio de la línea de pobreza por ingresos, por desglose geográfico'
 indicator_number:
   '1n.3.1.a'
 national_geographical_coverage:

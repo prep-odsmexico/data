@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Instituto Nacional de Estadística y Geografía (INEGI):<br>-Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH) 2016, 2018 y 2020; con los nuevos factores de expansión construidos con base en el Marco de Muestreo de Viviendas y los resultados del Censo de Población y Vivienda 2020.<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Metodología para la medición multidimensional de la pobreza en México, tercera edición: <a target="_blank" class="liga3" href="https://www.coneval.org.mx/InformesPublicaciones/InformesPublicaciones/Documents/Metodologia-medicion-multidimensional-3er-edicion.pdf"> https://www.coneval.org.mx/InformesPublicaciones/InformesPublicaciones/Documents/Metodologia-medicion-multidimensional-3er-edicion.pdf</a><br>
 COMPILING_ORG: >-
-  
+  Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). <a target="_blank" class="liga3" href="http://www.coneval.org.mx/">http://www.coneval.org.mx/.</a><br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  1n.1.1 Porcentaje de la población en situación de pobreza
+  '1n.1.1 Porcentaje de la población en situación de pobreza'
 graph_titles:
   []
 graph_type:
@@ -121,7 +121,7 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  1n.1.1 Porcentaje de la población en situación de pobreza
+  '1n.1.1 Porcentaje de la población en situación de pobreza'
 indicator_number:
   '1n.1.1'
 national_geographical_coverage:

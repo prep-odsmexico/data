@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Instituto Nacional de Estadística y Geografía (INEGI):<br><br>- Módulo de Condiciones Socioeconómicas (MCS) de la Encuesta Nacional de Ingresos y Gastos en los Hogares (ENIGH) 2008, 2010, 2012 y 2014.<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). <a target="_blank" class="liga3" href="http://www.coneval.org.mx/">http://www.coneval.org.mx/.</a><br>
 COMPILING_ORG: >-
-  
+  Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). <a target="_blank" class="liga3" href="http://www.coneval.org.mx/">http://www.coneval.org.mx/.</a><br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  1.2.2(2) Proporción de hombres, mujeres y niños de todas las edades que viven en la pobreza en todas sus dimensiones, de acuerdo con las definiciones nacionales (2008 - 2014)
+  '1.2.2(2) Proporción de hombres, mujeres y niños de todas las edades que viven en la pobreza en todas sus dimensiones, de acuerdo con las definiciones nacionales (2008 - 2014)'
 graph_titles:
   []
 graph_type:
@@ -121,7 +121,7 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  1.2.2(2) Proporción de hombres, mujeres y niños de todas las edades que viven en la pobreza en todas sus dimensiones, de acuerdo con las definiciones nacionales (2008 - 2014)
+  '1.2.2(2) Proporción de hombres, mujeres y niños de todas las edades que viven en la pobreza en todas sus dimensiones, de acuerdo con las definiciones nacionales (2008 - 2014)'
 indicator_number:
   '1.2.2(2)'
 national_geographical_coverage:
