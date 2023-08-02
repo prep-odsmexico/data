@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  6.4.2 Nivel de estrés hídrico: extracción de agua dulce como proporción de los recursos disponibles de agua dulce.
+  '6.4.2 Nivel de estrés hídrico: extracción de agua dulce como proporción de los recursos disponibles de agua dulce.'
 graph_titles:
   []
 graph_type:
@@ -121,7 +121,7 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  6.4.2 Nivel de estrés hídrico: extracción de agua dulce como proporción de los recursos disponibles de agua dulce.
+  '6.4.2 Nivel de estrés hídrico: extracción de agua dulce como proporción de los recursos disponibles de agua dulce.'
 indicator_number:
   '6.4.2'
 national_geographical_coverage:
