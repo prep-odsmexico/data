@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  SALUD. Base de datos del Subsistema de Información sobre Nacimientos. Bases de datos de mortalidad.<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Repositorio de metadatos de los ODS, disponible en: <a target="_blank" class="liga3" href="https://unstats.un.org/sdgs/metadata/"> https://unstats.un.org/sdgs/metadata/<br>
 COMPILING_ORG: >-
-  
+  Secretaría de Salud (SS). Dirección General de Información en Salud (DGIS).<br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -91,7 +91,8 @@ data_notice_text:
 data_show_map:
   true
 data_start_values:
-  []
+  - field: 'Entidad federativa'
+    value: 'Estados Unidos Mexicanos'
 embedded_feature_footer:
   ''
 embedded_feature_html:
@@ -113,7 +114,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  3.2.1 Tasa de mortalidad de niños menores de 5 años
+  '3.2.1 Tasa de mortalidad de niños menores de 5 años'
 graph_titles:
   []
 graph_type:
@@ -121,7 +122,7 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  3.2.1 Tasa de mortalidad de niños menores de 5 años
+  '3.2.1 Tasa de mortalidad de niños menores de 5 años'
 indicator_number:
   '3.2.1'
 national_geographical_coverage:
