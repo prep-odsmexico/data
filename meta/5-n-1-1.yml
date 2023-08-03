@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Estimaciones del CONEVAL con base en el MCS-ENIGH 2008, 2010, 2012, 2014 y el MEC del MCS-ENIGH 2016 y 2018.<br>Dirección Ejecutiva de Medición de Pobreza y Seguimiento de Indicadores, Dirección General Adjunta de Análisis de la Pobreza (DGAAP), Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL).<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL). <a target="_blank" class="liga3" href="http://www.coneval.org.mx/">http://www.coneval.org.mx/.</a><br>
 COMPILING_ORG: >-
-  
+  Consejo Nacional de Evaluación de la Política de Desarrollo Social (CONEVAL).<br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  5n.1.1 Razón del ingreso laboral de trabajadoras/trabajadores por nivel de escolaridad
+  '5n.1.1 Razón del ingreso laboral de trabajadoras/trabajadores por nivel de escolaridad'
 graph_titles:
   []
 graph_type:
@@ -121,7 +121,7 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  5n.1.1 Razón del ingreso laboral de trabajadoras/trabajadores por nivel de escolaridad
+  '5n.1.1 Razón del ingreso laboral de trabajadoras/trabajadores por nivel de escolaridad'
 indicator_number:
   '5n.1.1'
 national_geographical_coverage:
@@ -140,3 +140,25 @@ standalone:
   false
 tags:
   []
+source_active_1:
+  false
+source_organisation_1:
+  ''
+source_periodicity_1:
+  ''
+source_geographical_coverage_1:
+  ''
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

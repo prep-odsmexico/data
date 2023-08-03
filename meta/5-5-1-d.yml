@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Censo Nacional de Gobiernos Municipales y Demarcaciones Territoriales de la Ciudad de México 2019 - 2021.<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Metadato internacional del indicador 5.5.1b Proportion of seats held by women in (b) local governments. Disponible en: <a target="_blank" class="liga3" href="https://unstats.un.org/sdgs/metadata/files/Metadata-05-05-01b.pdf">https://unstats.un.org/sdgs/metadata/files/Metadata-05-05-01b.pdf <a><br>
 COMPILING_ORG: >-
-  
+  Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Estadísticas de Gobierno, Seguridad Pública y Justicia.<br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  5.5.1.d Proporción de mujeres en los cabildos municipales
+  '5.5.1.d Proporción de mujeres en los cabildos municipales'
 graph_titles:
   []
 graph_type:
@@ -121,7 +121,7 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  5.5.1.d Proporción de mujeres en los cabildos municipales
+  '5.5.1.d Proporción de mujeres en los cabildos municipales'
 indicator_number:
   '5.5.1.d'
 national_geographical_coverage:

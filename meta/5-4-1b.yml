@@ -5,7 +5,7 @@ SDG_TARGET: >-
 SDG_INDICATOR: >-
   5.4.1b Proporción de tiempo dedicado al trabajo doméstico y de cuidado no remunerado, desglosada por entidad federativa
 SDG_SERIES_DESCR: >-
-  El indicador se calcula sobre la base del número promedio de horas que la población dedica al trabajo doméstico y de cuidado no remunerado por día en el propio hogar y otros hogares, respecto al tiempo total del día, lo que representa la proporción del tiempo dedicado a este tipo de actividades. Este tipo de medidas se pueden utilizar para comparar diferentes grupos poblacionales, desgloses geográficos y evaluar cambios a lo largo del tiempo.¬¬El indicador se presenta desagregado a nivel nacional y entidades federativas, por sexo y grupos de edad. Este indicador no incluye cuidados pasivos.
+  El indicador se calcula sobre la base del número promedio de horas que la población dedica al trabajo doméstico y de cuidado no remunerado por día en el propio hogar y otros hogares, respecto al tiempo total del día, lo que representa la proporción del tiempo dedicado a este tipo de actividades. Este tipo de medidas se pueden utilizar para comparar diferentes grupos poblacionales, desgloses geográficos y evaluar cambios a lo largo del tiempo.<br><br>El indicador se presenta desagregado a nivel nacional y entidades federativas, por sexo y grupos de edad. Este indicador no incluye cuidados pasivos.
 META_LAST_UPDATE: >-
   
 SDG_RELATED_INDICATORS: >-
@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Instituto Nacional de Estadística y Geografía (INEGI).<br>Instituto Nacional de las Mujeres (INMUJERES).<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Clasificación Mexicana de Actividades de Uso del Tiempo (CMAUT) 2014.<br>
 COMPILING_ORG: >-
-  
+  Instituto Nacional de Estadística y Geografía (INEGI). <a target="_blank" class="liga3" href="https://www.inegi.org.mx/">https://www.inegi.org.mx/ </a><br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  5.4.1b Proporción de tiempo dedicado al trabajo doméstico y de cuidado no remunerado, desglosada por entidad federativa
+  '5.4.1b Proporción de tiempo dedicado al trabajo doméstico y de cuidado no remunerado, desglosada por entidad federativa'
 graph_titles:
   []
 graph_type:
@@ -121,7 +121,7 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  5.4.1b Proporción de tiempo dedicado al trabajo doméstico y de cuidado no remunerado, desglosada por entidad federativa
+  '5.4.1b Proporción de tiempo dedicado al trabajo doméstico y de cuidado no remunerado, desglosada por entidad federativa'
 indicator_number:
   '5.4.1b'
 national_geographical_coverage:
@@ -140,3 +140,25 @@ standalone:
   false
 tags:
   []
+source_active_1:
+  false
+source_organisation_1:
+  ''
+source_periodicity_1:
+  ''
+source_geographical_coverage_1:
+  ''
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

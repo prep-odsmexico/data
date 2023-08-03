@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Elaboración propia con base en la información Sistema Integral de Modernización Catastral y Registral (SIMCR) del Registro Agrario Nacional (RAN)<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Agenda 2030<br>
 COMPILING_ORG: >-
-  
+  Secretaría de Desarrollo Agrario, Territorial y Urbano (SEDATU). Unidad de Planeación y Desarrollo Institucional.<br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  5n.2.1 Porcentaje de certificados y títulos expedidos a mujeres como sujetos agrarios con respecto a los hombres
+  '5n.2.1 Porcentaje de certificados y títulos expedidos a mujeres como sujetos agrarios con respecto a los hombres'
 graph_titles:
   []
 graph_type:
@@ -121,7 +121,7 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  5n.2.1 Porcentaje de certificados y títulos expedidos a mujeres como sujetos agrarios con respecto a los hombres
+  '5n.2.1 Porcentaje de certificados y títulos expedidos a mujeres como sujetos agrarios con respecto a los hombres'
 indicator_number:
   '5n.2.1'
 national_geographical_coverage:

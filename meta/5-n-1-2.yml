@@ -5,7 +5,7 @@ SDG_TARGET: >-
 SDG_INDICATOR: >-
   5n.1.2 Brecha en el tiempo promedio que hombres y mujeres destinan a quehaceres domésticos, por grupos de edad
 SDG_SERIES_DESCR: >-
-  Se calcula la población por sexo y grupo de edad, que realizan trabajo doméstico no remunerado, cuidado a personas en su hogar,  trabajo domestico y cuidados a personas de otros hogares.¬Se calculan las horas totales que realiza la población por sexo que realizan trabajo doméstico en su propio hogar, cuidado a personas en su hogar,  trabajo domestico y cuidados a personas de otros hogares¬Se dividen las horas totales entre la población que realizo el trabajo.¬Para el cálculo de la brecha se realiza la resta del tiempo promedio en horas semanales de los hombres con respecto al  tiempo promedio en horas semanales de las mujeres.
+  Se calcula la población por sexo y grupo de edad, que realizan trabajo doméstico no remunerado, cuidado a personas en su hogar,  trabajo domestico y cuidados a personas de otros hogares.<br>Se calculan las horas totales que realiza la población por sexo que realizan trabajo doméstico en su propio hogar, cuidado a personas en su hogar,  trabajo domestico y cuidados a personas de otros hogares<br>Se dividen las horas totales entre la población que realizo el trabajo.<br>Para el cálculo de la brecha se realiza la resta del tiempo promedio en horas semanales de los hombres con respecto al  tiempo promedio en horas semanales de las mujeres.
 META_LAST_UPDATE: >-
   
 SDG_RELATED_INDICATORS: >-
@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Estimaciones con base en la ENUT 2009, 2014 y 2019.<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -41,7 +41,7 @@ REL_CAL_POLICY: >-
 DATA_SOURCE: >-
 
 COMPILING_ORG: >-
-  
+  Instituto Nacional de Estadística y Geografía (INEGI) <a target="_blank" class="liga3" href=" https://inegi.org.mx/default.html"> https://inegi.org.mx/default.html</a><br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  5n.1.2 Brecha en el tiempo promedio que hombres y mujeres destinan a quehaceres domésticos, por grupos de edad
+  '5n.1.2 Brecha en el tiempo promedio que hombres y mujeres destinan a quehaceres domésticos, por grupos de edad'
 graph_titles:
   []
 graph_type:
@@ -121,7 +121,7 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  5n.1.2 Brecha en el tiempo promedio que hombres y mujeres destinan a quehaceres domésticos, por grupos de edad
+  '5n.1.2 Brecha en el tiempo promedio que hombres y mujeres destinan a quehaceres domésticos, por grupos de edad'
 indicator_number:
   '5n.1.2'
 national_geographical_coverage:
@@ -140,3 +140,25 @@ standalone:
   false
 tags:
   []
+source_active_1:
+  false
+source_organisation_1:
+  ''
+source_periodicity_1:
+  ''
+source_geographical_coverage_1:
+  ''
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

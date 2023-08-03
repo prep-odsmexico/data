@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Instituto Federal de Telecomunicaciones (IFT). Coordinación General de Planeación Estratégica, con base en los resultados de las Encuestas Nacionales sobre Disponibilidad y Uso de Tecnología de Información en los Hogares (ENDUTIH) del Instituto Nacional de Estadística y Geografía (INEGI), 2015, 2016, 2017 y 2018.<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Unión Internacional de Telecomunicaciones (UIT).<br><a target="_blank" class="liga3" href="http://www.itu.int/dms_pub/itu-d/opb/ind/D-IND-ITCMEAS-2014-PDF-E.pdf">http://www.itu.int/dms_pub/itu-d/opb/ind/D-IND-ITCMEAS-2014-PDF-E.pdf</a><br>
 COMPILING_ORG: >-
-  
+  Instituto Federal de Telecomunicaciones (IFT).<br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  5.b.1 Proporción de personas que utilizan teléfonos móviles, desglosada por sexo
+  '5.b.1 Proporción de personas que utilizan teléfonos móviles, desglosada por sexo'
 graph_titles:
   []
 graph_type:
@@ -121,7 +121,7 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  5.b.1 Proporción de personas que utilizan teléfonos móviles, desglosada por sexo
+  '5.b.1 Proporción de personas que utilizan teléfonos móviles, desglosada por sexo'
 indicator_number:
   '5.b.1'
 national_geographical_coverage:
