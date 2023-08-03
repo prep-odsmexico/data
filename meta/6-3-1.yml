@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Comisión Nacional del Agua (CONAGUA). Gerencia de Planificación Hídrica. Sistema Nacional de Información del Agua (SINA), a partir de los registros administrativos de la Subdirección General Técnica y Subdirección General de Agua Potable, Drenaje y Saneamiento de la CONAGUA.<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Comisión Nacional del Agua (Conagua). Programa Nacional Hídrico 2020-2024<br>
 COMPILING_ORG: >-
-  
+  Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Comisión Nacional del Agua (CONAGUA). Gerencia de Planificación Hídrica. Sistema Nacional de Información del Agua (SINA).<br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  6.3.1 Proporción de aguas residuales tratadas de manera adecuada
+  '6.3.1 Proporción de aguas residuales tratadas de manera adecuada'
 graph_titles:
   []
 graph_type:
@@ -121,7 +121,7 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  6.3.1 Proporción de aguas residuales tratadas de manera adecuada
+  '6.3.1 Proporción de aguas residuales tratadas de manera adecuada'
 indicator_number:
   '6.3.1'
 national_geographical_coverage:

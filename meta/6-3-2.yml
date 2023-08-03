@@ -5,7 +5,7 @@ SDG_TARGET: >-
 SDG_INDICATOR: >-
   6.3.2. Proporción de cuerpos de agua con buena calidad de agua
 SDG_SERIES_DESCR: >-
-  El indicador se calcula en dos etapas: ¬1. En el primer paso, se clasifican los cuerpos de agua de acuerdo con una evaluación en función del cumplimiento de los límites permisibles para cada uno de los parámetros seleccionados.¬2. En un segundo paso, los resultados de la clasificación se utilizan para calcular el indicador como la proporción del número de cuerpos de agua clasificados como de buena calidad en relación con el número total de cuerpos de agua considerados en el análisis.¬El indicador se basa en datos de calidad del agua derivados de mediciones in situ y el análisis de muestras recolectadas de aguas superficiales y subterráneas. La calidad del agua se evalúa mediante parámetros físicos y químicos que reflejan la calidad  del agua. El estado de la calidad de los cuerpos de agua individuales se clasifica en función del cumplimiento de los límites permisibles para evaluar la calidad del agua disponibles. ¬Para el caso de México, los parámetros considerados para evaluar la calildad del agua en los cuerpos de agua son: porcentaje de saturación de oxígeno, conductividad eléctrica, pH, fósforo total y nitrógeno de nitratos.
+  El indicador se calcula en dos etapas: <br>1. En el primer paso, se clasifican los cuerpos de agua de acuerdo con una evaluación en función del cumplimiento de los límites permisibles para cada uno de los parámetros seleccionados.<br>2. En un segundo paso, los resultados de la clasificación se utilizan para calcular el indicador como la proporción del número de cuerpos de agua clasificados como de buena calidad en relación con el número total de cuerpos de agua considerados en el análisis.<br>El indicador se basa en datos de calidad del agua derivados de mediciones in situ y el análisis de muestras recolectadas de aguas superficiales y subterráneas. La calidad del agua se evalúa mediante parámetros físicos y químicos que reflejan la calidad  del agua. El estado de la calidad de los cuerpos de agua individuales se clasifica en función del cumplimiento de los límites permisibles para evaluar la calidad del agua disponibles. <br>Para el caso de México, los parámetros considerados para evaluar la calildad del agua en los cuerpos de agua son: porcentaje de saturación de oxígeno, conductividad eléctrica, pH, fósforo total y nitrógeno de nitratos.
 META_LAST_UPDATE: >-
   
 SDG_RELATED_INDICATORS: >-
@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Comisión Nacional del Agua (CONAGUA). Gerencia de Planificación Hídrica. Sistema Nacional de Información del Agua (SINA), a partir de los registros administrativos de la Gerencia de Calidad del Agua de la Subdirección General Técnica.<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Global Environment Monitoring System for Water (GEMS/Water)<br>
 COMPILING_ORG: >-
-  
+  Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Comisión Nacional del Agua (CONAGUA). Gerencia de Planificación Hídrica. Sistema Nacional de Información del Agua (SINA).<br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  6.3.2. Proporción de cuerpos de agua con buena calidad de agua
+  '6.3.2. Proporción de cuerpos de agua con buena calidad de agua'
 graph_titles:
   []
 graph_type:
@@ -121,7 +121,7 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  6.3.2. Proporción de cuerpos de agua con buena calidad de agua
+  '6.3.2. Proporción de cuerpos de agua con buena calidad de agua'
 indicator_number:
   '6.3.2.'
 national_geographical_coverage:

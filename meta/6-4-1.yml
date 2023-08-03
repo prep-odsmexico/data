@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Comisión Nacional del Agua (CONAGUA). Gerencia de Planificación Hídrica. Sistema Nacional de Información del Agua (SINA) a partir de la información del Sistema de Cuentas Nacionales del Instituto Nacional de Estadística y Geografía (INEGI) y del Registro Público de Derechos de Agua (REPDA) de la CONAGUA.<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Comisión Nacional del Agua (Conagua). Programa Nacional Hídrico 2020-2024<br>
 COMPILING_ORG: >-
-  
+  Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT). Comisión Nacional del Agua (CONAGUA). Gerencia de Planificación Hídrica. Sistema Nacional de Información del Agua (SINA).<br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  6.4.1 Cambio en la eficiencia del uso del agua a lo largo del tiempo
+  '6.4.1 Cambio en la eficiencia del uso del agua a lo largo del tiempo'
 graph_titles:
   []
 graph_type:
@@ -121,7 +121,7 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  6.4.1 Cambio en la eficiencia del uso del agua a lo largo del tiempo
+  '6.4.1 Cambio en la eficiencia del uso del agua a lo largo del tiempo'
 indicator_number:
   '6.4.1'
 national_geographical_coverage:
