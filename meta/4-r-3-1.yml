@@ -5,7 +5,7 @@ SDG_TARGET: >-
 SDG_INDICATOR: >-
   4r.3.1 Tasa bruta de matrícula de educación superior, desglosada por sexo
 SDG_SERIES_DESCR: >-
-  Se calcula como la relación entre el número total de matriculados en el nivel licenciatura entre la población del grupo de edad típico correspondiente a este nivel (18 a 22 años). El resultado se multiplica por 100.¬¬Los datos usualmente son recogidos por los ministerios de educación de los países o compilados de encuestas y censos.¬
+  Se calcula como la relación entre el número total de matriculados en el nivel licenciatura entre la población del grupo de edad típico correspondiente a este nivel (18 a 22 años). El resultado se multiplica por 100.<br><br>Los datos usualmente son recogidos por los ministerios de educación de los países o compilados de encuestas y censos.<br>
 META_LAST_UPDATE: >-
   
 SDG_RELATED_INDICATORS: >-
@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Secretaría de Educación Pública (SEP). Dirección General de Planeación, Programación y Estadística Educativa. Sistema de Estadísticas Continuas. Disponible en: <a target="_blank" class="liga3" href="https://www.planeacion.sep.gob.mx/principalescifras/">https://www.planeacion.sep.gob.mx/principalescifras/</a><br>Consejo Nacional de Población (CONAPO). Proyecciones de la Población de México y de las Entidades Federativas, 2016-2050 y Conciliación Demográfica de México, 1950-2015. Disponible en: <a target="_blank" class="liga3" href="https://www.gob.mx/conapo/acciones-y-programas/conciliacion-demografica-de-mexico-1950-2015-y-proyecciones-de-la-poblacion-de-mexico-y-de-las-entidades-federativas-2016-2050 ">https://www.gob.mx/conapo/acciones-y-programas/conciliacion-demografica-de-mexico-1950-2015-y-proyecciones-de-la-poblacion-de-mexico-y-de-las-entidades-federativas-2016-2050</a><br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Instituto de Estadísticas de la UNESCO (UIS). <a target="_blank" class="liga3" href="http://data.uis.unesco.org/"> http://data.uis.unesco.org/<br>
 COMPILING_ORG: >-
-  
+  Secretaría de Educación Pública (SEP). Dirección General de Planeación, Programación y Estadística Educativa (DGPPYEE). <a target="_blank" class="liga3" href="https://www.planeacion.sep.gob.mx/">https://www.planeacion.sep.gob.mx/</a><br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  4r.3.1 Tasa bruta de matrícula de educación superior, desglosada por sexo
+  '4r.3.1 Tasa bruta de matrícula de educación superior, desglosada por sexo'
 graph_titles:
   []
 graph_type:
@@ -121,7 +121,7 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  4r.3.1 Tasa bruta de matrícula de educación superior, desglosada por sexo
+  '4r.3.1 Tasa bruta de matrícula de educación superior, desglosada por sexo'
 indicator_number:
   '4r.3.1'
 national_geographical_coverage:
@@ -140,3 +140,25 @@ standalone:
   false
 tags:
   []
+source_active_1:
+  false
+source_organisation_1:
+  ''
+source_periodicity_1:
+  ''
+source_geographical_coverage_1:
+  ''
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

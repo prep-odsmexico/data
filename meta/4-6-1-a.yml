@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Instituto Nacional para la Educación de los Adultos (INEA), utilizando la "Metodología para el cálculo de la estimación del rezago educativo anual".<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Instituto de Estadísticas de la UNESCO (UIS). <a target="_blank" class="liga3" href="http://data.uis.unesco.org/"> http://data.uis.unesco.org/<br>
 COMPILING_ORG: >-
-  
+  Secretaría de Educación Pública (SEP). Instituto Nacional para la Educación de los Adultos (INEA). <a target="_blank" class="liga3" href="https://www.gob.mx/inea/">https://www.gob.mx/inea/</a><br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  4.6.1.a Porcentaje de población en un grupo de edad determinado que alcanza por lo menos un nivel fijo de competencia funcional en alfabetización, desglosado por sexo
+  '4.6.1.a Porcentaje de población en un grupo de edad determinado que alcanza por lo menos un nivel fijo de competencia funcional en alfabetización, desglosado por sexo'
 graph_titles:
   []
 graph_type:
@@ -121,7 +121,7 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  4.6.1.a Porcentaje de población en un grupo de edad determinado que alcanza por lo menos un nivel fijo de competencia funcional en alfabetización, desglosado por sexo
+  '4.6.1.a Porcentaje de población en un grupo de edad determinado que alcanza por lo menos un nivel fijo de competencia funcional en alfabetización, desglosado por sexo'
 indicator_number:
   '4.6.1.a'
 national_geographical_coverage:

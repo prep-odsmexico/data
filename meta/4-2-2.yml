@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Secretaría de Educación Pública (SEP). Dirección General de Planeación, Programación y Estadística Educativa. Sistema de Estadísticas Continuas. Disponible en: <a target="_blank" class="liga3" href="https://www.planeacion.sep.gob.mx/principalescifras/">https://www.planeacion.sep.gob.mx/principalescifras/</a><br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Instituto de Estadísticas de la UNESCO (UIS). <a target="_blank" class="liga3" href="http://data.uis.unesco.org/"> http://data.uis.unesco.org/<br>
 COMPILING_ORG: >-
-  
+  Secretaría de Educación Pública (SEP). Dirección General de Planeación, Programación y Estadística Educativa (DGPPYEE). <a target="_blank" class="liga3" href="https://www.planeacion.sep.gob.mx/">https://www.planeacion.sep.gob.mx/</a><br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  4.2.2 Tasa de participación en el aprendizaje organizado (un año antes de la edad oficial de ingreso en la enseñanza primaria), desglosada por sexo
+  '4.2.2 Tasa de participación en el aprendizaje organizado (un año antes de la edad oficial de ingreso en la enseñanza primaria), desglosada por sexo'
 graph_titles:
   []
 graph_type:
@@ -121,7 +121,7 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  4.2.2 Tasa de participación en el aprendizaje organizado (un año antes de la edad oficial de ingreso en la enseñanza primaria), desglosada por sexo
+  '4.2.2 Tasa de participación en el aprendizaje organizado (un año antes de la edad oficial de ingreso en la enseñanza primaria), desglosada por sexo'
 indicator_number:
   '4.2.2'
 national_geographical_coverage:

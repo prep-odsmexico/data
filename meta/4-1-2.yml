@@ -5,7 +5,7 @@ SDG_TARGET: >-
 SDG_INDICATOR: >-
   4.1.2 Índice de finalización (enseñanza primaria, secundaria y preparatoria)
 SDG_SERIES_DESCR: >-
-  El indicador se calcula dividiendo a la población que finalizó el nivel de instrucción del grupo de edad, entre la población total del grupo de edad, expresado en porcentaje.¬¬Se desglosa la información para el total de población, Hombres, Mujeres, Hablantes de lengua indígena, Población con alguna discapacidad y Cambio de residencia (sólo nacional).
+  El indicador se calcula dividiendo a la población que finalizó el nivel de instrucción del grupo de edad, entre la población total del grupo de edad, expresado en porcentaje.<br><br>Se desglosa la información para el total de población, Hombres, Mujeres, Hablantes de lengua indígena, Población con alguna discapacidad y Cambio de residencia (sólo nacional).
 META_LAST_UPDATE: >-
   
 SDG_RELATED_INDICATORS: >-
@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ingreso y Gasto en los Hogares (ENIGH). 2014. 2016. 2018. 2020.<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Repositorio de metadatos de los ODS, disponible en: <a target="_blank" class="liga3" href="https://unstats.un.org/sdgs/metadata/"> https://unstats.un.org/sdgs/metadata/<br>
 COMPILING_ORG: >-
-  
+  Instituto Nacional de Estadística y Geografía (INEGI). <a target="_blank" class="liga3" href="https://www.inegi.org.mx/">https://www.inegi.org.mx/ </a><br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  4.1.2 Índice de finalización (enseñanza primaria, secundaria y preparatoria)
+  '4.1.2 Índice de finalización (enseñanza primaria, secundaria y preparatoria)'
 graph_titles:
   []
 graph_type:
@@ -121,7 +121,7 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  4.1.2 Índice de finalización (enseñanza primaria, secundaria y preparatoria)
+  '4.1.2 Índice de finalización (enseñanza primaria, secundaria y preparatoria)'
 indicator_number:
   '4.1.2'
 national_geographical_coverage:

@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Instituto Nacional de Salud Pública (INSP). Encuesta Nacional de Salud y Nutrición 2021 sobre COVID-19 [22 de mayo del 2023]. Disponible en: <a target="_blank" class="liga3" href="https://ensanut.insp.mx/encuestas/ensanutcontinua2021/doctos/informes/220804_Ensa21_digital_4ago.pdf"> https://ensanut.insp.mx/encuestas/ensanutcontinua2021/doctos/informes/220804_Ensa21_digital_4ago.pdf </a><br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Repositorio de metadatos de los ODS, disponible en: <a target="_blank" class="liga3" href="https://unstats.un.org/sdgs/metadata/"> https://unstats.un.org/sdgs/metadata/<br>
 COMPILING_ORG: >-
-  
+  Secretaría de Salud. Instituto Nacional de Salud Pública.<br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  4.2.1 Proporción de niños de 24 a 59 meses cuyo desarrollo es adecuado en cuanto a la salud, el aprendizaje y el bienestar psicosocial, desglosada por sexo
+  '4.2.1 Proporción de niños de 24 a 59 meses cuyo desarrollo es adecuado en cuanto a la salud, el aprendizaje y el bienestar psicosocial, desglosada por sexo'
 graph_titles:
   []
 graph_type:
@@ -121,7 +121,7 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  4.2.1 Proporción de niños de 24 a 59 meses cuyo desarrollo es adecuado en cuanto a la salud, el aprendizaje y el bienestar psicosocial, desglosada por sexo
+  '4.2.1 Proporción de niños de 24 a 59 meses cuyo desarrollo es adecuado en cuanto a la salud, el aprendizaje y el bienestar psicosocial, desglosada por sexo'
 indicator_number:
   '4.2.1'
 national_geographical_coverage:

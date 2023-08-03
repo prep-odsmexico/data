@@ -5,7 +5,7 @@ SDG_TARGET: >-
 SDG_INDICATOR: >-
   4.4.1 Proporción de jóvenes y adultos con conocimientos de tecnología de la información y las comunicaciones (TIC), desglosada por tipo de conocimiento técnico
 SDG_SERIES_DESCR: >-
-  Este indicador se calcula dividiendo la población de determinados grupos de edad, que tienen alguna de las sig. características¬¬1. Enviar y recibir correo electrónico¬2. Descargar contenidos de Internet (música, videos, documentos, etcétera)¬3. Copiar archivos entre directorios (carpetas)¬4. Crear archivos de texto¬5. Crear hojas de cálculo¬6. Crear presentaciones¬7. Instalar dispositivos periféricos (impresora, proyector, etcétera)¬8. Crear o usar bases de datos¬9. Programar en lenguaje especializado¬¬Entre el total de la población.
+  Este indicador se calcula dividiendo la población de determinados grupos de edad, que tienen alguna de las sig. características<br><br>1. Enviar y recibir correo electrónico<br>2. Descargar contenidos de Internet (música, videos, documentos, etcétera)<br>3. Copiar archivos entre directorios (carpetas)<br>4. Crear archivos de texto<br>5. Crear hojas de cálculo<br>6. Crear presentaciones<br>7. Instalar dispositivos periféricos (impresora, proyector, etcétera)<br>8. Crear o usar bases de datos<br>9. Programar en lenguaje especializado<br><br>Entre el total de la población.
 META_LAST_UPDATE: >-
   
 SDG_RELATED_INDICATORS: >-
@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Instituto Federal de Telecomunicaciones (IFT). Coordinación General de Planeación Estratégica, con base en los resultados de las Encuestas Nacionales sobre Disponibilidad y Uso de Tecnología de Información en los Hogares (ENDUTIH) del Instituto Nacional de Estadística y Geografía (INEGI), 2017, 2018 y 2019.<br>Consejo Nacional de Población (CONAPO) con base en las Proyecciones de la población de México 2010-2050.<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Compilation of Metadata for the Proposed Global Indicators for the Review of the 2030 Agenda for Sustainable Development (IAEG-SDGs)<br>http://unstats.un.org/sdgs/files/metadata-compilation/Metadata-Goal-4.pdf<br>
 COMPILING_ORG: >-
-  
+  Instituto Federal de Telecomunicaciones (IFT).<br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  4.4.1 Proporción de jóvenes y adultos con conocimientos de tecnología de la información y las comunicaciones (TIC), desglosada por tipo de conocimiento técnico
+  '4.4.1 Proporción de jóvenes y adultos con conocimientos de tecnología de la información y las comunicaciones (TIC), desglosada por tipo de conocimiento técnico'
 graph_titles:
   []
 graph_type:
@@ -121,7 +121,7 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  4.4.1 Proporción de jóvenes y adultos con conocimientos de tecnología de la información y las comunicaciones (TIC), desglosada por tipo de conocimiento técnico
+  '4.4.1 Proporción de jóvenes y adultos con conocimientos de tecnología de la información y las comunicaciones (TIC), desglosada por tipo de conocimiento técnico'
 indicator_number:
   '4.4.1'
 national_geographical_coverage:
