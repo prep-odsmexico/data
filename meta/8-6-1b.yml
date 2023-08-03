@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ocupación y Empleo (ENOE). Primer trimestre de 2017 al primer trimestre de 2020.Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ocupación y Empleo (ENOEN) (Nueva edición). Tercer trimestre de 2020 al cuarto trimestre de 2022.<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  OCDE. Jóvenes sin empleo, educación o formación (NINI)<a target="_blank" class="liga3" href="https://data.oecd.org/youthinac/youth-not-in-employment-education-or-training-neet.htm"> https://data.oecd.org/youthinac/youth-not-in-employment-education-or-training-neet.htm<br>
 COMPILING_ORG: >-
-  
+  Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Estadísticas Sociodemográficas.<br>
 INST_MANDATE: >-
 
 RATIONALE: >-

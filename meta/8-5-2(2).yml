@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Instituto Nacional de Estadística y Geografía (INEGI) y Secretaría del Trabajo y Previsión Social (STPS).<br>1995-2004: Encuesta Nacional de Empleo (ENE), con proyecciones de población basadas en el Conteo de Población y Vivienda 2005.<br>A partir de 2005: Encuesta Nacional de Ocupación y Empleo (ENOE), con proyecciones de población basadas en el Censo de Población y Vivienda 2010.<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Organización Internacional del Trabajo (OIT), Indicadores clave del mercado laboral, 2015. OIT. Ginebra, Suiza. <a target="_blank" class="liga3" href="http://www.ilo.org/ilostat/faces/home/statisticaldata/new_link_10?_adf.ctrl-state=15qffd79n1_154&_afrLoop=214033851619998Num.! ">http://www.ilo.org/ilostat/faces/home/statisticaldata/new_link_10?_adf.ctrl-state=15qffd79n1_154&_afrLoop=214033851619998Num.!</a><br>
 COMPILING_ORG: >-
-  
+  Secretaría del Trabajo y Previsión Social (STPS).<br>
 INST_MANDATE: >-
 
 RATIONALE: >-

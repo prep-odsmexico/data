@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Instituto Nacional de Estadística y Geografía (INEGI). Sistema de Cuentas Nacionales de México. Cuentas de Bienes y Servicios, 2021 preliminar. Base 2013. Anual. (03 de octubre de 2022)<br>Consejo Nacional de Población (CONAPO), Proyecciones de la población de México 2016-2050 y Conciliación Demográfica de México, 1950 -2015. Septiembre de 2018.<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Banco Mundial (BM). <a target="_blank" class="liga3" href="https://dats.bancomundial.org/indicador/NY.GDP.PCAP.CD">PIB per cápita (US$ a precios actuales).</a> (13 de diciembre de 2018)<br>
 COMPILING_ORG: >-
-  
+  Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Estadísticas Económicas.<br>
 INST_MANDATE: >-
 
 RATIONALE: >-

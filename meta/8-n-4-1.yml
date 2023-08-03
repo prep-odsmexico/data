@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Índice Global de Productividad Laboral de la Economía (IGPLE).<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  En noviembre de 2009, en el marco de la Ley del Sistema Nacional de Información Estadística y Geográfica (LSNIEG, D.O.F.16/IV/2008), se constituyó como parte del Subsistema Nacional de Información Demográfica y Social, el Comité Técnico Especializado de Estadísticas del Trabajo y Previsión Social (CTEETPS)<br>
 COMPILING_ORG: >-
-  
+  Instituto Nacional de Estadística y Geografía (INEGI) <a target="_blank" class="liga3" href=" https://inegi.org.mx/default.html"> https://inegi.org.mx/default.html</a><br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -140,3 +140,25 @@ standalone:
   false
 tags:
   []
+source_active_1:
+  false
+source_organisation_1:
+  ''
+source_periodicity_1:
+  ''
+source_geographical_coverage_1:
+  ''
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

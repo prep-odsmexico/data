@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Encuesta Nacional de Ocupación y Empleo (ENOE). Primer trimestre de 2016 al primer trimestre de 2020.<br>Encuesta Nacional de Ocupación y Empleo (ENOEN) (Nueva edición). Tercer trimestre de 2020 al cuarto trimestre de 2021.<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  La OIT es el centro de coordinación de las Naciones Unidas para las estadísticas laborales. Establece estándares internacionales para las estadísticas del trabajo a través de la Conferencia Internacional de Estadísticos del Trabajo. También compila y produce estadísticas laborales con el objetivo de difundir conjuntos de datos comparables a nivel internacional, y brinda asistencia técnica y capacitación a los Estados miembros de la OIT para apoyar sus esfuerzos por producir datos del mercado laboral de alta calidad.<br><br>Resolución sobre la medición de los ingresos relacionados con el empleo, adoptada por la XVI Conferencia Internacional de Estadísticos del Trabajo (enero de 1998).<br><br>Resolución sobre la Clasificación Internacional de la Situación en el Empleo (CISE), adoptada por la Decimoquinta Conferencia Internacional de Estadísticos del Trabajo (enero de 1993).<br><br>Resolución sobre un sistema integrado de estadísticas de salarios, adoptada por la Duodécima Conferencia Internacional de Estadísticos del Trabajo (enero de 1973).<br><br>Manual de la OIT: Un sistema integrado de estadísticas de salarios.<br>
 COMPILING_ORG: >-
-  
+  Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Estadísticas Sociodemográficas.<br>
 INST_MANDATE: >-
 
 RATIONALE: >-

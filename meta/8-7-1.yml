@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Instituto Nacional de Estadística y Geografía (INEGI) y Secretaría del Trabajo y Previsión Social (STPS). Módulo de Trabajo Infantil (MTI) de la Encuesta Nacional de Ocupación y Empleo (ENOE) y la Encuesta Nacional de Trabajo Infantil (ENTI), 2019. Las cifras absolutas de la ENOE se sustentan en las proyecciones de población basadas en el Censo de Población y Vivienda 2010.<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Organización Internacional del Trabajo (OIT), Trabajo infantil. Panorama general. OIT, Ginebra, Suiza. <a target="_blank" class="liga3" href="http://www.ilo.org/global/topics/child-labour/lang--es/index.htm">http://www.ilo.org/global/topics/child-labour/lang--es/index.htm</a><br>
 COMPILING_ORG: >-
-  
+  Secretaría del Trabajo y Previsión Social (STPS).<br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -91,7 +91,12 @@ data_notice_text:
 data_show_map:
   true
 data_start_values:
-  []
+  - field: 'Entidad federativa'
+    value: 'Estados Unidos Mexicanos'
+  - field: 'Sexo'
+    value: 'Total'
+  - field: 'Grupo de edad'
+    value: 'Total'
 embedded_feature_footer:
   ''
 embedded_feature_html:

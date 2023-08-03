@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Este indicador es calculado por el Fondo Monetario Internacional (FMI) a partir de la información que le provee la Dirección General para el Acceso a los Servicios Financieros de la Comisión Nacional Bancaria y de Valores (CNBV) sobre el número de sucursales; a su vez, el dato sobre la población adulta se obtiene de los Indicadores del Desarrollo Mundial del Banco Mundial.<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Fondo Monetario Internacional. <a target="_blank" class="liga3" href="http://data.imf.org/?sk=E5DCAB7E-A5CA-4892-A6EA-598B5463A34C">Encuesta de Acceso Financiero (FAS, por sus siglas en inglés)</a><br>
 COMPILING_ORG: >-
-  
+  Secretaría de Hacienda y Crédito Público (SHCP).<br>
 INST_MANDATE: >-
 
 RATIONALE: >-

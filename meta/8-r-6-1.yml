@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de Ocupación y Empleo (ENOE).<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Repositorio de Indicadores priorizados para el seguimiento de los ODS en América Latina y el Caribe (CEPAL). Disponible en: <a target="_blank" class="liga3" href="https://agenda2030lac.org/estadisticas/indicadores-priorizados-seguimiento-ods.html"> https://agenda2030lac.org/estadisticas/indicadores-priorizados-seguimiento-ods.html</a><br>
 COMPILING_ORG: >-
-  
+  Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Estadísticas Sociodemográficas.<br>
 INST_MANDATE: >-
 
 RATIONALE: >-

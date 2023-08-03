@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Instituto Nacional de Estadística y Geografía (INEGI) y Secretaría del Trabajo y Previsión Social (STPS).<br>2014-2022: Encuesta Nacional de Ocupación y Empleo Nueva Edición (ENOEN), utiliza las estimaciones trimestrales de población que genera el Marco de Muestreo de Viviendas del INEGI, con base en el Censo 2020.<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Programa de las Naciones Unidas para el Desarrollo (PNUD). "Soporte del PNUD para la implementación de la Agenda 2030 para el Desarrollo Sostenible" <a target="_blank" class="liga3" href="http://www.undp.org/ "> Grupo de Naciones Unidas para el Desarrollo</a><br>
 COMPILING_ORG: >-
-  
+  Secretaría del Trabajo y Previsión Social (STPS).<br>
 INST_MANDATE: >-
 
 RATIONALE: >-

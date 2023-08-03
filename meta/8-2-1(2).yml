@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Instituto Nacional de Estadística y Geografía (INEGI) y Secretaría del Trabajo y Previsión Social (STPS).<br>1995-2004: Encuesta Nacional de Empleo (ENE), con proyecciones de población basadas en el Conteo de Población y Vivienda 2005.<br>A partir de 2005: Encuesta Nacional de Ocupación y Empleo (ENOE), con proyecciones de población basadas en el Censo de Población y Vivienda 2010.<br>Instituto Nacional de Estadística y Geografía (INEGI). Sistema de Cuentas Nacionales de México, Base 2013. Producto Interno Bruto Anual a precios corrientes.<br>Organización para la Cooperación y el Desarrollo Económicos (OCDE). "PPPs for GDP - Historical series" (Series históricas de la Paridad de Poder de Compra). (27 de febrero de 2018)<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Organización Internacional del Trabajo (OIT). Indicadores Clave del Mercado de Trabajo, 2015. OIT,  Ginebra, Suiza. <a target="_blank" class="liga3" href="http://www.ilo.org/global/statistics-and-databases/research-and-databases/kilm/WCMS_498940/lang--es/index.htm ">http://www.ilo.org/global/statistics-and-databases/research-and-databases/kilm/WCMS_498940/lang--es/index.htm</a><br>
 COMPILING_ORG: >-
-  
+  Secretaría del Trabajo y Previsión Social (STPS).<br>
 INST_MANDATE: >-
 
 RATIONALE: >-

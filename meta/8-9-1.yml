@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Instituto Nacional de Estadística y Geografía (INEGI). Sistema de Cuentas Nacionales de México. Cuenta Satélite del Turismo de México, 2021. Preliminar. Año Base 2013. 2022 (15 de diciembre de 2022)<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Recomendaciones Internacionales para Estadísticas de Turismo [en línea]. Naciones Unidas, la Organización Internacional del Trabajo (OIT), Organización Mundial del turismo, Organización de Cooperación y Desarrollo Económicos, Comisión de las Comunidades Europeas, Fondo Monetario Internacional y Organización Mundial del Comercio. Disponible en:  <a target="_blank" class="liga3" href="https://unstats.un.org/unsd/publication/seriesf/seriesf_80rev1s.pdf">https://unstats.un.org/unsd/publication/seriesf/seriesf_80rev1s.pdf</a><br>
 COMPILING_ORG: >-
-  
+  Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Estadísticas Económicas.<br>
 INST_MANDATE: >-
 
 RATIONALE: >-

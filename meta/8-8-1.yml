@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Instituto Mexicano del Seguro Social (IMSS), Registros administrativos sobre los accidentes (casos terminados) clasificados por año de ocurrencia y Registros administrativos sobre los trabajadores asegurados en el ramo de riesgos de trabajo.<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Organización Internacional del Trabajo (OIT). Informe III: Estadísticas de lesiones profesionales, Decimosexta Conferencia Internacional de Estadísticos del Trabajo, OIT, 1998. Ginebra, Suiza. <a target="_blank" class="liga3" href="http://www.ilo.org/global/statistics-and-databases/meetings-and-events/international-conference-of-labour-statisticians/WCMS_088377/lang--es/index.htm">http://www.ilo.org/global/statistics-and-databases/meetings-and-events/international-conference-of-labour-statisticians/WCMS_088377/lang--es/index.htm</a><br>
 COMPILING_ORG: >-
-  
+  Secretaría del Trabajo y Previsión Social (STPS).<br>
 INST_MANDATE: >-
 
 RATIONALE: >-
