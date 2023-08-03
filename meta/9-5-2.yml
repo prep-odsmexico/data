@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Encuesta Sobre Investigación y Desarrollo Experimental (ESIDET) e Instituto Nacional de Estadística y Geografía (INEGI).<br>Consejo Nacional de Población (CONAPO), <a target="_blank" class="liga3" href="http://www.conapo.gob.mx/es/CONAPO/Proyecciones">Proyecciones de la población de México 2010-2050 y estimaciones 1990-2009. Abril de 2013.</a><br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  <a target="_blank" class="liga3" href="http://www.siicyt.gob.mx/index.php/estadisticas/indicadores/category/indicadores-peciti">Programa Especial de Ciencia, Tecnología e Innovación.</a><br>
 COMPILING_ORG: >-
-  
+  Consejo Nacional de Ciencia y Tecnología (CONACYT). Dirección de Planeación y Evaluación (DPE).<br>
 INST_MANDATE: >-
 
 RATIONALE: >-

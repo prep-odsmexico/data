@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Agencia Federal de Aviación Civil. Disponible en: <a target="_blank" class="liga3" href="https://www.gob.mx/afac/acciones-y-programas/estadisticas-280404"> https://www.gob.mx/afac/acciones-y-programas/estadisticas-280404<br>Agencia Reguladora del Transporte Ferroviario. Disponible en: <a target="_blank" class="liga3" href="https://www.gob.mx/artf/documentos/anuario-estadistico-ferroviario-2021-parte-i"> https://www.gob.mx/artf/documentos/anuario-estadistico-ferroviario-2021-parte-i<br>Dirección General de Autotransporte Federal, Secretaría de Infraestructura, Comunicaciones y Transportes. Disponible en: <a target="_blank" class="liga3" href="http://www.sct.gob.mx/transporte-y-medicina-preventiva/autotransporte-federal/estadistica/"> http://www.sct.gob.mx/transporte-y-medicina-preventiva/autotransporte-federal/estadistica/<br>Coordinación General de Puertos y Marina Mercante, Secretaría de Marina. Disponible en: <a target="_blank" class="liga3" href="https://www.gob.mx/puertosymarinamercante/acciones-y-programas/estadisticas-70565"> https://www.gob.mx/puertosymarinamercante/acciones-y-programas/estadisticas-70565<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Coordinación General de Puertos y Marina Mercante, Secretaría de Marina (SEMAR) <a target="_blank" class="liga3" href="https://www.gob.mx/puertosymarinamercante"><br>https://www.gob.mx/puertosymarinamercante<br>
 COMPILING_ORG: >-
-  
+  Secretaría de Infraestructura, Comunicaciones y Transportes (SICT) <a target="_blank" class="liga3" href="https://www.gob.mx/sct"> https://www.gob.mx/sct<br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -140,3 +140,25 @@ standalone:
   false
 tags:
   []
+source_active_1:
+  false
+source_organisation_1:
+  ''
+source_periodicity_1:
+  ''
+source_geographical_coverage_1:
+  ''
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''

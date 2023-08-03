@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  INECC. 2022. Inventario Nacional de Gases y Compuestos de Efecto Invernadero. Resumen 1990-2019. Consultado en: Compendios de Estadísticas Ambientales BadeSNIARN [Fecha de consulta: mayo de 2023]. Disponible en: <a target="_blank" class="liga3" href=" http://dgeiawf.semarnat.gob.mx:8080/ibi_apps/WFServlet?IBIF_ex=D3_AIRE02_19&IBIC_user=dgeia_mce&IBIC_pass=dgeia_mce&NOMBREANIO=*">http://dgeiawf.semarnat.gob.mx:8080/ibi_apps/WFServlet?IBIF_ex=D3_AIRE02_19&IBIC_user=dgeia_mce&IBIC_pass=dgeia_mce&NOMBREANIO=*</a><br>OCDE. Stat. National Accounts. Gross domestic product (GDP). GDP, US $, constant prices, constant PPPs, reference year 2015, millions [Fecha de consulta: mayo de 2023]. Disponible en: <a target="_blank" class="liga3" href="https://stats.oecd.org/index.aspx?queryid=60702Num."> https://stats.oecd.org/index.aspx?queryid=60702Num.</a><br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Panel Intergubernamental sobre el Cambio Climático (IPCC). <a target="_blank" class="liga3" href="http://www.ipcc.ch/"> http://www.ipcc.ch/</a><br>
 COMPILING_ORG: >-
-  
+  Secretaría de Medio Ambiente y Recursos Naturales (SEMARNAT).<br>
 INST_MANDATE: >-
 
 RATIONALE: >-

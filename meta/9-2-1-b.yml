@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Instituto Nacional de Estadística y Geografía (INEGI). Sistema de Cuentas Nacionales de México. Cuentas de Bienes y Servicios, 2021 revisado. Base 2013. Anual. (9 de mayo de 2023)<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Banco Mundial (BM). <a target="_blank" class="liga3" href="https://dats.bancomundial.org/indicador/NY.GDP.PCAP.CD">PIB per cápita (US$ a precios actuales).</a> (10 de mayo de 2023)<br>
 COMPILING_ORG: >-
-  
+  Instituto Nacional de Estadística y Geografía (INEGI). Dirección General de Estadísticas Económicas.<br>
 INST_MANDATE: >-
 
 RATIONALE: >-
