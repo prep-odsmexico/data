@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Anexo 2 Reporte de Avance de Energías Limpias 2022- SENER-Programa para el Desarrollo del Sistema Eléctrico Nacional 2022-2036<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Federal Energy Regulatory Commission (FERC). El indicador se compara con la metrica "Num. 3. Fuel Diversity", como referencia se puede consultar el documento "Guía del usuario de recopilación de información de métricas comunes, versión 1.0".<a target="_blank" class="liga3" href="https://www.ferc.gov/sites/default/files/2020-05/CMR-user-guide.pdf"> https://www.ferc.gov/sites/default/files/2020-05/CMR-user-guide.pdf<br>
 COMPILING_ORG: >-
-  
+  Secretaría de Energía (SENER)<br>
 INST_MANDATE: >-
 
 RATIONALE: >-

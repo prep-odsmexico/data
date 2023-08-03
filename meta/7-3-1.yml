@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Secretaría de Energía. Sistema de Información Energética. <a target="_blank" class="liga3" href="http://sie.energia.gob.mx/">Balance Nacional de Energía</a><br>Instituto Nacional de Estadística y Geografía (INEGI). <a target="_blank" class="liga3" href="http://www.inegi.org.mx/sistemas/bie/">Banco de Información Económica (BIE)</a><br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Indicadores de Eficiencia Energética: Bases Esenciales para el Establecimiento de Políticas, Agencia Internacional de Energía (AIE), 2015<br>
 COMPILING_ORG: >-
-  
+  Secretaría de Energía (SENER), Dirección General de Planeación e Información Energéticas.<br>
 INST_MANDATE: >-
 
 RATIONALE: >-

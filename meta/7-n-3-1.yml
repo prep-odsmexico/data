@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Comisión Reguladora de Energía (CRE).<br>Secretaría de Energía (SENER).<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Ericson, Sean J, & Olis, Daniel R. A Comparison of Fuel Choice for Backup Generators. United States.<br>
 COMPILING_ORG: >-
-  
+  Secretaría de Energía (SENER)<br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -140,3 +140,25 @@ standalone:
   false
 tags:
   []
+source_active_1:
+  false
+source_organisation_1:
+  ''
+source_periodicity_1:
+  ''
+source_geographical_coverage_1:
+  ''
+source_url_1:
+  ''
+source_url_text_1:
+  ''
+source_release_date_1:
+  ''
+source_next_release_1:
+  ''
+source_statistical_classification_1:
+  ''
+source_contact_1:
+  ''
+source_other_info_1:
+  ''
