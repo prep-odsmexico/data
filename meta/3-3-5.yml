@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Secretaría de Salud (SS). Centro Nacional de Programas Preventivos y Control de Enfermedades (CENAPRECE)<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  No aplica.<br>
 COMPILING_ORG: >-
-  
+  Secretaría de Salud (SS). Centro Nacional de Programas Preventivos y Control de Enfermedades (CENAPRECE).<br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  3.3.5 Proporción de tratamientos otorgados a casos confirmados de paludismo, para la prevención, control y eliminación de la transmisión del Plasmodium Vivax
+  '3.3.5 Proporción de tratamientos otorgados a casos confirmados de paludismo, para la prevención, control y eliminación de la transmisión del Plasmodium Vivax'
 graph_titles:
   []
 graph_type:
@@ -121,7 +121,7 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  3.3.5 Proporción de tratamientos otorgados a casos confirmados de paludismo, para la prevención, control y eliminación de la transmisión del Plasmodium Vivax
+  '3.3.5 Proporción de tratamientos otorgados a casos confirmados de paludismo, para la prevención, control y eliminación de la transmisión del Plasmodium Vivax'
 indicator_number:
   '3.3.5'
 national_geographical_coverage:

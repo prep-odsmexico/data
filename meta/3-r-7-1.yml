@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  CONAPO.  Estimaciones con base en la Encuesta Nacional de la Dinámica Demográfica.<br>Instituto Nacional de Estadística y Geografía (INEGI). Encuesta Nacional de la Dinámica Demográfica<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Perfiles de salud reproductiva, República Mexicana; 2011.Consejo Nacional de Población. Disponible en: <a target="_blank" class="liga3" href=" https://www.snieg.mx/cni/Contenidos/documentos/Estandares/Perfiles_SR_Republica_Mexicana.pdf/"> https://www.snieg.mx/cni/Contenidos/documentos/Estandares/Perfiles_SR_Republica_Mexicana.pdf</a><br>
 COMPILING_ORG: >-
-  
+  Consejo Nacional de Población (CONAPO). Dirección General de Estudios Sociodemográficos y Prospectiva.<br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  3r.7.1 Necesidad insatisfecha de métodos anticonceptivos en mujeres en edad fértil (15 a 49 años) sexualmente activas
+  '3r.7.1 Necesidad insatisfecha de métodos anticonceptivos en mujeres en edad fértil (15 a 49 años) sexualmente activas'
 graph_titles:
   []
 graph_type:
@@ -121,7 +121,7 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  3r.7.1 Necesidad insatisfecha de métodos anticonceptivos en mujeres en edad fértil (15 a 49 años) sexualmente activas
+  '3r.7.1 Necesidad insatisfecha de métodos anticonceptivos en mujeres en edad fértil (15 a 49 años) sexualmente activas'
 indicator_number:
   '3r.7.1'
 national_geographical_coverage:

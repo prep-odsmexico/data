@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Consejo Nacional de Población (CONAPO). <a target="_blank" class="liga3" href="http://www.conapo.gob.mx/es/CONAPO/Proyecciones_Datos">Estimaciones y Proyecciones de la Población de México 1990-2030.</a><br>Instituto Nacional de Estadística y Geografía (INEGI). <a target="_blank" class="liga3" href="http://www.beta.inegi.org.mx/proyectos/registros/vitales/natalidad/default.html">Registros Administrativos de Natalidad 1990-2016.</a><br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Consejo Nacional de Población (CONAPO). Estrategia Nacional para la Prevención del Embarazo en Adolescentes (ENAPEA). <a target="_blank" class="liga3" href="http://www.gob.mx/conapo/documentos/estrategia-nacional-para-la-prevencion-del-embarazo-en-adolescentes-enapea-informe-ejecutivo">http://www.gob.mx/conapo/documentos/estrategia-nacional-para-la-prevencion-del-embarazo-en-adolescentes-enapea-informe-ejecutivo</a><br>
 COMPILING_ORG: >-
-  
+  Consejo Nacional de Población (CONAPO). Dirección General de Estudios Sociodemográficos y Prospectiva (DGESP).<br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  3.7.2.a Tasa de fecundidad en niñas y adolescentes (de 10 a 14 años) por cada 1 000 niñas y adolescentes en ese grupo de edad
+  '3.7.2.a Tasa de fecundidad en niñas y adolescentes (de 10 a 14 años) por cada 1 000 niñas y adolescentes en ese grupo de edad'
 graph_titles:
   []
 graph_type:
@@ -121,7 +121,7 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  3.7.2.a Tasa de fecundidad en niñas y adolescentes (de 10 a 14 años) por cada 1 000 niñas y adolescentes en ese grupo de edad
+  '3.7.2.a Tasa de fecundidad en niñas y adolescentes (de 10 a 14 años) por cada 1 000 niñas y adolescentes en ese grupo de edad'
 indicator_number:
   '3.7.2.a'
 national_geographical_coverage:

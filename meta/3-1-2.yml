@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Secretaría de Salud (SS). Sistema Nacional de Información en Salud (SINAIS). Base de datos del Subsistema de Información sobre Nacimientos (SINAC).<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Repositorio de metadatos de los ODS, disponible en: <a target="_blank" class="liga3" href="https://unstats.un.org/sdgs/metadata/"> https://unstats.un.org/sdgs/metadata/<br>
 COMPILING_ORG: >-
-  
+  Secretaría de Salud (SS). Dirección General de Información en Salud (DGIS).<br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  3.1.2 Proporción de partos atendidos por personal sanitario capacitado
+  '3.1.2 Proporción de partos atendidos por personal sanitario capacitado'
 graph_titles:
   []
 graph_type:
@@ -121,7 +121,7 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  3.1.2 Proporción de partos atendidos por personal sanitario capacitado
+  '3.1.2 Proporción de partos atendidos por personal sanitario capacitado'
 indicator_number:
   '3.1.2'
 national_geographical_coverage:

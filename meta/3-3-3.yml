@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Secretaría de Salud. Sistema Nacional de Vigilancia Epidemiológica (SINAVE)<br>Consejo Nacional de Población  (CONAPO), <a target="_blank" class="liga3" href="https://datos.gob.mx/busca/dataset/proyecciones-de-la-poblacion-de-mexico-y-de-las-entidades-federativas-2016-2050">Proyecciones de la Población de México y de las Entidades Federativas 2016-2050.</a> Septiembre de 2018.<br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Organización de las Naciones Unidas (ONU). </a> <a target="_blank" class="liga3" href="https://www.snieg.mx/cni/Contenidos/documentos/Estandares/HandbookSpanish.pdf">Indicadores para el seguimiento de los Objetivos de Desarrollo del Milenio.</a><br>
 COMPILING_ORG: >-
-  
+  Secretaría de Salud (SS). Centro Nacional de Programas Preventivos y Control de Enfermedades (CENAPRECE).<br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  3.3.3 Incidencia de paludismo (por cada 100 mil habitantes)
+  '3.3.3 Incidencia de paludismo (por cada 100 mil habitantes)'
 graph_titles:
   []
 graph_type:
@@ -121,7 +121,7 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  3.3.3 Incidencia de paludismo (por cada 100 mil habitantes)
+  '3.3.3 Incidencia de paludismo (por cada 100 mil habitantes)'
 indicator_number:
   '3.3.3'
 national_geographical_coverage:

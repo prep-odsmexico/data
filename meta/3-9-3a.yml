@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Instituto Nacional de Estadística y Geografía (INEGI). Estadísticas Vitales. Estadísticas de defunciones registradas. Disponible en: <a target="_blank" class="liga3" href=" https://www.inegi.org.mx/programas/mortalidad/Num.Microdatos"> https://www.inegi.org.mx/programas/mortalidad/Num.Microdatos</a><br>Consejo Nacional de Población (CONAPO). Proyecciones de la Población de México y de las Entidades Federativas, 2016-2050 y Conciliación Demográfica de México, 1950-2015. Disponible en: <a target="_blank" class="liga3" href="https://www.gob.mx/conapo/acciones-y-programas/conciliacion-demografica-de-mexico-1950-2015-y-proyecciones-de-la-poblacion-de-mexico-y-de-las-entidades-federativas-2016-2050 ">https://www.gob.mx/conapo/acciones-y-programas/conciliacion-demografica-de-mexico-1950-2015-y-proyecciones-de-la-poblacion-de-mexico-y-de-las-entidades-federativas-2016-2050</a><br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Repositorio de metadatos de los ODS, disponible en: <a target="_blank" class="liga3" href="https://unstats.un.org/sdgs/metadata/"> https://unstats.un.org/sdgs/metadata/<br>
 COMPILING_ORG: >-
-  
+  Insitituto Nacional de Estadística y Geografía (INEGI), Dirección General Adjunta de Registros Administrativos y Secretaría de Salud (SS), Dirección General de Información en Salud (DGIS).<br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  3.9.3a Tasa de mortalidad atribuida a intoxicaciones involuntarias
+  '3.9.3a Tasa de mortalidad atribuida a intoxicaciones involuntarias'
 graph_titles:
   []
 graph_type:
@@ -121,7 +121,7 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  3.9.3a Tasa de mortalidad atribuida a intoxicaciones involuntarias
+  '3.9.3a Tasa de mortalidad atribuida a intoxicaciones involuntarias'
 indicator_number:
   '3.9.3a'
 national_geographical_coverage:
@@ -143,7 +143,7 @@ tags:
 source_active_1:
   true
 source_organisation_1:
-  Instituto Nacional de Estadística y Geografía (INEGI). Estadísticas Vitales. Estadísticas de defunciones registradas. Disponible en <a target="_blank" class="liga3" href=" https//www.inegi.org.mx/programas/mortalidad/NumMicrodatos"> https//www.inegi.org.mx/programas/mortalidad/NumMicrodatos</a>
+  Instituto Nacional de Estadística y Geografía (INEGI). Estadísticas Vitales. Estadísticas de defunciones registradas. Disponible en <a target="_blank" class="liga3" href=" https//www.inegi.org.mx/programas/mortalidad/Num.Microdatos"> https//www.inegi.org.mx/programas/mortalidad/Num.Microdatos</a>
 source_periodicity_1:
   Anual
 source_geographical_coverage_1:

@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Instituto Nacional de Estadística y Geografía (INEGI). <a target="_blank" class="liga3" href="https://www.inegi.org.mx/programas/enadid/2018/">Encuesta Nacional de la Dinámica Demográfica (ENADID) 2018.</a><br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  ONU-CEPAL. <a target="_blank" class="liga3" href="https://repositorio.cepal.org/bitstream/handle/11362/43622/S1800405_es.pdf?sequence=1&isAllowed=y">Propuesta de indicadores y sus metadatos para el seguimiento regional del Consenso de Montevideo sobre Población y Desarrollo.</a><br>
 COMPILING_ORG: >-
-  
+  Consejo Nacional de Población (CONAPO).<br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  3r.7.a Porcentaje del último hijo nacido vivo en el periodo de 2013 a 2018, tenido a la edad de 15 a 29 años, que no fue planificado
+  '3r.7.a Porcentaje del último hijo nacido vivo en el periodo de 2013 a 2018, tenido a la edad de 15 a 29 años, que no fue planificado'
 graph_titles:
   []
 graph_type:
@@ -121,7 +121,7 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  3r.7.a Porcentaje del último hijo nacido vivo en el periodo de 2013 a 2018, tenido a la edad de 15 a 29 años, que no fue planificado
+  '3r.7.a Porcentaje del último hijo nacido vivo en el periodo de 2013 a 2018, tenido a la edad de 15 a 29 años, que no fue planificado'
 indicator_number:
   '3r.7.a'
 national_geographical_coverage:

@@ -31,7 +31,7 @@ UNIT_MEASURE: >-
 CLASS_SYSTEM: >-
 
 SOURCE_TYPE: >-
-  
+  Consejo Nacional de Población (CONAPO). <a target="_blank" class="liga3" href="https://datos.gob.mx/busca/dataset/proyecciones-de-la-poblacion-de-mexico-y-de-las-entidades-federativas-2016-2050">Estimaciones y Proyecciones de la Población, 1990-2050.</a><br>
 COLL_METHOD: >-
 
 FREQ_COLL: >-
@@ -39,9 +39,9 @@ FREQ_COLL: >-
 REL_CAL_POLICY: >-
 
 DATA_SOURCE: >-
-  
+  Consejo Nacional de Población (CONAPO). <a target="_blank" class="liga3" href="https://www.gob.mx/conapo/documentos/metodologicos-conciliacion-demografica-de-mexico-1950-2015-y-proyecciones-de-la-poblacion-de-mexico-y-entidades-federativas-2016-2050-174946">https://www.gob.mx/conapo/documentos/metodologicos-conciliacion-demografica-de-mexico-1950-2015-y-proyecciones-de-la-poblacion-de-mexico-y-entidades-federativas-2016-2050-174946</a><br>
 COMPILING_ORG: >-
-  
+  Consejo Nacional de Población (CONAPO). Dirección General de Estudios Sociodemográficos y Prospectiva (DGESP).<br>
 INST_MANDATE: >-
 
 RATIONALE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  3.7.2.b Tasa de fecundidad en adolescentes (de 15 a 19 años) por cada 1 000 mujeres de ese grupo de edad
+  '3.7.2.b Tasa de fecundidad en adolescentes (de 15 a 19 años) por cada 1 000 mujeres de ese grupo de edad'
 graph_titles:
   []
 graph_type:
@@ -121,7 +121,7 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  3.7.2.b Tasa de fecundidad en adolescentes (de 15 a 19 años) por cada 1 000 mujeres de ese grupo de edad
+  '3.7.2.b Tasa de fecundidad en adolescentes (de 15 a 19 años) por cada 1 000 mujeres de ese grupo de edad'
 indicator_number:
   '3.7.2.b'
 national_geographical_coverage:
