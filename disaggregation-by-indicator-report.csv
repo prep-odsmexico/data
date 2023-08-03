@@ -19,6 +19,16 @@ Indicator,Disaggregations,Number of disaggregations
 #10-n-2-1,Entidad federativa,1
 #10-r-4-1a,Entidad federativa,1
 #10-r-4-1b,Entidad federativa,1
+#11-1-1,"Entidad federativa, Municipio",2
+#11-2-1,"Entidad federativa, Sexo",2
+#11-3-1,Entidad federativa,1
+#11-7-1,Entidad federativa,1
+#11-n-1-1,"Entidad federativa, Municipio",2
+#11-n-2-1,Entidad federativa,1
+#11-r-2-1a,"Entidad federativa, Sexo",2
+#11-r-2-1b,hablantes_lengua indígena,1
+#11-r-2-1c,"Sexo, Tam_loc",2
+#11-r-2-1d,"Sexo, Traslado al trabajo_grupos de edad",2
 #2-1-2,"Sexo, Grupo de edad",2
 #2-1-2-a,"Entidad federativa, Municipio",2
 #2-2-1,"Entidad federativa, Cobertura geografica",2
