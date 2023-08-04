@@ -1,9 +1,9 @@
 ﻿SDG_GOAL: >-
   Objetivo 2. Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible
 SDG_TARGET: >-
-  Meta 2n.2 Seguridad alimentaria
+  Meta 2.4 Seguridad alimentaria
 SDG_INDICATOR: >-
-  2n.2.1 Porcentaje de población con inseguridad alimentaria moderada o severa
+  2.4.1 Porcentaje de población con inseguridad alimentaria moderada o severa
 SDG_SERIES_DESCR: >-
   Este indicador resulta de identificar a población sin acceso a la alimentación, dividir dicho número de personas entre la población de referencia total y multiplicar el cociente por 100. 
 META_LAST_UPDATE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  '2n.2.1 Porcentaje de población con inseguridad alimentaria moderada o severa'
+  '2.4.1 Porcentaje de población con inseguridad alimentaria moderada o severa'
 graph_titles:
   []
 graph_type:
@@ -121,9 +121,9 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  '2n.2.1 Porcentaje de población con inseguridad alimentaria moderada o severa'
+  '2.4.1 Porcentaje de población con inseguridad alimentaria moderada o severa'
 indicator_number:
-  '2n.2.1'
+  '2.4.1'
 national_geographical_coverage:
   Nacional
 page_content:
