@@ -12,7 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Grupos de interés",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nacional",
+                "Población indígena",
+                "Personas con discapacidad",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
@@ -24,5 +36,5 @@
   ],
   "profile": "data-package",
   "name": "2-n-2-1",
-  "title": ""
+  "title": "2n.2.1 Porcentaje de población con inseguridad alimentaria moderada o severa"
 }
