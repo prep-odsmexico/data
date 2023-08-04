@@ -12,42 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Año"
-          },
-          {
-            "name": "Población en pobreza_nacional",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Nacional",
-                "Hombres",
-                "Mujeres",
-                "Población analfabeta",
-                "Población indígena",
-                "Hombres indígenas",
-                "Mujeres indígenas",
-                "Personas con discapacidad",
-                "Primera infancia (0 a 5 años)",
-                "Niños y niñas (menores de 18 años)",
-                "Jóvenes (los de 12 a 29 años)",
-                "Adultos mayores (65 años o más)",
-                "Hombres adultos mayores",
-                "Mujeres adultos mayores",
-                "Hombres (Menos de 4 horas a cuidados) <sup>1</sup>",
-                "Hombres (4 horas o más a cuidados) <sup>1</sup>",
-                "Mujeres (Menos de 4 horas a cuidados) <sup>1</sup>",
-                "Mujeres (4 horas o más a cuidados) <sup>1</sup>",
-                "Hombres (Menos de 4 horas a hogar) <sup>2</sup>",
-                "Hombres (4 horas o más a hogar) <sup>2</sup>",
-                "Mujeres (Menos de 4 horas a hogar) <sup>2</sup>",
-                "Mujeres (4 horas o más a hogar) <sup>2</sup>",
-                "Ámbito rural",
-                "Ámbito urbano",
-                ""
-              ]
-            },
-            "title": "Población en pobreza_nacional"
           },
           {
             "name": "Value",
@@ -60,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "1-n-1-1",
-  "title": "1n.1.1 Porcentaje de la población en situación de pobreza"
+  "title": ""
 }
