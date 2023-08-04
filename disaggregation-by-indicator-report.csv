@@ -11,6 +11,7 @@ Indicator,Disaggregations,Number of disaggregations
 #1-6-1,Población en pobreza_nacional,1
 #1-7-1,Entidad federativa,1
 #1-8-1-a,Entidad federativa,1
+#1-8-3,Entidad federativa,1
 #10-2-1,Personas debajo del 50% de mediana de ingresos,1
 #10-2-1a,Entidad federativa,1
 #10-3-1,"Discriminación total, Discriminación por sexo, Discriminación por edad, Discriminación por religión, Discriminación por estatus socioeconómico, Discriminación por lugar de residencia, Discriminación por otros motivos*",7
@@ -73,7 +74,6 @@ Indicator,Disaggregations,Number of disaggregations
 #2-2-2,"Entidad federativa, Cobertura geografica",2
 #2-2-2(1),"Entidad federativa, Cobertura geografica",2
 #2-2-2(2),"Entidad federativa, Cobertura geografica",2
-#2-n-2-1,Grupos de interés,1
 #3-1-1,Entidad federativa,1
 #3-1-2,Entidad federativa,1
 #3-2-1,Entidad federativa,1
