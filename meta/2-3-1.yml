@@ -1,9 +1,9 @@
 ﻿SDG_GOAL: >-
   Objetivo 2. Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible
 SDG_TARGET: >-
-  Meta 2n.1 Acceso a una alimentación nutritiva y de calidad
+  Meta 2.3 Acceso a una alimentación nutritiva y de calidad
 SDG_INDICATOR: >-
-  2n.1.1 Porcentaje de la población menor de 5 años que presenta algún tipo de desnutrición crónica
+  2.3.1 Porcentaje de la población menor de 5 años que presenta algún tipo de desnutrición crónica
 SDG_SERIES_DESCR: >-
   Para los menores de cinco años de edad, el estado nutrición se evaluó mediante índices antropométricos construidos a partir de las mediciones de peso, talla y edad. Los índices antropométricos fueron transformados a puntajes Z usando la norma de referencia de la Organización Mundial de la Salud (OMS) de 2006. Se clasificó con bajo peso, baja talla y emaciación, a los niños cuyo puntaje Z fue menor a -2 en peso para edad, longitud o talla para edad y peso para longitud o talla, respectivamente. Se incluyeron como datos válidos los siguientes intervalos de valores por cada indicador antropométrico: entre -6.0 y +5.0 puntos Z del peso para la edad; entre -6.0 y +6.0 puntos Z de la talla para la edad y entre -5.0 y +5.0 puntos Z del peso para la talla, respecto de la media de la población de referencia antes mencionada. Cuando el puntaje Z de alguno de los indicadores se ubicó fuera del intervalo de datos válidos, se eliminó la serie de puntajes Z de todos los indicadores para dicho individuo.
 META_LAST_UPDATE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  '2n.1.1 Porcentaje de la población menor de 5 años que presenta algún tipo de desnutrición crónica'
+  '2.3.1 Porcentaje de la población menor de 5 años que presenta algún tipo de desnutrición crónica'
 graph_titles:
   []
 graph_type:
@@ -121,9 +121,9 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  '2n.1.1 Porcentaje de la población menor de 5 años que presenta algún tipo de desnutrición crónica'
+  '2.3.1 Porcentaje de la población menor de 5 años que presenta algún tipo de desnutrición crónica'
 indicator_number:
-  '2n.1.1'
+  '2.3.1'
 national_geographical_coverage:
   Nacional
 page_content:
