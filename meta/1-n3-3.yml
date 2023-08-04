@@ -1,9 +1,9 @@
 ﻿SDG_GOAL: >-
   Objetivo 1. Poner fin a la pobreza en todas sus formas y en todo el mundo
 SDG_TARGET: >-
-  Meta 1.8 Construcción de un sistema de protección social con un enfoque de derechos
+  Meta 1.n3 Construcción de un sistema de protección social con un enfoque de derechos
 SDG_INDICATOR: >-
-  1.8.3 Porcentaje de la población que presenta carencia por acceso a la seguridad social
+  1.n3.3 Porcentaje de la población que presenta carencia por acceso a la seguridad social
 SDG_SERIES_DESCR: >-
   Este indicador resulta de dividir a la población sin acceso a la seguridad social en un determinado año, entre la población de referencia total del mismo periodo, multiplicado por 100.
 META_LAST_UPDATE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  '1.8.3 Porcentaje de la población que presenta carencia por acceso a la seguridad social'
+  '1.n3.3 Porcentaje de la población que presenta carencia por acceso a la seguridad social'
 graph_titles:
   []
 graph_type:
@@ -121,9 +121,9 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  '1.8.3 Porcentaje de la población que presenta carencia por acceso a la seguridad social'
+  '1.n3.3 Porcentaje de la población que presenta carencia por acceso a la seguridad social'
 indicator_number:
-  '1.8.3'
+  '1.n3.3'
 national_geographical_coverage:
   Nacional y entidad federativa
 page_content:
