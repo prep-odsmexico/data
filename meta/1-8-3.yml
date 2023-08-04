@@ -1,9 +1,9 @@
 ﻿SDG_GOAL: >-
   Objetivo 1. Poner fin a la pobreza en todas sus formas y en todo el mundo
 SDG_TARGET: >-
-  Meta 1n.3 Construcción de un sistema de protección social con un enfoque de derechos
+  Meta 1.8 Construcción de un sistema de protección social con un enfoque de derechos
 SDG_INDICATOR: >-
-  1n.3.3 Porcentaje de la población que presenta carencia por acceso a la seguridad social
+  1.8.3 Porcentaje de la población que presenta carencia por acceso a la seguridad social
 SDG_SERIES_DESCR: >-
   Este indicador resulta de dividir a la población sin acceso a la seguridad social en un determinado año, entre la población de referencia total del mismo periodo, multiplicado por 100.
 META_LAST_UPDATE: >-
@@ -51,7 +51,7 @@ REC_USE_LIM: >-
 DATA_COMP: >-
 
 DATA_VALIDATION: >-
-  Para la medición a nivel nacional y por entidad federativa se considera el Módulo de Condiciones Socioeconómicas y la Encuesta Nacional de Ingreso y Gasto de los Hogares (ENIGH), en tanto que para la medición a nivel municipio se considera la muestra del Censo de Población y Vivienda, así como la Encuesta Intercensal.<br/>  <br>En este sentido, la dimensión de acceso a los servicios básicos en la vivienda considera carentes a las personas que utilizan leña o carbón como combustible para cocinar y su vivienda no cuenta con una chimenea. La información necesaria para medir esta variable no se incorporó en la encuesta de 2008. Por tal motivo, el CONEVAL realizó una estimación que contempla el indicador de chimenea para cocinar en la vivienda y permite dar continuidad histórica a la serie nacional y estatal 2008-2016.<br/>  <br>Para mayor detalle consultar la nota metodológica: <a href=http://www.coneval.org.mx/Medicion/Documents/Pobreza_2008-2016/Nota_tecnica_pobreza_2008.pdf>http://www.coneval.org.mx/Medicion/Documents/Pobreza_2008-2016/Nota_tecnica_pobreza_2008.pdf</a><br/>  <br>Por otro lado, el país no dispone de una fuente de datos única que contenga la información que permita calcular directamente los siete indicadores considerados en la pobreza multidimensional a escala municipal. Por ello, con la finalidad de generar la información que se requiere para la medición municipal, el CONEVAL, después de llevar a cabo un proceso de investigación, recurrió a herramientas estadísticas conocidas como técnicas de estimación en áreas pequeñas. La metodología utilizada para realizar dicha medición puede consultarse en:  <a href=http://www.coneval.org.mx/Medicion/Documents/Pobreza_municipal/Metodologia_municipal_2015.pdf>http://www.coneval.org.mx/Medicion/Documents/Pobreza_municipal/Metodologia_municipal_2015.pdf</a><br><br>Este es un indicador que pertenece al Catálogo Nacional de Indicadores.
+  Para la medición a nivel nacional y por entidad federativa se considera el Módulo de Condiciones Socioeconómicas y la Encuesta Nacional de Ingreso y Gasto de los Hogares (ENIGH), en tanto que para la medición a nivel municipio se considera la muestra del Censo de Población y Vivienda, así como la Encuesta Intercensal.<br/>  <br>En este sentido, la dimensión de acceso a los servicios básicos en la vivienda considera carentes a las personas que utilizan leña o carbón como combustible para cocinar y su vivienda no cuenta con una chimenea. La información necesaria para medir esta variable no se incorporó en la encuesta de 2008. Por tal motivo, el CONEVAL realizó una estimación que contempla el indicador de chimenea para cocinar en la vivienda y permite dar continuidad histórica a la serie nacional y estatal 2008-2016.<br/>  <br>Para mayor detalle consultar la nota metodológica <a href=http://www.coneval.org.mx/Medicion/Documents/Pobreza_2008-2016/Nota_tecnica_pobreza_2008.pdf>http://www.coneval.org.mx/Medicion/Documents/Pobreza_2008-2016/Nota_tecnica_pobreza_2008.pdf</a><br/>  <br>Por otro lado, el país no dispone de una fuente de datos única que contenga la información que permita calcular directamente los siete indicadores considerados en la pobreza multidimensional a escala municipal. Por ello, con la finalidad de generar la información que se requiere para la medición municipal, el CONEVAL, después de llevar a cabo un proceso de investigación, recurrió a herramientas estadísticas conocidas como técnicas de estimación en áreas pequeñas. La metodología utilizada para realizar dicha medición puede consultarse en  <a href=http://www.coneval.org.mx/Medicion/Documents/Pobreza_municipal/Metodologia_municipal_2015.pdf>http://www.coneval.org.mx/Medicion/Documents/Pobreza_municipal/Metodologia_municipal_2015.pdf</a><br><br>Este es un indicador que pertenece al Catálogo Nacional de Indicadores.
 ADJUSTMENT: >-
 
 IMPUTATION: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  '1n.3.3 Porcentaje de la población que presenta carencia por acceso a la seguridad social'
+  '1.8.3 Porcentaje de la población que presenta carencia por acceso a la seguridad social'
 graph_titles:
   []
 graph_type:
@@ -121,9 +121,9 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  '1n.3.3 Porcentaje de la población que presenta carencia por acceso a la seguridad social'
+  '1.8.3 Porcentaje de la población que presenta carencia por acceso a la seguridad social'
 indicator_number:
-  '1n.3.3'
+  '1.8.3'
 national_geographical_coverage:
   Nacional y entidad federativa
 page_content:
