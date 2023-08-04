@@ -1,9 +1,9 @@
 ﻿SDG_GOAL: >-
   Objetivo 1. Poner fin a la pobreza en todas sus formas y en todo el mundo
 SDG_TARGET: >-
-  1.6 Pobreza multidimensional por grupos en condiciones de desventaja (desagregación por personas indígenas, adultos mayores, personas con discapacidad, niños y niñas (menores de 18 años) y primera infancia (0 a 5 años) basada en el enfoque de derechos
+  1.n1 Pobreza multidimensional por grupos en condiciones de desventaja (desagregación por personas indígenas, adultos mayores, personas con discapacidad, niños y niñas (menores de 18 años) y primera infancia (0 a 5 años) basada en el enfoque de derechos
 SDG_INDICATOR: >-
-  1.6.1 Porcentaje de la población en situación de pobreza
+  1-n1-1 Porcentaje de la población en situación de pobreza
 SDG_SERIES_DESCR: >-
   Este indicador resulta de identificar a la población de referencia que cuenta con al menos una carencia social y que su ingreso es insuficiente para satisfacer sus necesidades alimentarias y no alimentarias, dividir dicho número de personas entre la población de referencia total y multiplicar el cociente por 100.
 META_LAST_UPDATE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  '1.6.1 Porcentaje de la población en situación de pobreza'
+  '1-n1-1 Porcentaje de la población en situación de pobreza'
 graph_titles:
   []
 graph_type:
@@ -121,9 +121,9 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  '1.6.1 Porcentaje de la población en situación de pobreza'
+  '1-n1-1 Porcentaje de la población en situación de pobreza'
 indicator_number:
-  '1.6.1'
+  '1-n1-1'
 national_geographical_coverage:
   Nacional
 page_content:
