@@ -367,7 +367,7 @@
           }
         ]
       },
-      "title": "1n.2.2 Proporción de la población menor a un año de edad con esquema básico completo de vacunación"
+      "title": ""
     },
     {
       "path": "9-1-1/data.csv",
@@ -27167,6 +27167,28 @@
         ]
       },
       "title": ""
+    },
+    {
+      "path": "1-7-1/data.csv",
+      "name": "1-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "1.7.1 Proporción de la población menor a un año de edad con esquema básico completo de vacunación"
     },
     {
       "path": "1-2-1/data.csv",
