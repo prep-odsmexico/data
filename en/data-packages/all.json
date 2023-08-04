@@ -10438,7 +10438,7 @@
           }
         ]
       },
-      "title": "1n.3.3 Porcentaje de la población que presenta carencia por acceso a la seguridad social"
+      "title": ""
     },
     {
       "path": "4-a-1-a/data.csv",
@@ -17043,7 +17043,7 @@
           }
         ]
       },
-      "title": "1n.3.2 Porcentaje de población ocupada con hijos(as) de seis años o menos que tiene acceso a guarderías como prestación laboral"
+      "title": ""
     },
     {
       "path": "16-n-2-2/data.csv",
@@ -19174,7 +19174,7 @@
           }
         ]
       },
-      "title": "1n.3.1.a Porcentaje de población de 65 años o más que recibe jubilación o pensión (contributiva o no contributiva) por un monto igual o mayor al valor promedio de la línea de pobreza por ingresos, por desglose geográfico"
+      "title": ""
     },
     {
       "path": "10-2-1a/data.csv",
@@ -28088,6 +28088,78 @@
         ]
       },
       "title": ""
+    },
+    {
+      "path": "1-8-3/data.csv",
+      "name": "1-8-3",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "1.8.3 Porcentaje de la población que presenta carencia por acceso a la seguridad social"
+    },
+    {
+      "path": "1-8-1-a/data.csv",
+      "name": "1-8-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "1.8.1.a Porcentaje de población de 65 años o más que recibe jubilación o pensión (contributiva o no contributiva) por un monto igual o mayor al valor promedio de la línea de pobreza por ingresos, por desglose geográfico"
+    },
+    {
+      "path": "1-8-2/data.csv",
+      "name": "1-8-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "1.8.2 Porcentaje de población ocupada con hijos(as) de seis años o menos que tiene acceso a guarderías como prestación laboral"
     },
     {
       "path": "1-8-1/data.csv",
