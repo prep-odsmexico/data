@@ -20323,7 +20323,7 @@
           }
         ]
       },
-      "title": "1.8.1 Porcentaje de población de 65 años o más que recibe jubilación o pensión (contributiva o no contributiva) por un monto igual o mayor al valor promedio de la línea de pobreza por ingresos"
+      "title": "1-8-1"
     },
     {
       "path": "4-4-1/data.csv",
@@ -27321,6 +27321,28 @@
         ]
       },
       "title": ""
+    },
+    {
+      "path": "1-n3-1/data.csv",
+      "name": "1-n3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "1.n3.1 Porcentaje de población de 65 años o más que recibe jubilación o pensión (contributiva o no contributiva) por un monto igual o mayor al valor promedio de la línea de pobreza por ingresos"
     },
     {
       "path": "1-2-1/data.csv",
