@@ -1,9 +1,9 @@
 ﻿SDG_GOAL: >-
   Objetivo 1. Poner fin a la pobreza en todas sus formas y en todo el mundo
 SDG_TARGET: >-
-  Meta 1n.2 Atención integral en la primera infancia
+  Meta 1.7 Atención integral en la primera infancia
 SDG_INDICATOR: >-
-  1n.2.2 Proporción de la población menor a un año de edad con esquema básico completo de vacunación
+  1.7.1 Proporción de la población menor a un año de edad con esquema básico completo de vacunación
 SDG_SERIES_DESCR: >-
   Este indicador resulta de dividir a la población de un año de edad que recibió el esquema básico de vacunación en un determinado año, entre la población de un año de edad registrada en el Censo Nominal del PROVAC, multiplicado por 100.
 META_LAST_UPDATE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  '1n.2.2 Proporción de la población menor a un año de edad con esquema básico completo de vacunación'
+  '1.7.1 Proporción de la población menor a un año de edad con esquema básico completo de vacunación'
 graph_titles:
   []
 graph_type:
@@ -121,9 +121,9 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  '1n.2.2 Proporción de la población menor a un año de edad con esquema básico completo de vacunación'
+  '1.7.1 Proporción de la población menor a un año de edad con esquema básico completo de vacunación'
 indicator_number:
-  '1n.2.2'
+  '1.7.1'
 national_geographical_coverage:
   Nacional y estatal
 page_content:
