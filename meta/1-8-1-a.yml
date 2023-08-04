@@ -1,9 +1,9 @@
 ﻿SDG_GOAL: >-
   Objetivo 1. Poner fin a la pobreza en todas sus formas y en todo el mundo
 SDG_TARGET: >-
-  Meta 1n.3 Construcción de un sistema de protección social con un enfoque de derechos
+  Meta 1.8 Construcción de un sistema de protección social con un enfoque de derechos
 SDG_INDICATOR: >-
-  1n.3.1.a Porcentaje de población de 65 años o más que recibe jubilación o pensión (contributiva o no contributiva) por un monto igual o mayor al valor promedio de la línea de pobreza por ingresos, por desglose geográfico
+  1.8.1.a Porcentaje de población de 65 años o más que recibe jubilación o pensión (contributiva o no contributiva) por un monto igual o mayor al valor promedio de la línea de pobreza por ingresos, por desglose geográfico
 SDG_SERIES_DESCR: >-
   Este indicador resulta de identificar la población de 65 años o más que recibe una jubilación o pensión igual o mayor al valor promedio de la línea de pobreza por ingresos, dividir dicho número de personas entre la población de referencia total y multiplicar el cociente por 100
 META_LAST_UPDATE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  '1n.3.1.a Porcentaje de población de 65 años o más que recibe jubilación o pensión (contributiva o no contributiva) por un monto igual o mayor al valor promedio de la línea de pobreza por ingresos, por desglose geográfico'
+  '1.8.1.a Porcentaje de población de 65 años o más que recibe jubilación o pensión (contributiva o no contributiva) por un monto igual o mayor al valor promedio de la línea de pobreza por ingresos, por desglose geográfico'
 graph_titles:
   []
 graph_type:
@@ -121,9 +121,9 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  '1n.3.1.a Porcentaje de población de 65 años o más que recibe jubilación o pensión (contributiva o no contributiva) por un monto igual o mayor al valor promedio de la línea de pobreza por ingresos, por desglose geográfico'
+  '1.8.1.a Porcentaje de población de 65 años o más que recibe jubilación o pensión (contributiva o no contributiva) por un monto igual o mayor al valor promedio de la línea de pobreza por ingresos, por desglose geográfico'
 indicator_number:
-  '1n.3.1.a'
+  '1.8.1.a'
 national_geographical_coverage:
   Entidad federativa
 page_content:
