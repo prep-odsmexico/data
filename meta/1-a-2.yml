@@ -1,9 +1,9 @@
 ﻿SDG_GOAL: >-
   Objetivo 1. Poner fin a la pobreza en todas sus formas y en todo el mundo
 SDG_TARGET: >-
-  Meta 1.6 Garantizar una movilización significativa de recursos procedentes de diversas fuentes, incluso mediante la mejora de la cooperación para el desarrollo, a fin de proporcionar medios suficientes y previsibles a los países en desarrollo, en particular los países menos adelantados, para que implementen programas y políticas encaminados a poner fin a la pobreza en todas sus dimensiones
+  Meta 1.a Garantizar una movilización significativa de recursos procedentes de diversas fuentes, incluso mediante la mejora de la cooperación para el desarrollo, a fin de proporcionar medios suficientes y previsibles a los países en desarrollo, en particular los países menos adelantados, para que implementen programas y políticas encaminados a poner fin a la pobreza en todas sus dimensiones
 SDG_INDICATOR: >-
-  1.6.1 Proporción del gasto público total en servicios esenciales (educación, salud y protección social)
+  1.a.2 Proporción del gasto público total en servicios esenciales (educación, salud y protección social)
 SDG_SERIES_DESCR: >-
   Es la suma del monto ejercido en las funciones de salud, educación y protección social, del año anterior al reportado respecto a la cifra de cierre anual correspondiente al gasto neto total, expresado como porcentaje.
 META_LAST_UPDATE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  '1.6.1 Proporción del gasto público total en servicios esenciales (educación, salud y protección social)'
+  '1.a.2 Proporción del gasto público total en servicios esenciales (educación, salud y protección social)'
 graph_titles:
   []
 graph_type:
@@ -121,9 +121,9 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  '1.6.1 Proporción del gasto público total en servicios esenciales (educación, salud y protección social)'
+  '1.a.2 Proporción del gasto público total en servicios esenciales (educación, salud y protección social)'
 indicator_number:
-  '1.6.1'
+  '1.a.2'
 national_geographical_coverage:
   Nacional
 page_content:
