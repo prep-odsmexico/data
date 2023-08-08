@@ -3,7 +3,7 @@
 SDG_TARGET: >-
   Meta 3.7 De aquí a 2030, garantizar el acceso universal a los servicios de salud sexual y reproductiva, incluidos los de planificación familiar, información y educación, y la integración de la salud reproductiva en las estrategias y los programas nacionales
 SDG_INDICATOR: >-
-  3r.7.b Porcentaje de mujeres de 15 a 19 años que son madres
+  3.7.r.b Porcentaje de mujeres de 15 a 19 años que son madres
 SDG_SERIES_DESCR: >-
   Es el cociente del número de mujeres entre 15 y 19 años  con al menos una hija o hijo nacida(o) viva(o) entre el total de mujeres de 15 a 19 años a mitad de ese año por 100.
 META_LAST_UPDATE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  '3r.7.b Porcentaje de mujeres de 15 a 19 años que son madres'
+  '3.7.r.b Porcentaje de mujeres de 15 a 19 años que son madres'
 graph_titles:
   []
 graph_type:
@@ -121,9 +121,9 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  '3r.7.b Porcentaje de mujeres de 15 a 19 años que son madres'
+  '3.7.r.b Porcentaje de mujeres de 15 a 19 años que son madres'
 indicator_number:
-  '3r.7.b'
+  '3.7.r.b'
 national_geographical_coverage:
   Nacional y entidad federativa
 page_content:
