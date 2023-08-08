@@ -3,7 +3,7 @@
 SDG_TARGET: >-
   Meta 3.3 De aquí a 2030, poner fin a las epidemias del SIDA, la tuberculosis, la malaria y las enfermedades tropicales desatendidas y combatir la hepatitis, las enfermedades transmitidas por el agua y otras enfermedades transmisibles
 SDG_INDICATOR: >-
-  3r.3.2 Mortalidad por VIH/SIDA, desglosada por sexo
+  3.3.r.2 Mortalidad por VIH/SIDA, desglosada por sexo
 SDG_SERIES_DESCR: >-
    Este indicador resulta de dividir el número de defunciones por VIH /SIDA en un determinado año, entre la población total del mismo periodo, multiplicado por 100 mil.
 META_LAST_UPDATE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  '3r.3.2 Mortalidad por VIH/SIDA, desglosada por sexo'
+  '3.3.r.2 Mortalidad por VIH/SIDA, desglosada por sexo'
 graph_titles:
   []
 graph_type:
@@ -121,9 +121,9 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  '3r.3.2 Mortalidad por VIH/SIDA, desglosada por sexo'
+  '3.3.r.2 Mortalidad por VIH/SIDA, desglosada por sexo'
 indicator_number:
-  '3r.3.2'
+  '3.3.r.2'
 national_geographical_coverage:
   Nacional y estatal
 page_content:
