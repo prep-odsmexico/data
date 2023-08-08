@@ -3,7 +3,7 @@
 SDG_TARGET: >-
   Meta 3.7 De aquí a 2030, garantizar el acceso universal a los servicios de salud sexual y reproductiva, incluidos los de planificación familiar, información y educación, y la integración de la salud reproductiva en las estrategias y los programas nacionales
 SDG_INDICATOR: >-
-  3r.7.a Porcentaje del último hijo nacido vivo en el periodo de 2013 a 2018, tenido a la edad de 15 a 29 años, que no fue planificado
+  3.7.r.a Porcentaje del último hijo nacido vivo en el periodo de 2013 a 2018, tenido a la edad de 15 a 29 años, que no fue planificado
 SDG_SERIES_DESCR: >-
   Es la relación del último hijo nacido vivo en el periodo de 2013 a 2018 que ha tenido la mujer a la edad de 15 a 29 años y que no fue planificado, respecto al total del último hijo nacido vivo en el periodo de 2013 a 2018 que ha tenido la mujer a la edad de 15 a 29 años, multiplicado por cien.
 META_LAST_UPDATE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  '3r.7.a Porcentaje del último hijo nacido vivo en el periodo de 2013 a 2018, tenido a la edad de 15 a 29 años, que no fue planificado'
+  '3.7.r.a Porcentaje del último hijo nacido vivo en el periodo de 2013 a 2018, tenido a la edad de 15 a 29 años, que no fue planificado'
 graph_titles:
   []
 graph_type:
@@ -121,9 +121,9 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  '3r.7.a Porcentaje del último hijo nacido vivo en el periodo de 2013 a 2018, tenido a la edad de 15 a 29 años, que no fue planificado'
+  '3.7.r.a Porcentaje del último hijo nacido vivo en el periodo de 2013 a 2018, tenido a la edad de 15 a 29 años, que no fue planificado'
 indicator_number:
-  '3r.7.a'
+  '3.7.r.a'
 national_geographical_coverage:
   Nacional
 page_content:
