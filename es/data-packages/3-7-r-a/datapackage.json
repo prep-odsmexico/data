@@ -1,0 +1,44 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Año"
+          },
+          {
+            "name": "último hijo nacido vivo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "15-19 años",
+                "20-24 años",
+                "25-29 años",
+                ""
+              ]
+            },
+            "title": "último hijo nacido vivo"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-7-r-a",
+  "title": "3-7-r-a"
+}
