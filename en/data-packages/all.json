@@ -24,7 +24,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "2.n1.1 Porcentaje de la población menor de 5 años que presenta algún tipo de desnutrición crónica"
     },
     {
       "path": "1-2-2(1)/data.csv",
@@ -2684,7 +2684,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "2.2.2(2) Prevalencia de sobrepeso u obesidad (peso para la estatura, desviación típica >+2 de los patrones de crecimiento infantil de la OMS) entre los niños menores de 5 años"
     },
     {
       "path": "2-2-1/data.csv",
@@ -2939,7 +2939,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "2.2.2(1) Prevalencia de emaciación (peso para la estatura, desviación típica <-2 de la mediana de los patrones de crecimiento infantil de la OMS) entre los niños menores de 5 años"
     },
     {
       "path": "1-2-1(1)/data.csv",
@@ -3250,7 +3250,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "2.n2.1 Porcentaje de población con inseguridad alimentaria moderada o severa"
     },
     {
       "path": "1-n1-1/data.csv",
@@ -5863,7 +5863,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "2.1.2.a Proporción de la población con inseguridad alimentaria moderada o severa, por desglose geográfico"
     },
     {
       "path": "1-2-2(2)/data.csv",
