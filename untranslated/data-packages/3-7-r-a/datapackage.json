@@ -12,20 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "último hijo nacido vivo",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "15-19 años",
-                "20-24 años",
-                "25-29 años",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

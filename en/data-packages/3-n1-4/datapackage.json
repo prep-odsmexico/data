@@ -12,37 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "Quintiles de Ingreso",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "I",
-                "II",
-                "III",
-                "IV",
-                "V",
-                ""
-              ]
-            },
-            "title": "Quintiles de Ingreso"
-          },
-          {
-            "name": "Cobertura geografica",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Nacional",
-                "Urbana",
-                "Rural",
-                ""
-              ]
-            },
-            "title": "Cobertura geografica"
           },
           {
             "name": "Value",
@@ -55,5 +26,5 @@
   ],
   "profile": "data-package",
   "name": "3-n1-4",
-  "title": "3-n1-4"
+  "title": "3.n1.4 Porcentaje de hogares con gasto catastrófico en salud"
 }

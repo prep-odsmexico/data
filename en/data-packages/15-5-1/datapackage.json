@@ -12,29 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer",
+            "type": "number",
             "title": "Year"
-          },
-          {
-            "name": "Grupo taxonómico",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Algas",
-                "Anfibios",
-                "Aves",
-                "Briofitas",
-                "Gimnospermas y Angiospermas",
-                "Hongos",
-                "Invertebrados",
-                "Mamíferos",
-                "Peces",
-                "Pteridofitas",
-                "Reptiles",
-                ""
-              ]
-            },
-            "title": "Grupo taxonómico"
           },
           {
             "name": "Value",

@@ -12,21 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Sector de Emisión",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Energía",
-                "Procesos industriales y uso de productos",
-                "Agricultura, silvicultura y otros usos de la tierra",
-                "Residuos",
-                "Emisiones netas",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",

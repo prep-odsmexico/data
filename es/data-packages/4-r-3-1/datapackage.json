@@ -12,21 +12,8 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string",
+            "type": "number",
             "title": "Año"
-          },
-          {
-            "name": "Sexo",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "Hombres",
-                "Mujeres",
-                ""
-              ]
-            },
-            "title": "Sexo"
           },
           {
             "name": "Value",

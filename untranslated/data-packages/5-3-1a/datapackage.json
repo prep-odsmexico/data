@@ -12,20 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "integer"
-          },
-          {
-            "name": "Grupo de edad",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Antes de los 15 años",
-                "Antes de los 18 años",
-                "Hablantes de lengua indígena antes de los 15 años",
-                "Hablantes de lengua indígena antes de los 18 años",
-                ""
-              ]
-            }
+            "type": "number"
           },
           {
             "name": "Value",
