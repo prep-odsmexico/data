@@ -1,9 +1,9 @@
 ﻿SDG_GOAL: >-
   Objetivo 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades
 SDG_TARGET: >-
-  Meta 3n.1 Lograr la cobertura universal de salud
+  Meta 3.n1 Lograr la cobertura universal de salud
 SDG_INDICATOR: >-
-  3n.1.2 Porcentaje de población que tardaría menos de dos horas en llegar a un hospital en caso de una emergencia
+  3.n1.2 Porcentaje de población que tardaría menos de dos horas en llegar a un hospital en caso de una emergencia
 SDG_SERIES_DESCR: >-
   Este indicador resulta de identificar a población que tardarían menos de dos horas en llegar a un hospital donde lo (a) pudieran atender en caso de emergencia en el año t, dividir dicho número de personas entre la población de referencia total del año t y multiplicar el cociente por 100. 
 META_LAST_UPDATE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  '3n.1.2 Porcentaje de población que tardaría menos de dos horas en llegar a un hospital en caso de una emergencia'
+  '3.n1.2 Porcentaje de población que tardaría menos de dos horas en llegar a un hospital en caso de una emergencia'
 graph_titles:
   []
 graph_type:
@@ -121,9 +121,9 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  '3n.1.2 Porcentaje de población que tardaría menos de dos horas en llegar a un hospital en caso de una emergencia'
+  '3.n1.2 Porcentaje de población que tardaría menos de dos horas en llegar a un hospital en caso de una emergencia'
 indicator_number:
-  '3n.1.2'
+  '3.n1.2'
 national_geographical_coverage:
   Nacional
 page_content:
