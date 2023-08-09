@@ -1,9 +1,9 @@
 ﻿SDG_GOAL: >-
   Objetivo 3. Garantizar una vida sana y promover el bienestar de todos a todas las edades
 SDG_TARGET: >-
-  Meta 3n.1 Lograr la cobertura universal de salud
+  Meta 3.n1 Lograr la cobertura universal de salud
 SDG_INDICATOR: >-
-  3n.1.3 Porcentaje de población derechohabiente que no gastó en servicios médicos la última vez que recibió atención médica
+  3.n1.3 Porcentaje de población derechohabiente que no gastó en servicios médicos la última vez que recibió atención médica
 SDG_SERIES_DESCR: >-
   Este indicador resulta de dividir la población derechohabiente a las instituciones de seguridad social y de la población afiliada al Seguro Popular que se atiende en las instituciones públicas de salud y que no gastó en servicios médicos entre la población con acceso a servicios de salud en instituciones públicas. 
 META_LAST_UPDATE: >-
@@ -113,7 +113,7 @@ graph_series_breaks:
 graph_stacked_disaggregation:
   ''
 graph_title:
-  '3n.1.3 Porcentaje de población derechohabiente que no gastó en servicios médicos la última vez que recibió atención médica'
+  '3.n1.3 Porcentaje de población derechohabiente que no gastó en servicios médicos la última vez que recibió atención médica'
 graph_titles:
   []
 graph_type:
@@ -121,9 +121,9 @@ graph_type:
 graph_types:
   []
 indicator_name:
-  '3n.1.3 Porcentaje de población derechohabiente que no gastó en servicios médicos la última vez que recibió atención médica'
+  '3.n1.3 Porcentaje de población derechohabiente que no gastó en servicios médicos la última vez que recibió atención médica'
 indicator_number:
-  '3n.1.3'
+  '3.n1.3'
 national_geographical_coverage:
   Nacional
 page_content:
