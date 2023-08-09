@@ -20905,7 +20905,7 @@
           }
         ]
       },
-      "title": "3.n1.4 Porcentaje de hogares con gasto catastrófico en salud"
+      "title": "3-n1-4"
     },
     {
       "path": "2-1-2-a/data.csv",
@@ -27430,7 +27430,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "3n.1.4 Porcentaje de hogares con gasto catastrófico en salud"
     },
     {
       "path": "3-r-7-1/data.csv",
