@@ -4612,7 +4612,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "7.n3.1 Capacidad total instalada por generación distribuida"
     },
     {
       "path": "3-1-2/data.csv",
@@ -7218,7 +7218,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "7.n1.1 Porcentaje de participación de las energías limpias en la matriz de generación de energía eléctrica"
     },
     {
       "path": "3-n1-2/data.csv",
@@ -7319,7 +7319,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "7.n2.1 Intensidad energética nacional"
     },
     {
       "path": "1-n3-1/data.csv",
