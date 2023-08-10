@@ -75,6 +75,43 @@
       "title": "5.5.1.d Proporción de mujeres en los cabildos municipales"
     },
     {
+      "path": "8-3-1(2)/data.csv",
+      "name": "8-3-1(2)",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "4-2-2/data.csv",
       "name": "4-2-2",
       "profile": "tabular-data-resource",
@@ -232,6 +269,59 @@
       "title": "Number of people requiring interventions against neglected tropical diseases"
     },
     {
+      "path": "8-5-1b/data.csv",
+      "name": "8-5-1b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Grupos de edad_ocupados",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "De 15 a 24 años",
+                "De 25 a 44 años",
+                "De 45 a 64 años",
+                "De 65 años y más",
+                "No especificado",
+                ""
+              ]
+            },
+            "title": "Grupos de edad_ocupados"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "2-n1-1/data.csv",
       "name": "2-n1-1",
       "profile": "tabular-data-resource",
@@ -254,6 +344,106 @@
         ]
       },
       "title": "2.n1.1 Porcentaje de la población menor de 5 años que presenta algún tipo de desnutrición crónica"
+    },
+    {
+      "path": "8-n2-2/data.csv",
+      "name": "8-n2-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Entidad federativa",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estados Unidos Mexicanos",
+                "Aguascalientes",
+                "Baja California",
+                "Baja California Sur",
+                "Campeche",
+                "Coahuila de Zaragoza",
+                "Colima",
+                "Chiapas",
+                "Chihuahua",
+                "Ciudad de México",
+                "Durango",
+                "Guanajuato",
+                "Guerrero",
+                "Hidalgo",
+                "Jalisco",
+                "México",
+                "Michoacán de Ocampo",
+                "Morelos",
+                "Nayarit",
+                "Nuevo León",
+                "Oaxaca",
+                "Puebla",
+                "Querétaro",
+                "Quintana Roo",
+                "San Luis Potosí",
+                "Sinaloa",
+                "Sonora",
+                "Tabasco",
+                "Tamaulipas",
+                "Tlaxcala",
+                "Veracruz de Ignacio de la Llave",
+                "Yucatán",
+                "Zacatecas",
+                ""
+              ]
+            },
+            "title": "Entidad federativa"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Edades IMSS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Menos de 31 años",
+                "Entre 31 y 50 años",
+                "Entre 51 y 70 años",
+                "Más de 70 años",
+                ""
+              ]
+            },
+            "title": "Edades IMSS"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
     },
     {
       "path": "5-3-1b/data.csv",
@@ -1066,6 +1256,30 @@
       "title": "5.5.1.b Proporción de mujeres en las gubernaturas de las entidades federativas"
     },
     {
+      "path": "8-10-2/data.csv",
+      "name": "8-10-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider"
+    },
+    {
       "path": "5-n1-3/data.csv",
       "name": "5-n1-3",
       "profile": "tabular-data-resource",
@@ -1315,6 +1529,164 @@
       "title": "Proportion of domestic and industrial wastewater flows safely treated"
     },
     {
+      "path": "8-6-1b/data.csv",
+      "name": "8-6-1b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Entidad federativa",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estados Unidos Mexicanos",
+                "Aguascalientes",
+                "Baja California",
+                "Baja California Sur",
+                "Campeche",
+                "Coahuila de Zaragoza",
+                "Colima",
+                "Chiapas",
+                "Chihuahua",
+                "Ciudad de México",
+                "Durango",
+                "Guanajuato",
+                "Guerrero",
+                "Hidalgo",
+                "Jalisco",
+                "México",
+                "Michoacán de Ocampo",
+                "Morelos",
+                "Nayarit",
+                "Nuevo León",
+                "Oaxaca",
+                "Puebla",
+                "Querétaro",
+                "Quintana Roo",
+                "San Luis Potosí",
+                "Sinaloa",
+                "Sonora",
+                "Tabasco",
+                "Tamaulipas",
+                "Tlaxcala",
+                "Veracruz de Ignacio de la Llave",
+                "Yucatán",
+                "Zacatecas",
+                ""
+              ]
+            },
+            "title": "Entidad federativa"
+          },
+          {
+            "name": "Municipio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aguascalientes",
+                "Ensenada",
+                "Mexicali",
+                "Tijuana",
+                "La Paz",
+                "Campeche",
+                "Ciudad del Carmen",
+                "Saltillo",
+                "Torreón",
+                "Colima",
+                "Tapachula",
+                "Tuxtla Gutiérrez",
+                "Chihuahua",
+                "Juárez",
+                "Zona Metropolitana del Valle de México",
+                "Durango",
+                "Celaya",
+                "Irapuato",
+                "León",
+                "Acapulco",
+                "Chilpancingo de los Bravo",
+                "Pachuca",
+                "Guadalajara",
+                "Toluca",
+                "Morelia",
+                "Uruapan",
+                "Cuernavaca",
+                "Tepic",
+                "Monterrey",
+                "Oaxaca",
+                "Puebla",
+                "Tehuacán",
+                "Querétaro",
+                "Cancún",
+                "San Luis Potosí",
+                "Culiacán",
+                "Mazatlán",
+                "Ciudad Obregón",
+                "Hermosillo",
+                "Villahermosa",
+                "Heroica Matamoros",
+                "Nuevo Laredo",
+                "Reynosa",
+                "Tampico",
+                "Tlaxcala",
+                "Coatzacoalcos",
+                "Xalapa-Enríquez",
+                "Veracruz",
+                "Mérida",
+                "Zacatecas",
+                ""
+              ]
+            },
+            "title": "Municipio"
+          },
+          {
+            "name": "Edades de 15 a 24 años",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15-24 años",
+                "15-19 años",
+                "20-24 años",
+                ""
+              ]
+            },
+            "title": "Edades de 15 a 24 años"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "3-7-r-a/data.csv",
       "name": "3-7-r-a",
       "profile": "tabular-data-resource",
@@ -1351,6 +1723,104 @@
         ]
       },
       "title": "3.7.r.a Porcentaje del último hijo nacido vivo en el periodo de 2013 a 2018, tenido a la edad de 15 a 29 años, que no fue planificado"
+    },
+    {
+      "path": "8-7-1/data.csv",
+      "name": "8-7-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Entidad federativa",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estados Unidos Mexicanos",
+                "Aguascalientes",
+                "Baja California",
+                "Baja California Sur",
+                "Campeche",
+                "Coahuila de Zaragoza",
+                "Colima",
+                "Chiapas",
+                "Chihuahua",
+                "Ciudad de México",
+                "Durango",
+                "Guanajuato",
+                "Guerrero",
+                "Hidalgo",
+                "Jalisco",
+                "México",
+                "Michoacán de Ocampo",
+                "Morelos",
+                "Nayarit",
+                "Nuevo León",
+                "Oaxaca",
+                "Puebla",
+                "Querétaro",
+                "Quintana Roo",
+                "San Luis Potosí",
+                "Sinaloa",
+                "Sonora",
+                "Tabasco",
+                "Tamaulipas",
+                "Tlaxcala",
+                "Veracruz de Ignacio de la Llave",
+                "Yucatán",
+                "Zacatecas",
+                ""
+              ]
+            },
+            "title": "Entidad federativa"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Grupo de edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "De 5 a 14 años",
+                "De 15 a 17 años",
+                ""
+              ]
+            },
+            "title": "Grupo de edad"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion and number of children aged 5–17 years engaged in child labour, by sex and age"
     },
     {
       "path": "1-4-2/data.csv",
@@ -3875,6 +4345,105 @@
       "title": "1.2.1.a Proporción de la población que vive por debajo del umbral nacional de la pobreza, por desglose geográfico"
     },
     {
+      "path": "8-5-2(2)/data.csv",
+      "name": "8-5-2(2)",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Entidad federativa",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estados Unidos Mexicanos",
+                "Aguascalientes",
+                "Baja California",
+                "Baja California Sur",
+                "Campeche",
+                "Coahuila de Zaragoza",
+                "Colima",
+                "Chiapas",
+                "Chihuahua",
+                "Ciudad de México",
+                "Durango",
+                "Guanajuato",
+                "Guerrero",
+                "Hidalgo",
+                "Jalisco",
+                "México",
+                "Michoacán de Ocampo",
+                "Morelos",
+                "Nayarit",
+                "Nuevo León",
+                "Oaxaca",
+                "Puebla",
+                "Querétaro",
+                "Quintana Roo",
+                "San Luis Potosí",
+                "Sinaloa",
+                "Sonora",
+                "Tabasco",
+                "Tamaulipas",
+                "Tlaxcala",
+                "Veracruz de Ignacio de la Llave",
+                "Yucatán",
+                "Zacatecas",
+                ""
+              ]
+            },
+            "title": "Entidad federativa"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Grupo de edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "De 15 a 24 años",
+                "De 25 a 64 años",
+                "De 65 años y más",
+                ""
+              ]
+            },
+            "title": "Grupo de edad"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "5-4-1c/data.csv",
       "name": "5-4-1c",
       "profile": "tabular-data-resource",
@@ -3964,6 +4533,151 @@
       "title": "3.9.3b Defunciones atribuidas a intoxicaciones involuntarias, según la residencia habitual fuera de México o no especificada"
     },
     {
+      "path": "8-5-1a/data.csv",
+      "name": "8-5-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Entidad federativa",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estados Unidos Mexicanos",
+                "Aguascalientes",
+                "Baja California",
+                "Baja California Sur",
+                "Campeche",
+                "Coahuila de Zaragoza",
+                "Colima",
+                "Chiapas",
+                "Chihuahua",
+                "Ciudad de México",
+                "Durango",
+                "Guanajuato",
+                "Guerrero",
+                "Hidalgo",
+                "Jalisco",
+                "México",
+                "Michoacán de Ocampo",
+                "Morelos",
+                "Nayarit",
+                "Nuevo León",
+                "Oaxaca",
+                "Puebla",
+                "Querétaro",
+                "Quintana Roo",
+                "San Luis Potosí",
+                "Sinaloa",
+                "Sonora",
+                "Tabasco",
+                "Tamaulipas",
+                "Tlaxcala",
+                "Veracruz de Ignacio de la Llave",
+                "Yucatán",
+                "Zacatecas",
+                ""
+              ]
+            },
+            "title": "Entidad federativa"
+          },
+          {
+            "name": "Municipio",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Aguascalientes",
+                "Ensenada",
+                "Mexicali",
+                "Tijuana",
+                "La Paz",
+                "Campeche",
+                "Ciudad del Carmen",
+                "Saltillo",
+                "Torreón",
+                "Colima",
+                "Tapachula",
+                "Tuxtla Gutiérrez",
+                "Chihuahua",
+                "Juárez",
+                "Zona Metropolitana del Valle de México",
+                "Durango",
+                "Celaya",
+                "Irapuato",
+                "León",
+                "Acapulco",
+                "Chilpancingo de los Bravo",
+                "Pachuca",
+                "Guadalajara",
+                "Toluca",
+                "Morelia",
+                "Uruapan",
+                "Cuernavaca",
+                "Tepic",
+                "Monterrey",
+                "Oaxaca",
+                "Puebla",
+                "Tehuacán",
+                "Querétaro",
+                "Cancún",
+                "San Luis Potosí",
+                "Culiacán",
+                "Mazatlán",
+                "Ciudad Obregón",
+                "Hermosillo",
+                "Villahermosa",
+                "Heroica Matamoros",
+                "Nuevo Laredo",
+                "Reynosa",
+                "Tampico",
+                "Tlaxcala",
+                "Coatzacoalcos",
+                "Xalapa-Enríquez",
+                "Veracruz",
+                "Mérida",
+                "Zacatecas",
+                ""
+              ]
+            },
+            "title": "Municipio"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "2-2-2(2)/data.csv",
       "name": "2-2-2(2)",
       "profile": "tabular-data-resource",
@@ -4047,6 +4761,30 @@
         ]
       },
       "title": "2.2.2(2) Prevalencia de sobrepeso u obesidad (peso para la estatura, desviación típica >+2 de los patrones de crecimiento infantil de la OMS) entre los niños menores de 5 años"
+    },
+    {
+      "path": "8-n1-1/data.csv",
+      "name": "8-n1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
     },
     {
       "path": "4-a-1-e/data.csv",
@@ -4143,6 +4881,59 @@
         ]
       },
       "title": "4.a.1.e Proporción de escuelas con conexión a la red pública de agua potable por entidad federativa y nivel educativo"
+    },
+    {
+      "path": "8-5-1d/data.csv",
+      "name": "8-5-1d",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Condición de residencia y país de nacimiento",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Cambió de residencia 1 año",
+                "No cambió de residencia 1 año",
+                "No especificado",
+                "Nacimiento México",
+                "Nacimiento en otro país",
+                ""
+              ]
+            },
+            "title": "Condición de residencia y país de nacimiento"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
     },
     {
       "path": "4-n1-1/data.csv",
@@ -4306,6 +5097,70 @@
         ]
       },
       "title": "4.c.1.b Proporción del profesorado de educación primaria, que ha recibido al menos la mínima formación docente organizada previa al empleo o en el empleo (por ejemplo, formación pedagógica) exigida para impartir enseñanza a nivel primaria en México"
+    },
+    {
+      "path": "8-n3-1c/data.csv",
+      "name": "8-n3-1c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Escolaridad y sin escolaridad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Sin escolaridad",
+                "Primaria",
+                "Secundaria",
+                "Media superior",
+                "Superior",
+                ""
+              ]
+            },
+            "title": "Escolaridad y sin escolaridad"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "8-9-1/data.csv",
+      "name": "8-9-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Tourism direct GDP as a proportion of total GDP and in growth rate"
     },
     {
       "path": "7-2-1/data.csv",
@@ -6008,6 +6863,43 @@
       "title": "Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex"
     },
     {
+      "path": "8-3-1/data.csv",
+      "name": "8-3-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of informal employment in total employment, by sector and sex"
+    },
+    {
       "path": "3-1-1/data.csv",
       "name": "3-1-1",
       "profile": "tabular-data-resource",
@@ -6180,6 +7072,54 @@
         ]
       },
       "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
+    },
+    {
+      "path": "8-10-1-a/data.csv",
+      "name": "8-10-1-a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "8-1-1/data.csv",
+      "name": "8-1-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Annual growth rate of real GDP per capita"
     },
     {
       "path": "1-2-1(1)/data.csv",
@@ -6491,6 +7431,30 @@
       "title": "5.4.1b Proporción de tiempo dedicado al trabajo doméstico y de cuidado no remunerado, desglosada por entidad federativa"
     },
     {
+      "path": "8-n4-1/data.csv",
+      "name": "8-n4-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "5-6-1/data.csv",
       "name": "5-6-1",
       "profile": "tabular-data-resource",
@@ -6561,6 +7525,44 @@
         ]
       },
       "title": "Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care"
+    },
+    {
+      "path": "8-n3-1b/data.csv",
+      "name": "8-n3-1b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Edades (18 a 70 años)",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "18 a 29 años",
+                "30 a 49 años",
+                "50 a 70 años",
+                ""
+              ]
+            },
+            "title": "Edades (18 a 70 años)"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
     },
     {
       "path": "3-7-2-b/data.csv",
@@ -7062,6 +8064,54 @@
       "title": "5.2.2.a Proporción de mujeres y niñas a partir de 15 años de edad que han sufrido violencia sexual a manos de personas que no eran su pareja en los últimos 12 meses, por entidad federativa y lugar del hecho"
     },
     {
+      "path": "8-10-1-b/data.csv",
+      "name": "8-10-1-b",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "8-2-1(2)/data.csv",
+      "name": "8-2-1(2)",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "1-n2-2/data.csv",
       "name": "1-n2-2",
       "profile": "tabular-data-resource",
@@ -7394,6 +8444,185 @@
       "title": "Energy intensity measured in terms of primary energy and GDP"
     },
     {
+      "path": "8-5-2/data.csv",
+      "name": "8-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Entidad federativa",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estados Unidos Mexicanos",
+                "Aguascalientes",
+                "Baja California",
+                "Baja California Sur",
+                "Campeche",
+                "Coahuila de Zaragoza",
+                "Colima",
+                "Chiapas",
+                "Chihuahua",
+                "Ciudad de México",
+                "Durango",
+                "Guanajuato",
+                "Guerrero",
+                "Hidalgo",
+                "Jalisco",
+                "México",
+                "Michoacán de Ocampo",
+                "Morelos",
+                "Nayarit",
+                "Nuevo León",
+                "Oaxaca",
+                "Puebla",
+                "Querétaro",
+                "Quintana Roo",
+                "San Luis Potosí",
+                "Sinaloa",
+                "Sonora",
+                "Tabasco",
+                "Tamaulipas",
+                "Tlaxcala",
+                "Veracruz de Ignacio de la Llave",
+                "Yucatán",
+                "Zacatecas",
+                ""
+              ]
+            },
+            "title": "Entidad federativa"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Grupo de edad",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "De 15 a 24 años",
+                "De 25 a 64 años",
+                "De 65 años y más",
+                ""
+              ]
+            },
+            "title": "Grupo de edad"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Unemployment rate, by sex, age and persons with disabilities"
+    },
+    {
+      "path": "8-n3-1d/data.csv",
+      "name": "8-n3-1d",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Regiones",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Localidad de 15 000 y más habitantes",
+                "Localidad de menos de 15 000 habitantes",
+                "Región Noroeste (Baja California, Baja California Sur, Chihuahua, Durango, Sinaloa, Sonora)",
+                "Región Noreste (Coahuila, Nuevo León, San Luis Potosí, Tamaulipas)",
+                "Región Occidente y Bajío (Aguascalientes, Guanajuato, Jalisco, Michoacán, Nayarit, Querétaro, Zacatecas, Colima)",
+                "Región Ciudad de México (Ciudad de México)",
+                "Región Centro Sur y Oriente (Estado de México, Hidalgo, Morelos, Puebla, Tlaxcala, Veracruz)",
+                "Región Sur (Campeche, Chiapas, Guerrero, Quintana Roo, Tabasco, Yucatán, Oaxaca)",
+                ""
+              ]
+            },
+            "title": "Regiones"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
+      "path": "8-n3-1a/data.csv",
+      "name": "8-n3-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "3-n4-1/data.csv",
       "name": "3-n4-1",
       "profile": "tabular-data-resource",
@@ -7455,6 +8684,49 @@
         ]
       },
       "title": "6.n2.2 Rendimiento de cultivos básicos en zonas con infraestructura de riego"
+    },
+    {
+      "path": "8-6-1c/data.csv",
+      "name": "8-6-1c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Jóvenes de 15 a 24 que no estudian ni trabajan",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Jóvenes de 15 a 24 que nacieron en México",
+                "Jóvenes de 15 a 24 que nacieron en otro país",
+                "Jóvenes de 15 a 24 con cambio de residencia 1 año (interna y externa)",
+                "Jóvenes de 15 a 19 que nacieron en México",
+                "Jóvenes de 15 a 19 que nacieron en otro país",
+                "Jóvenes de 15 a 19 con cambio de residencia 1 año (interna y externa)",
+                "Jóvenes de 20 a 24 que nacieron en México",
+                "Jóvenes de 20 a 24 que nacieron en otro país",
+                "Jóvenes de 20 a 24 con cambio de residencia 1 año (interna y externa)",
+                ""
+              ]
+            },
+            "title": "Jóvenes de 15 a 24 que no estudian ni trabajan"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
     },
     {
       "path": "3-9-2a/data.csv",
@@ -7869,6 +9141,58 @@
       "title": "Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations"
     },
     {
+      "path": "8-6-r-1/data.csv",
+      "name": "8-6-r-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Jóvenes de 15 a 24 años que no estudian, no tienen empleo ni reciben capacitación",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "De 15 años y más",
+                "De 15 a 19 años",
+                "De 20 a 24 años",
+                "Urbano",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Jóvenes de 15 a 24 años que no estudian, no tienen empleo ni reciben capacitación"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "6-n1-1/data.csv",
       "name": "6-n1-1",
       "profile": "tabular-data-resource",
@@ -8221,6 +9545,65 @@
         ]
       },
       "title": "Degree of integrated water resources management"
+    },
+    {
+      "path": "8-5-1c/data.csv",
+      "name": "8-5-1c",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Tipo de ocupación",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Directores y gerentes",
+                "Profesionales científicos e intelectuales",
+                "Técnicos y profesionales de nivel medio",
+                "Personal de apoyo administrativo",
+                "Trabajadores de los servicios y vendedores de comercios y mercados",
+                "Agricultores y trabajadores calificados agropecuarios, forestales y pesqueros",
+                "Oficiales, operarios y artesanos de artes mecánicas y de otros oficios",
+                "Operadores de instalaciones y máquinas y ensambladores",
+                "Ocupaciones elementales",
+                "Ocupaciones militares",
+                "No especificado",
+                ""
+              ]
+            },
+            "title": "Tipo de ocupación"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
     },
     {
       "path": "4-4-1/data.csv",
@@ -11422,6 +12805,129 @@
       "title": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources"
     },
     {
+      "path": "8-6-1a/data.csv",
+      "name": "8-6-1a",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Entidad federativa",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estados Unidos Mexicanos",
+                "Aguascalientes",
+                "Baja California",
+                "Baja California Sur",
+                "Campeche",
+                "Coahuila de Zaragoza",
+                "Colima",
+                "Chiapas",
+                "Chihuahua",
+                "Ciudad de México",
+                "Durango",
+                "Guanajuato",
+                "Guerrero",
+                "Hidalgo",
+                "Jalisco",
+                "México",
+                "Michoacán de Ocampo",
+                "Morelos",
+                "Nayarit",
+                "Nuevo León",
+                "Oaxaca",
+                "Puebla",
+                "Querétaro",
+                "Quintana Roo",
+                "San Luis Potosí",
+                "Sinaloa",
+                "Sonora",
+                "Tabasco",
+                "Tamaulipas",
+                "Tlaxcala",
+                "Veracruz de Ignacio de la Llave",
+                "Yucatán",
+                "Zacatecas",
+                ""
+              ]
+            },
+            "title": "Entidad federativa"
+          },
+          {
+            "name": "Jóvenes de 15 a 24 años",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "En áreas más urbanizadas",
+                "En áreas menos urbanizadas",
+                "Con Primaria completa",
+                "Con Primaria incompleta",
+                "Con Secundaria completa",
+                "Con nivel de escolaridad Medio superior y superior",
+                "Con nivel de escolaridad no especificado",
+                ""
+              ]
+            },
+            "title": "Jóvenes de 15 a 24 años"
+          },
+          {
+            "name": "Jóvenes de 15 a 19 años",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "En áreas más urbanizadas",
+                "En áreas menos urbanizadas",
+                "Con Primaria completa",
+                "Con Primaria incompleta",
+                "Con Secundaria completa",
+                "Con nivel de escolaridad Medio superior y superior",
+                "Con nivel de escolaridad no especificado",
+                ""
+              ]
+            },
+            "title": "Jóvenes de 15 a 19 años"
+          },
+          {
+            "name": "Jóvenes de 20 a 24 años",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "En áreas más urbanizadas",
+                "En áreas menos urbanizadas",
+                "Con Primaria completa",
+                "Con Primaria incompleta",
+                "Con Secundaria completa",
+                "Con nivel de escolaridad Medio superior y superior",
+                "Con nivel de escolaridad no especificado",
+                ""
+              ]
+            },
+            "title": "Jóvenes de 20 a 24 años"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": ""
+    },
+    {
       "path": "4-c-1-c/data.csv",
       "name": "4-c-1-c",
       "profile": "tabular-data-resource",
@@ -13990,6 +15496,67 @@
       "title": "Tuberculosis incidence per 100,000 population"
     },
     {
+      "path": "8-2-1/data.csv",
+      "name": "8-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Annual growth rate of real GDP per employed person"
+    },
+    {
+      "path": "8-8-1/data.csv",
+      "name": "8-8-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          },
+          {
+            "name": "Sexo",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                "Hombres",
+                "Mujeres",
+                ""
+              ]
+            },
+            "title": "Sexo"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status"
+    },
+    {
       "path": "5-n1-1/data.csv",
       "name": "5-n1-1",
       "profile": "tabular-data-resource",
@@ -14142,678 +15709,6 @@
         ]
       },
       "title": "1.2.1(2) Proporción de la población que vive por debajo del umbral nacional de la pobreza, desglosada por sexo y edad (2008 - 2014)"
-    },
-    {
-      "path": "8-n2-2/data.csv",
-      "name": "8-n2-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
-      "path": "8-5-1d/data.csv",
-      "name": "8-5-1d",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
-      "path": "8-3-1/data.csv",
-      "name": "8-3-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of informal employment in total employment, by sector and sex"
-    },
-    {
-      "path": "8-8-1/data.csv",
-      "name": "8-8-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Fatal and non-fatal occupational injuries per 100,000 workers, by sex and migrant status"
-    },
-    {
-      "path": "8-9-1/data.csv",
-      "name": "8-9-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Tourism direct GDP as a proportion of total GDP and in growth rate"
-    },
-    {
-      "path": "8-6-r-1/data.csv",
-      "name": "8-6-r-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
-      "path": "8-10-1-a/data.csv",
-      "name": "8-10-1-a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
-      "path": "8-2-1/data.csv",
-      "name": "8-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Annual growth rate of real GDP per employed person"
-    },
-    {
-      "path": "8-n1-1/data.csv",
-      "name": "8-n1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
-      "path": "8-5-2(2)/data.csv",
-      "name": "8-5-2(2)",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
-      "path": "8-n3-1b/data.csv",
-      "name": "8-n3-1b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
-      "path": "8-10-2/data.csv",
-      "name": "8-10-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider"
-    },
-    {
-      "path": "8-n4-1/data.csv",
-      "name": "8-n4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
-      "path": "8-5-2/data.csv",
-      "name": "8-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Unemployment rate, by sex, age and persons with disabilities"
-    },
-    {
-      "path": "8-5-1c/data.csv",
-      "name": "8-5-1c",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
-      "path": "8-6-1a/data.csv",
-      "name": "8-6-1a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
-      "path": "8-7-1/data.csv",
-      "name": "8-7-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion and number of children aged 5–17 years engaged in child labour, by sex and age"
-    },
-    {
-      "path": "8-5-1a/data.csv",
-      "name": "8-5-1a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
-      "path": "8-n3-1a/data.csv",
-      "name": "8-n3-1a",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
-      "path": "8-n3-1c/data.csv",
-      "name": "8-n3-1c",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
-      "path": "8-1-1/data.csv",
-      "name": "8-1-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Annual growth rate of real GDP per capita"
-    },
-    {
-      "path": "8-5-1b/data.csv",
-      "name": "8-5-1b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
-      "path": "8-6-1b/data.csv",
-      "name": "8-6-1b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
-      "path": "8-6-1c/data.csv",
-      "name": "8-6-1c",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
-      "path": "8-n3-1d/data.csv",
-      "name": "8-n3-1d",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
-      "path": "8-3-1(2)/data.csv",
-      "name": "8-3-1(2)",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
-      "path": "8-10-1-b/data.csv",
-      "name": "8-10-1-b",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
-    },
-    {
-      "path": "8-2-1(2)/data.csv",
-      "name": "8-2-1(2)",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": ""
     },
     {
       "path": "1-2-1/data.csv",
