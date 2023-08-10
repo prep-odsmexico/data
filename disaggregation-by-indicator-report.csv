@@ -105,3 +105,7 @@ Indicator,Disaggregations,Number of disaggregations
 #8-n3-1b,Edades (18 a 70 años),1
 #8-n3-1c,Escolaridad y sin escolaridad,1
 #8-n3-1d,Regiones,1
+#9-1-1,"Entidad federativa, Municipio",2
+#9-2-2,Sexo,1
+#9-2-2(2),Sexo,1
+#9-n3-1,Entidad federativa,1
