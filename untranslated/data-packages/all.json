@@ -7205,7 +7205,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "11.2.r.1a Tiempo promedio (en minutos) de traslado al trabajo, desglosado por sexo"
     },
     {
       "path": "11-6-1-a/data.csv",
@@ -7227,7 +7227,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "11.6.1.a Porcentaje de residuos sólidos urbanos recolectados con disposición final adecuada"
     },
     {
       "path": "4-a-1-e/data.csv",
@@ -7586,7 +7586,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "11.n2.1 Superficie de áreas verdes urbanas per cápita"
     },
     {
       "path": "8-n3-1c/data.csv",
@@ -14926,7 +14926,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "11.n1.1 Porcentaje de viviendas en rezago habitacional"
     },
     {
       "path": "8-n4-1/data.csv",
@@ -15232,7 +15232,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "11.2.r.1d Tiempo promedio (en minutos) de traslado al trabajo, desglosado por grupo de edad"
     },
     {
       "path": "11-2-r-1b/data.csv",
@@ -15266,7 +15266,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "11.2.r.1b Tiempo promedio (en minutos) de traslado al trabajo, desglosado por hablantes de lengua indígena"
     },
     {
       "path": "5-n3-1/data.csv",
@@ -17210,7 +17210,7 @@
           }
         ]
       },
-      "title": ""
+      "title": "11.2.r.1c Tiempo promedio (en minutos) de traslado al trabajo, desagregado por tamaño de localidad"
     },
     {
       "path": "1-n1-1/data.csv",
