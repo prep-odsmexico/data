@@ -31,6 +31,43 @@ Indicator,Disaggregations,Number of disaggregations
 #11-n2-1,Entidad federativa,1
 #13-3-r-1,Sector de Emisión,1
 #15-5-1,Grupo taxonómico,1
+#16-1-1,"Entidad federativa, Sexo, Grupo de edad",3
+#16-1-3-a,"Entidad federativa, Sexo",2
+#16-1-3-b,"Entidad federativa, Sexo",2
+#16-1-3-c,Sexo,1
+#16-1-4,"Entidad federativa, Sexo",2
+#16-3-1,Sexo,1
+#16-3-1-a,Sexo,1
+#16-3-1-b,Sexo,1
+#16-3-1-c,Sexo,1
+#16-3-2,Sexo,1
+#16-3-r-b,"Entidad federativa, Ocupación carcelaria estatal",2
+#16-5-1,"Entidad federativa, Sexo",2
+#16-6-2-a,"Entidad federativa, Sexo",2
+#16-6-2-b,"Entidad federativa, Sexo",2
+#16-7-1b,"Entidad federativa, Sexo, Sexo_ Proporción plazas públicas",3
+#16-7-1c,"Entidad federativa, Sexo, Grupos de edad en plazas del Poder judicial",3
+#16-7-2,"Sexo, Grupos de edad",2
+#16-9-1a,"Sexo, Hijos sobrevivientes menores de 5",2
+#16-9-1b,"Entidad federativa, Hijos sobrevivientes menores de 5",2
+#16-b-1,"Discriminación total, Discriminación por sexo, Discriminación por edad, Discriminación por religión, Discriminación por estatus socioeconómico, Discriminación por lugar de residencia, Discriminación por otros motivos*",7
+#16-n1-1,"Entidad federativa, Sexo",2
+#16-n1-2,"Entidad federativa, Unidades económicas víctimas",2
+#16-n2-1,"Entidad federativa, Sexo",2
+#16-n2-2,"Entidad federativa, Sexo",2
+#16-n2-3,"Entidad federativa, Sexo",2
+#16-n2-4,"Entidad federativa, Sexo",2
+#16-n3-1-a,"Entidad federativa, Sexo",2
+#16-n3-1-b,"Entidad federativa, Sexo",2
+#16-n3-1-c,"Entidad federativa, Sexo",2
+#16-n3-1-d,"Entidad federativa, Sexo",2
+#16-n3-1-e,"Entidad federativa, Sexo",2
+#16-n3-1-f,"Entidad federativa, Sexo",2
+#16-n3-2,"Entidad federativa, Sexo, Áreas metropolitanas autorrepresentadas",3
+#17-1-1,Ingresos con respecto al PIB,1
+#17-6-1,Suscripciones de banda ancha fija,1
+#17-8-1,"Entidad federativa, Municipio",2
+#17-8-1-a,Uso de internet,1
 #2-1-2,"Sexo, Grupo de edad",2
 #2-1-2-a,"Entidad federativa, Municipio",2
 #2-2-1,"Entidad federativa, Cobertura geografica",2
