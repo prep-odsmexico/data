@@ -93,13 +93,13 @@ data_show_map:
 data_start_values:
   []
 embedded_feature_footer:
-  ''
+  Información 
 embedded_feature_html:
-  ''
+  <div> <div> Texto</div> <div><a href="#">Enlace</div></div>
 embedded_feature_tab_title:
-  ''
+  Otra información
 embedded_feature_title:
-  ''
+  Título
 embedded_feature_url:
   ''
 expected_disaggregations:
