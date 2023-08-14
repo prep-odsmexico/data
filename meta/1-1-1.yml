@@ -102,7 +102,7 @@ embedded_feature_tab_title:
 embedded_feature_title:
   ''
 embedded_feature_url:
-  https://www.google.com.mx/
+  https://www.google.com.mx
 expected_disaggregations:
   []
 graph_annotations:
