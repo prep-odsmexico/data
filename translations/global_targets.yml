@@ -32,6 +32,7 @@
 10-n1-title: Lograr un crecimiento económico incluyente, con énfasis en las poblaciones vulnerables. Crecimiento económico de los más pobres
 10-n2-title: Adoptar políticas, especialmente fiscales, salariales y de protección social, y lograr progresivamente una mayor igualdad de ingresos y de oportunidades
 10-n3-title: Eliminar la negación de derechos por motivos de orientación sexual
+10-n4-title: Promover la migración ordenada, segura y regular
 11-1-title: De aquí a 2030, asegurar el acceso de todas las personas a viviendas
   y servicios básicos adecuados, seguros y asequibles y mejorar los barrios marginales
 11-2-title: De aquí a 2030, proporcionar acceso a sistemas de transporte seguros,
@@ -64,11 +65,14 @@
   sostenible, a fin de lograr un turismo sostenible que cree puestos de trabajo y
   promueva la cultura y los productos locales
 12-n1-title: Impulsar la Economía circular, en las cadenas productivas y de consumo, entendida como el rediseño de productos y servicios para disminuir desechos al final de la vida útil de los mismos y desde una perspectiva de valor compartido
+12-n2-title: Promover el aprovechamiento sustentable de los recursos naturales 
 13-1-title: Fortalecer la resiliencia y la capacidad de adaptación a los riesgos
   relacionados con el clima y los desastres naturales en todos los países
 13-3-title: Mejorar la educación, la sensibilización y la capacidad humana e institucional
   respecto de la mitigación del cambio climático, la adaptación a él, la reducción
   de sus efectos y la alerta temprana
+13-n1-title: Promover acciones de resiliencia y adaptación a riesgos relacionados con el clima y desastres naturales. Incrementar las capacidades de los municipios para mitigar las condiciones de exposición y vulnerabilidad a los fenómenos extremos relacionados con el clima
+13-n2-title: Reducción de Gases de Efecto Invernadero (GEI), fomentando la reducción de emisiones en los sectores productivos
 14-2-title: De aquí a 2020, gestionar y proteger sosteniblemente los ecosistemas
   marinos y costeros para evitar efectos adversos importantes, incluso fortaleciendo
   su resiliencia, y adoptar medidas para restaurarlos a fin de restablecer la salud
@@ -82,6 +86,7 @@
   a fin de mejorar la salud de los océanos y potenciar la contribución de la biodiversidad
   marina al desarrollo de los países en desarrollo, en particular los pequeños Estados
   insulares en desarrollo y los países menos adelantados
+14-n1-title: Promoción de refugios pesqueros y las áreas de no pesca para restaurar las pesquerías
 15-1-title: De aquí a 2020, asegurar la conservación, el restablecimiento y el uso
   sostenible de los ecosistemas terrestres y los ecosistemas interiores de agua dulce
   y sus servicios, en particular los bosques, los humedales, las montañas y las zonas
@@ -92,6 +97,7 @@
 15-5-title: Adoptar medidas urgentes y significativas para reducir la degradación
   de los hábitats naturales, detener la pérdida de biodiversidad y, de aquí a 2020,
   proteger las especies amenazadas y evitar su extinción
+15-n1-title: Reducir la pérdida y degradación de los hábitats naturales, promover su recuperación y proteger las especies en alguna categoría de riesgo para evitar su extinción
 15-n2-title: Gestión sostenible de los recursos naturales y la distribución equitativa de los beneficios derivados de éstos considerando el patrimonio biocultural de las comunidades
 16-1-title: Reducir significativamente todas las formas de violencia y las correspondientes
   tasas de mortalidad en todo el mundo
@@ -135,6 +141,7 @@
   instrumentales, en particular la tecnología de la información y las comunicaciones
 17-n1-title: Consolidar una política tributaria efectiva
 17-n2-title: Creación y fortalecimiento de capacidades eficaces y específicas para la implementación de la Agenda 2030
+17-n3-title: Mejorar la coherencia de las políticas para el desarrollo sostenible
 17-n4-title: Coherencia de las políticas para el desarrollo sostenible en el sector cultura
 2-1-title: De aquí a 2030, poner fin al hambre y asegurar el acceso de todas las
   personas, en particular los pobres y las personas en situaciones de vulnerabilidad,
@@ -145,8 +152,10 @@
   retraso del crecimiento y la emaciación de los niños menores de 5 años, y abordar
   las necesidades de nutrición de las adolescentes, las mujeres embarazadas y lactantes
   y las personas de edad
+2-4-title: De aquí a 2030, asegurar la sostenibilidad de los sistemas de producción de alimentos y aplicar prácticas agrícolas resilientes que aumenten la productividad y la producción, contribuyan al mantenimiento de los ecosistemas, fortalezcan la capacidad de adaptación al cambio climático, los fenómenos meteorológicos extremos, las sequías, las inundaciones y otros desastres, y mejoren progresivamente la calidad de la tierra y el suelo
 2-n1-title: Acceso a una alimentación nutritiva y de calidad
 2-n2-title: Seguridad alimentaria
+2-n3-title: Fomentar la productividad sostenible agropecuaria y acuícola pesquera para contribuir a la autosuficiencia alimentaria
 3-1-title: De aquí a 2030, reducir la tasa mundial de mortalidad materna a menos
   de 70 por cada 100.000 nacidos vivos
 3-2-title: De aquí a 2030, poner fin a las muertes evitables de recién nacidos y
@@ -171,6 +180,7 @@
   los países en desarrollo, especialmente en los países menos adelantados y los
   pequeños Estados insulares en desarrollo
 3-n1-title: Lograr la cobertura universal de salud
+3-n2-title: Reconocer la relevancia de la salud mental para el bienestar de las personas
 3-n3-title: Garantizar el acceso universal efectivo a servicios de salud sexual y reproductiva, con énfasis en la prevención del embarazo adolescente e infantil
 3-n4-title: Fomentar la cultura preventiva, de atención temprana y hábitos saludables para enfermedades no transmisibles, con énfasis en la prevención de la obesidad adulta e infantil
 4-1-title: De aquí a 2030, asegurar que todas las niñas y todos los niños terminen
@@ -310,3 +320,5 @@
   propicio a la diversificación industrial y la adición de valor a los productos
   básicos, entre otras cosas
 9-n3-title: Porcentaje del Personal Ocupado generado por las MIPyMEs (comprende asalariados, no asalariados y empleos suministrados por otra razón social)
+9-n1-title: Fomento a la inversión en infraestructura sostenible, resiliente y de calidad, acceso asequible y equitativo para apoyar el desarrollo económico y el bienestar
+9-n2-title: Fomento del desarrollo tecnológico, investigación e innovación para la industria, con énfasis en el uso por MIPyMEs
