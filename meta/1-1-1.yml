@@ -98,11 +98,11 @@ embedded_feature_footer:
 embedded_feature_html:
   ''
 embedded_feature_tab_title:
-  ''
+  Otra información
 embedded_feature_title:
   ''
 embedded_feature_url:
-  https://agenda2030.mx/index.html?lang=es#/home
+  <div style="overflow:scroll">https://www.google.com.mx/</div>
 expected_disaggregations:
   []
 graph_annotations:
