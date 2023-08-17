@@ -87,8 +87,8 @@ translations:
   #- class: TranslationInputYaml
   #  source: translations
   #  tag: 2.2.0
-  - class: TranslationInputSdgTranslations
-    source: translations
+  - class: TranslationInputYaml
+    source: https://github.com/prep-odsmexico/translations.git
     tag: 2.2.0
  
 # Schema file
