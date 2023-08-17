@@ -87,10 +87,6 @@ translations:
   - class: TranslationInputYaml
     source: translations
     tag: 2.2.0
-  #- class: TranslationInputYaml
-  #  source: https://github.com/prep-odsmexico/translations.git
-   # tag: 2.2.0
- 
 # Schema file
 # -----------
 # This identifies a file containing the schema (possible fields) for metadata.
