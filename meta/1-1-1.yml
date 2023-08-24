@@ -96,13 +96,13 @@ data_start_values:
 embedded_feature_footer:
   ''
 embedded_feature_html:
-  ''
+  <iframe width="1110" height="700" title="Ejemplo" src="https://www.arcgis.com/apps/MapSeries/index.html?appid=6d77e77abbbe47ca871eaa9b0162cd34" frameborder="0" allowFullScreen="true" scrolling="yes"></iframe>
 embedded_feature_tab_title:
-  Otra información
+  Título pestaña
 embedded_feature_title:
   ''
 embedded_feature_url:
-  https://agenda2030.mx/index.html?lang=es#/home
+  ''
 expected_disaggregations:
   []
 graph_annotations:
