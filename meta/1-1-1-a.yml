@@ -95,7 +95,7 @@ data_start_values:
 embedded_feature_footer:
   Información 
 embedded_feature_html:
-  <iframe width="1110" height="700" title="Ejemplo" src="https://agenda2030.mx/index.html?lang=es#/home" frameborder="0" allowFullScreen="true" scrolling="yes"></iframe>
+  <iframe width="1110" height="700" title="Ejemplo" src="https://www.inegi.org.mx/temas/estructura/#informacion_general" frameborder="0" allowFullScreen="true" scrolling="yes"></iframe>
 embedded_feature_tab_title:
   Otra información
 embedded_feature_title:
