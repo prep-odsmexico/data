@@ -789,21 +789,6 @@
             }
           },
           {
-            "name": "Población con acceso al agua entubada y al saneamiento",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Total",
-                "Hombres",
-                "Mujeres",
-                "Hablantes de lengua indígena",
-                "Población con alguna discapacidad",
-                "Cambio de residencia",
-                ""
-              ]
-            }
-          },
-          {
             "name": "GeoCode",
             "type": "string"
           },
