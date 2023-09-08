@@ -1,101 +1,101 @@
-﻿Year,Entidad federativa,GeoCode,Value
-2020,Estados Unidos Mexicanos,0,58.49836719
-2018,Estados Unidos Mexicanos,0,57.61100353
-2016,Estados Unidos Mexicanos,0,58.81560041
-2020,Aguascalientes,1,81.34266855
-2018,Aguascalientes,1,85.04235616
-2016,Aguascalientes,1,86.90850717
-2020,Baja California,2,84.00482789
-2018,Baja California,2,81.53880193
-2016,Baja California,2,83.3341057
-2020,Baja California Sur,3,18.77324821
-2018,Baja California Sur,3,21.08173513
-2016,Baja California Sur,3,25.97867774
-2020,Campeche,4,67.4986171
-2018,Campeche,4,63.13014741
-2016,Campeche,4,68.93480081
-2020,Coahuila de Zaragoza,5,75.60910832
-2018,Coahuila de Zaragoza,5,73.313556
-2016,Coahuila de Zaragoza,5,70.20340449
-2020,Colima,6,83.59228734
-2018,Colima,6,82.92191917
-2016,Colima,6,87.40200263
-2020,Chiapas,7,29.29342879
-2018,Chiapas,7,30.94459888
-2016,Chiapas,7,24.73641129
-2020,Chihuahua,8,85.34065743
-2018,Chihuahua,8,88.02400918
-2016,Chihuahua,8,86.4662731
-2020,Ciudad de México,9,70.24632699
-2018,Ciudad de México,9,65.84908085
-2016,Ciudad de México,9,69.2910372
-2020,Durango,10,78.74415466
-2018,Durango,10,77.69831745
-2016,Durango,10,77.40345116
-2020,Guanajuato,11,71.17881163
-2018,Guanajuato,11,69.02683368
-2016,Guanajuato,11,68.2169378
-2020,Guerrero,12,13.72682027
-2018,Guerrero,12,9.885613874
-2016,Guerrero,12,14.91136081
-2020,Hidalgo,13,46.93701478
-2018,Hidalgo,13,39.22625966
-2016,Hidalgo,13,38.53241674
-2020,Jalisco,14,79.25833256
-2018,Jalisco,14,79.11679026
-2016,Jalisco,14,82.10887356
-2020,México,15,48.28462265
-2018,México,15,46.32344493
-2016,México,15,48.62114192
-2020,Michoacán de Ocampo,16,46.98947282
-2018,Michoacán de Ocampo,16,50.26103051
-2016,Michoacán de Ocampo,16,46.72205806
-2020,Morelos,17,26.12059372
-2018,Morelos,17,22.56215016
-2016,Morelos,17,26.77923706
-2020,Nayarit,18,52.7936168
-2018,Nayarit,18,45.48406419
-2016,Nayarit,18,47.18018407
-2020,Nayarit,18,53.83006016
-2020,Nuevo León,19,93.62309685
-2018,Nuevo León,19,94.52403791
-2016,Nuevo León,19,93.80543621
-2020,Oaxaca,20,25.45394731
-2018,Oaxaca,20,22.41495518
-2016,Oaxaca,20,18.63378779
-2020,Puebla,21,22.3888648
-2018,Puebla,21,22.75727958
-2016,Puebla,21,29.57212009
-2020,Querétaro,22,74.39107675
-2018,Querétaro,22,69.67173134
-2016,Querétaro,22,73.26253004
-2020,Quintana Roo,23,85.92839097
-2018,Quintana Roo,23,83.55633213
-2016,Quintana Roo,23,84.43291301
-2020,San Luis Potosí,24,44.13853421
-2018,San Luis Potosí,24,43.17615707
-2016,San Luis Potosí,24,54.48113216
-2020,Sinaloa,25,86.30405468
-2018,Sinaloa,25,83.67863866
-2016,Sinaloa,25,83.84914745
-2020,Sonora,26,80.24284662
-2018,Sonora,26,81.27940344
-2016,Sonora,26,83.84338874
-2020,Tabasco,27,59.26925503
-2018,Tabasco,27,64.45513175
-2016,Tabasco,27,61.84075091
-2020,Tamaulipas,28,82.25908624
-2018,Tamaulipas,28,83.4655969
-2016,Tamaulipas,28,82.82018338
-2020,Tlaxcala,29,41.7013321
-2018,Tlaxcala,29,40.71393312
-2016,Tlaxcala,29,38.89592252
-2020,Veracruz de Ignacio de la Llave,30,41.68175245
-2018,Veracruz de Ignacio de la Llave,30,45.60566078
-2016,Veracruz de Ignacio de la Llave,30,47.83750915
-2020,Yucatán,31,85.25826885
-2018,Yucatán,31,84.2768624
-2016,Yucatán,31,82.638114
-2020,Zacatecas,32,37.05210827
-2018,Zacatecas,32,36.9907167
-2016,Zacatecas,32,41.4638827
+﻿Year,Entidad federativa,Población con acceso al agua entubada y al saneamiento,GeoCode,Value
+2020,Estados Unidos Mexicanos,Total,0,58.49836719
+2018,Estados Unidos Mexicanos,Total,0,57.61100353
+2016,Estados Unidos Mexicanos,Total,0,58.81560041
+2020,Aguascalientes,Total,1,81.34266855
+2018,Aguascalientes,Total,1,85.04235616
+2016,Aguascalientes,Total,1,86.90850717
+2020,Baja California,Total,2,84.00482789
+2018,Baja California,Total,2,81.53880193
+2016,Baja California,Total,2,83.3341057
+2020,Baja California Sur,Total,3,18.77324821
+2018,Baja California Sur,Total,3,21.08173513
+2016,Baja California Sur,Total,3,25.97867774
+2020,Campeche,Total,4,67.4986171
+2018,Campeche,Total,4,63.13014741
+2016,Campeche,Total,4,68.93480081
+2020,Coahuila de Zaragoza,Total,5,75.60910832
+2018,Coahuila de Zaragoza,Total,5,73.313556
+2016,Coahuila de Zaragoza,Total,5,70.20340449
+2020,Colima,Total,6,83.59228734
+2018,Colima,Total,6,82.92191917
+2016,Colima,Total,6,87.40200263
+2020,Chiapas,Total,7,29.29342879
+2018,Chiapas,Total,7,30.94459888
+2016,Chiapas,Total,7,24.73641129
+2020,Chihuahua,Total,8,85.34065743
+2018,Chihuahua,Total,8,88.02400918
+2016,Chihuahua,Total,8,86.4662731
+2020,Ciudad de México,Total,9,70.24632699
+2018,Ciudad de México,Total,9,65.84908085
+2016,Ciudad de México,Total,9,69.2910372
+2020,Durango,Total,10,78.74415466
+2018,Durango,Total,10,77.69831745
+2016,Durango,Total,10,77.40345116
+2020,Guanajuato,Total,11,71.17881163
+2018,Guanajuato,Total,11,69.02683368
+2016,Guanajuato,Total,11,68.2169378
+2020,Guerrero,Total,12,13.72682027
+2018,Guerrero,Total,12,9.885613874
+2016,Guerrero,Total,12,14.91136081
+2020,Hidalgo,Total,13,46.93701478
+2018,Hidalgo,Total,13,39.22625966
+2016,Hidalgo,Total,13,38.53241674
+2020,Jalisco,Total,14,79.25833256
+2018,Jalisco,Total,14,79.11679026
+2016,Jalisco,Total,14,82.10887356
+2020,México,Total,15,48.28462265
+2018,México,Total,15,46.32344493
+2016,México,Total,15,48.62114192
+2020,Michoacán de Ocampo,Total,16,46.98947282
+2018,Michoacán de Ocampo,Total,16,50.26103051
+2016,Michoacán de Ocampo,Total,16,46.72205806
+2020,Morelos,Total,17,26.12059372
+2018,Morelos,Total,17,22.56215016
+2016,Morelos,Total,17,26.77923706
+2020,Nayarit,Total,18,52.7936168
+2018,Nayarit,Total,18,45.48406419
+2016,Nayarit,Total,18,47.18018407
+2020,Nayarit,Total,18,53.83006016
+2020,Nuevo León,Total,19,93.62309685
+2018,Nuevo León,Total,19,94.52403791
+2016,Nuevo León,Total,19,93.80543621
+2020,Oaxaca,Total,20,25.45394731
+2018,Oaxaca,Total,20,22.41495518
+2016,Oaxaca,Total,20,18.63378779
+2020,Puebla,Total,21,22.3888648
+2018,Puebla,Total,21,22.75727958
+2016,Puebla,Total,21,29.57212009
+2020,Querétaro,Total,22,74.39107675
+2018,Querétaro,Total,22,69.67173134
+2016,Querétaro,Total,22,73.26253004
+2020,Quintana Roo,Total,23,85.92839097
+2018,Quintana Roo,Total,23,83.55633213
+2016,Quintana Roo,Total,23,84.43291301
+2020,San Luis Potosí,Total,24,44.13853421
+2018,San Luis Potosí,Total,24,43.17615707
+2016,San Luis Potosí,Total,24,54.48113216
+2020,Sinaloa,Total,25,86.30405468
+2018,Sinaloa,Total,25,83.67863866
+2016,Sinaloa,Total,25,83.84914745
+2020,Sonora,Total,26,80.24284662
+2018,Sonora,Total,26,81.27940344
+2016,Sonora,Total,26,83.84338874
+2020,Tabasco,Total,27,59.26925503
+2018,Tabasco,Total,27,64.45513175
+2016,Tabasco,Total,27,61.84075091
+2020,Tamaulipas,Total,28,82.25908624
+2018,Tamaulipas,Total,28,83.4655969
+2016,Tamaulipas,Total,28,82.82018338
+2020,Tlaxcala,Total,29,41.7013321
+2018,Tlaxcala,Total,29,40.71393312
+2016,Tlaxcala,Total,29,38.89592252
+2020,Veracruz de Ignacio de la Llave,Total,30,41.68175245
+2018,Veracruz de Ignacio de la Llave,Total,30,45.60566078
+2016,Veracruz de Ignacio de la Llave,Total,30,47.83750915
+2020,Yucatán,Total,31,85.25826885
+2018,Yucatán,Total,31,84.2768624
+2016,Yucatán,Total,31,82.638114
+2020,Zacatecas,Total,32,37.05210827
+2018,Zacatecas,Total,32,36.9907167
+2016,Zacatecas,Total,32,41.4638827
