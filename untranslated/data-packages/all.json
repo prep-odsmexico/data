@@ -789,6 +789,16 @@
             }
           },
           {
+            "name": "Población con acceso al agua entubada y al saneamiento",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            }
+          },
+          {
             "name": "GeoCode",
             "type": "string"
           },

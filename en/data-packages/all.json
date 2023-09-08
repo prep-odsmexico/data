@@ -841,6 +841,17 @@
             "title": "Entidad federativa"
           },
           {
+            "name": "Población con acceso al agua entubada y al saneamiento",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total",
+                ""
+              ]
+            },
+            "title": "Población con acceso al agua entubada y al saneamiento"
+          },
+          {
             "name": "GeoCode",
             "type": "string",
             "title": "GeoCode"
