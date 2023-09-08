@@ -794,6 +794,8 @@
             "constraints": {
               "enum": [
                 "Total",
+                "Hombres",
+                "Mujeres",
                 ""
               ]
             }
