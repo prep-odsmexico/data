@@ -793,12 +793,12 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Total",
+                "Cambio de residencia",
+                "Hablantes de lengua indígena",
                 "Hombres",
                 "Mujeres",
-                "Hablantes de lengua indígena",
                 "Población con alguna discapacidad",
-                "Cambio de residencia",
+                "Total",
                 ""
               ]
             }
